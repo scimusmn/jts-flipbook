@@ -1,4 +1,3 @@
-jts-flipbook
-============
+# Journey to Space - Digital Flip Book
 
-Journey to Space digital flip book
+Upcoming media component for the Journey to Space exhibit.
