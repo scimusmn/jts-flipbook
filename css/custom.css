@@ -5,6 +5,9 @@
 }
 
 body {
+  height:100;
+  margin: 0;
+  padding: 0 0;
   font-family: "Aller_Rg",Helvetica,Arial,sans-serif;
   color: #333333;
   -webkit-touch-callout: none;
@@ -51,7 +54,7 @@ h1 {
 	bottom: 0px;
 	left: 50px;
 	z-index: 10;
-	padding-top: 350px;
+	padding-top: 325px;
 	padding-bottom: 0px;
 	color: #efefef;
 	text-align: left-bottom;
@@ -62,9 +65,9 @@ h1 {
 
 .carousel-caption-title {
 	position: absolute;
-	right: 0px;
+	left: 250px;
+  right: 0px;
 	top: 200px;
-	left: 25%;
 	z-index: 10;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -95,7 +98,7 @@ h1 {
 	position: absolute;
 	bottom: 0px;
 	left: 30px;
-	font-size: 18px;
+	font-size: 23px;
 	text-align: left;
 	color:#adadad;
 	
@@ -146,6 +149,16 @@ h1 {
   background-color: #000000;
 }
 
+
+
+#carousel-example-generic {
+  overflow: hidden;
+  width:100%;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translate3d(0,0,0) scale3d(1,1,1);
+  -webkit-transform-style: preserve-3d;
+        }
+}
 
 
 
