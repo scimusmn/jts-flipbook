@@ -148,6 +148,7 @@ h1 {
   -webkit-backface-visibility: hidden;
   -webkit-transform: translate3d(0,0,0) scale3d(1,1,1);
   -webkit-transform-style: preserve-3d;
+  z-index: 100;
 }
 
 .carousel-control {
@@ -184,32 +185,9 @@ h1 {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
 }
 
-.carousel-control:hover,
-.carousel-control:focus {
-  color: #ffffff;
-  text-decoration: none;
-  opacity: 0.9;
-  filter: alpha(opacity=90);
-}
 
-.carousel-control .icon-prev,
-.carousel-control .icon-next,
-.carousel-control .glyphicon-chevron-left,
-.carousel-control .glyphicon-chevron-right {
+#screensaver-video {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 5;
-  display: inline-block;
+  left: 0;
+  z-index: 1000;
 }
-
-.carousel-control .icon-prev,
-.carousel-control .icon-next {
-  width: 20px;
-  height: 20px;
-  margin-top: -10px;
-  margin-left: -10px;
-  font-family: serif;
-}
-
-

@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JTS template</title>
     <link href = "css/bootstrap.min.css" rel="stylesheet">
+    <link href = "js/video-js/video-js.css" rel="stylesheet">
     <link href = "css/custom.css" rel="stylesheet">
+    <link href ="css/vjs-jts-skin.css" rel="stylesheet">
   </head>
   <body>
     <!--javascript --> 
@@ -17,7 +19,17 @@
     <!--used with ui mobile touch elements and touch punch, didn't work well on surface -->	
     <script src ="js/jquery-ui-1.10.4.custom.min.js"></script>
     <script src ="js/jquery.ui.touch-punch.min.js"></script>
-	
+    <script scr ="js/video-js/video.js"></script>
+  
+<!-- adding video for screensaver-->
+    <video id="screensaver-video" class="video-js vjs-jts-skin" autoplay loop preload="none" width="1920" height="1080" data-setup="{}">
+      <source src="http://video-js.zencoder.com/oceans-clip.mp4" type='video/mp4' />
+      <source src="http://video-js.zencoder.com/oceans-clip.webm" type='video/webm' />
+      <source src="http://video-js.zencoder.com/oceans-clip.ogv" type='video/ogg' />
+      <track kind="captions" src="demo.captions.vtt" srclang="en" label="English"></track><!-- Tracks need an ending tag thanks to IE9 -->
+      <track kind="subtitles" src="demo.captions.vtt" srclang="en" label="English"></track><!-- Tracks need an ending tag thanks to IE9 -->
+    </video>
+
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
 
     	<nav class="navbar navbar-default navbar-fixed-bottom navbar-inverse" role="navigation">
@@ -139,11 +151,21 @@
         $("#carousel-example-generic").swiperight(function() {  
           $("#carousel-example-generic").carousel('prev');  
         });
+        
         $("#carousel-example-generic").swipeleft(function() {
           $("#carousel-example-generic").carousel('next');  
         });  
-      });  
+         
+     
+        $('body').mousemove(function (e) {
+        $("#screensaver-video").hide();
+          console.log('stop the video here!');
+        });
+      });
+
     </script>  
+    <!-- add listener to see if screen is touched, if it is "screensaver-video"  -->
+
 
     <!-- use with hammer.js  but doesn't really work well 
     <script>
