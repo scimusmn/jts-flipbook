@@ -1,0 +1,200 @@
+<!doctype html>
+<html> 
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JTS Eating in Space</title>
+    <link href = "css/bootstrap.min.css" rel="stylesheet">
+    <link href = "js/video-js/video-js.css" rel="stylesheet">
+    <link href = "css/custom.css" rel="stylesheet">
+    <link href ="css/vjs-jts-skin.css" rel="stylesheet">
+  </head>
+  <body>
+    <!--javascript --> 
+    <script src ="js/jquery-1.11.0.js"></script>
+    <script src ="js/bootstrap.min.js"></script>
+    <!--hammer.js uncomment to use
+  	<script src ="js/hammer.js"></script>  --> 
+    <script src ="js/jquery.mobile.custom.min.js"></script>
+    <!--used with ui mobile touch elements and touch punch, didn't work well on surface -->	
+    <script src ="js/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src ="js/jquery.ui.touch-punch.min.js"></script>
+    <script scr ="js/video-js/video.js"></script>
+  
+<!-- adding video for screensaver-->
+    <video id="screensaver-video" class="video-js vjs-jts-skin" autoplay loop preload="none" width="1920" height="1080" data-setup="{}">
+      <source src="videos/FlipbookScreensaver.mp4" type='video/mp4' />
+      <source src="videos/FlipbookScreensaver.webm" type='video/webm' />
+      <source src="videos/FlipbookScreensaver.ogv" type='video/ogg' />
+      <track kind="captions" src="demo.captions.vtt" srclang="en" label="English"></track><!-- Tracks need an ending tag thanks to IE9 -->
+      <track kind="subtitles" src="demo.captions.vtt" srclang="en" label="English"></track><!-- Tracks need an ending tag thanks to IE9 -->
+    </video>
+
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
+
+    	<nav class="navbar navbar-default navbar-fixed-bottom navbar-inverse" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="#">Espa&ntilde;ol</a>
+          </div>
+  	 	
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="8"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="9"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="10"></li>           
+            <li data-target="#carousel-example-generic" data-slide-to="11"></li>
+
+
+          </ol>
+        </div>
+      </nav>
+  
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+    
+        <div class="item active">
+          <img src="img/00.jpg" alt="...">
+          <div class="carousel-caption-title">
+              <h1 class="english-title">Eating in Space</h1>  
+          </div>
+          <div class="title-instruct">
+            <p>Swipe to begin</p>
+          </div>
+        </div>
+    
+       	<div class="item">
+          <img src="img/408-02/01.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p class="english-text">In space, it’s not bad manners to eat on the ceiling if there isn’t room at the table.</p>
+          </div>
+        </div>
+
+      	<div class="item">
+      		<img src="img/408-02/02.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>A lot of the food from the Russian space program comes in cans. These are stuck to the table with Velcro/tape? to keep them from floating away! Astronauts stay put using toe holds under the table</p>
+          </div>
+        </div>
+    
+       	<div class="item">
+          <img src="img/408-02/03.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Many foods are prepared using thick sauces. This helps food stick together, and not float away.</p>
+          </div>
+        </div>
+
+        <div class="item">
+      		<img src="img/408-02/04.jpg" alt="...">
+          <div class="carousel-caption-bottom">
+            <h1 class="english-head">Title to come</h1>
+            <p>In space, Thanksgiving dinner comes in pouches!</p>
+          </div>
+        </div>
+
+       	<div class="item">
+          <img src="img/408-02/05.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Gravy is the one thing missing. You can’t pour gravy in space. It would float away!</p>
+          </div>
+        </div>
+
+     	  <div class="item">
+          <img src="img/408-02/06.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Eating is really different in space. But one thing is the same; people like to do it together.</p>
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/408-02/07.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Astronauts told the food scientists that they really wanted a warm desert. It would make them feel happier. NASA developed a fruit cobbler for them.</p>
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/408-02/08.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>If you think it would be important for astronauts to eat a balanced diet, you’d be right. They need to eat well so they can handle a big workload and stay healthy.</p>
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="img/408-02/09.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Imagine a trip to space lasting several years. You can’t bring all your food with you. What will you eat?</p>
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/408-02/10.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Astronauts are experimenting with growing plants, such as lettuce, on the Space Station. Maybe it will be possible to have kitchen gardens on a spacecraft.</p>
+          </div>
+        </div>
+        <div class="item">
+          <img src="img/408-02/11.jpg" alt="...">
+          <div class="carousel-caption">
+            <h1 class="english-head">Title to come</h1>
+            <p>Maybe humans will colonize other planets. Artists imagine what greenouses on other planets could look like.</p>
+          </div>
+        </div>
+      </div>
+    
+      <!-- Controls -->
+      <a class="carousel-control left" href="#carousel-example-generic" data-slide="prev"></a>
+      <a class="carousel-control right" href="#carousel-example-generic" data-slide="next"></a>
+    </div>
+
+    <!--  use with the jquery mobile gestures, not great on surface  needs some improvement because sometimes it scrolls backwards-->
+    <script> 
+      $(document).ready(function() {  
+        $("#carousel-example-generic").swiperight(function() {  
+          $("#carousel-example-generic").carousel('prev');  
+        });
+        
+        $("#carousel-example-generic").swipeleft(function() {
+          $("#carousel-example-generic").carousel('next');  
+        });  
+         
+     
+        $('body').mousemove(function (e) {
+        $("#screensaver-video").hide();
+          console.log('stop the video here!');
+        });
+      });
+
+    </script>  
+    <!-- add listener to see if screen is touched, if it is "screensaver-video"  -->
+
+
+    <!-- use with hammer.js  but doesn't really work well 
+    <script>
+    $(document).ready(function() {  
+        	$("#carousel-example-generic").hammer().on('swipeleft', function(){
+      			$("#carousel-example-generic").carousel('next'); 
+      		})
+      		$("#carousel-example-generic").hammer().on('swiperight', function(){
+      			$("#carousel-example-generic").carousel('prev'); 
+      		})
+     }); 
+    </script>-->
+  </body>
+</html>
