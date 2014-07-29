@@ -11,23 +11,6 @@ function getRandomInt(min, max) {
 }
 
 /**
- * Setup admin user
- */
-if ( Meteor.users.find().count() === 0 ) {
-    // Create the admin account
-    var adminId = Accounts.createUser({
-        username: 'admin',
-        email: 'admin@example.com',
-        password: 'Password123',
-        profile: {
-            name: 'SMM Admin',
-        }
-    });
-    // Get the admin account object for use in creating dummy posts
-    var admin = Meteor.users.findOne(adminId);
-}
-
-/**
  * Setup default content
  */
 if (Components.find().count() === 0) {
