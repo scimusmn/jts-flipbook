@@ -6,3 +6,5 @@
 standard-app-packages
 autopublish
 insecure
+dimsum
+iron-router
