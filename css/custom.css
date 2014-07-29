@@ -44,7 +44,7 @@ h1 {
 
 .carousel-caption {
 	position: absolute;
-	font-size: 43px;
+	font-size: 47px;
 	right: 0px;
 	top: 0px;
 	left: 50px;
@@ -55,12 +55,12 @@ h1 {
 	text-align: left;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
 	width: 650px;
-  line-height: 130%;
+  line-height: 132%;
 
 }
 .carousel-caption-bottom {
 	position: absolute;
-	font-size: 43px;
+	font-size: 47px;
 	right: 0px;
 	text-align: bottom;
 	top:0px;
@@ -73,7 +73,7 @@ h1 {
 	text-align: left-bottom;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
 	width: 650px;
-  line-height: 130%;
+  line-height: 132%;
 
 }
 
