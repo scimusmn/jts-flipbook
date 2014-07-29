@@ -3,12 +3,20 @@
 	font-family: 'Aller_Rg';
 	src: url('../fonts/aller_rg-webfont.ttf');
 }
+@font-face {
+  font-family: 'Aller_Bd';
+  src: url('../fonts/aller_bd-webfont.ttf');
+}
+@font-face {
+  font-family: 'Aller_Lt';
+  src: url('../fonts/aller_lt-webfont.ttf');
+}
 
 body {
   height:100;
   margin: 0;
   padding: 0 0;
-  font-family: "Aller_Rg",Helvetica,Arial,sans-serif;
+  font-family: "Aller_Lt";
   color: #333333;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -19,44 +27,54 @@ body {
 }
 
 h1 {
-  font-family: "Aller_Rg",Helvetica,Arial,sans-serif;
+  font-family: "Aller_Bd";
   margin: 0;
   padding-top: 25px;
   padding-bottom: 10px;
-  font-size: 45px;
-  width: 800px;
+  font-size: 70px;
+  width: 1920px;
+  color: #cfcfcf;
+}
+.english-title {
+  width:800px;
+}
+.english-head {
+  line-height: 150%;
 }
 
 .carousel-caption {
 	position: absolute;
-	font-size: 30px;
+	font-size: 43px;
 	right: 0px;
 	top: 0px;
 	left: 50px;
 	z-index: 10;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	color: #efefef;
+	color: #cfcfcf;
 	text-align: left;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
-	width: 380px;
+	width: 650px;
+  line-height: 130%;
 
 }
 .carousel-caption-bottom {
 	position: absolute;
-	font-size: 30px;
+	font-size: 43px;
 	right: 0px;
 	text-align: bottom;
 	top:0px;
-	bottom: 0px;
+	bottom: 20px;
 	left: 50px;
 	z-index: 10;
-	padding-top: 650px;
+	padding-top: 500px;
 	padding-bottom: 0px;
-	color: #efefef;
+	color: #cfcfcf;
 	text-align: left-bottom;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
-	width: 380px;
+	width: 650px;
+  line-height: 130%;
+
 }
 
 .carousel-caption-title {
@@ -68,7 +86,7 @@ h1 {
   padding-left: 550px;
 	padding-top: 350px;
 	padding-bottom: 0px;
-	color: #efefef;
+	color: #cfcfcf;
 	text-align: center;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
 	width: 700px;
@@ -76,7 +94,7 @@ h1 {
 
 .title-instruct {
 	position: absolute;
-	font-size: 20px;
+	font-size: 35px;
 	right: 250px;
 	bottom: 50px;
 	left: 30px;
@@ -90,9 +108,9 @@ h1 {
 
 .navbar-brand { 
 	position: absolute;
-	bottom: 0px;
+	bottom: 10px;
 	left: 30px;
-	font-size: 23px;
+	font-size: 32px;
 	text-align: left;
 	color:#adadad;
 	
@@ -112,8 +130,8 @@ h1 {
 
 .carousel-indicators li {
   display: inline-block;
-  width: 8px;
-  height: 8px;
+  width: 13px;
+  height: 13px;
   margin: 1px;
   text-indent: -999px;
   cursor: pointer;
@@ -123,11 +141,15 @@ h1 {
 }
 
 .carousel-indicators .active {
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
   margin: 0;
   background-color: #efefef
   border: 2px solid #efefef;
+}
+
+.navbar {
+  min-height: 60px;
 }
 
 .navbar-inverse {
@@ -137,6 +159,7 @@ h1 {
   background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff000000', endColorstr='#ff000000', GradientType=0);
+
 }
 
 .navbar-inverse .navbar-nav > .active > a {
