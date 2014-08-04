@@ -28,6 +28,13 @@ body {
 
 h1 {
   font-family: "Aller_Bd";
+  position: left;
+  width: 800px;
+  font-size: 72px;
+}
+
+h2 {
+  font-family: "Aller_Bd";
   margin: 0;
   padding-top: 25px;
   padding-bottom: 10px;
@@ -35,14 +42,6 @@ h1 {
   width: 1920px;
   color: #cfcfcf;
 }
-h2 {
-  font-family: "Aller_Bd";
-  position: left;
-  width: 800px;
-  font-size: 72px;
-
-}
-
 .english-head .spanish-head{
   line-height: 150%;
 }
