@@ -21,14 +21,7 @@
     <script src ="js/jquery.ui.touch-punch.min.js"></script>
     <script scr ="js/video-js/video.js"></script>
   
-<!-- adding video for screensaver-->
-    <video id="screensaver-video" class="video-js vjs-jts-skin" autoplay loop preload="none" data-setup="{}">
-      <source src="videos/FlipbookScreensaver.mp4" type='video/mp4' />
-      <source src="videos/FlipbookScreensaver.webm" type='video/webm' />
-      <source src="videos/FlipbookScreensaver.ogv" type='video/ogg' />
-      <track kind="captions" src="demo.captions.vtt" srclang="en" label="English"></track><!-- Tracks need an ending tag thanks to IE9 -->
-      <track kind="subtitles" src="demo.captions.vtt" srclang="en" label="English"></track><!-- Tracks need an ending tag thanks to IE9 -->
-    </video>
+
 
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
 
@@ -181,10 +174,7 @@
         });  
          
      
-        $('body').mousemove(function (e) {
-        $("#screensaver-video").hide();
-          console.log('stop the video here!');
-        });
+       
       });
 
     </script>  
