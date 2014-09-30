@@ -13,7 +13,6 @@
 }
 
 body {
-  height:100;
   margin: 0;
   padding: 0 0;
   font-family: "Aller_Lt";
@@ -24,12 +23,18 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+
+ /* width: 2048px;
+  height: 1536px;*/
+  width: 1024px;
+  height: 768px;
+
 }
 
 h1 {
   font-family: "Aller_Bd";
   position: left;
-  width: 800px;
+  width: 41%;
   font-size: 72px;
 }
 
@@ -39,13 +44,68 @@ h2 {
   padding-top: 25px;
   padding-bottom: 10px;
   font-size: 70px;
-  width: 1920px;
+  width: 100%;
   color: #cfcfcf;
 }
+
+/* Remove default Button styles */
+button{
+  border:0; 
+}
+button:focus{
+  outline:0;
+}
+
+/* Carousel Container */
+.my-gallery.swipeshow {
+  width: 100%;
+  height: 100%;
+  background: #000; /* Color that shows on edge swipe */
+  background: url('../img/slideshow_bg.png');
+}
+
+.my-gallery.swipeshow .slide img {
+  width: 100%;
+  height: 100%;
+}
+
+/* Nav Dots */
+.dots{
+  position: absolute;
+  bottom: 4%;
+  z-index: 9999;
+  width: 100%;
+  text-align: center;
+}
+
+.dots .dot-item{
+
+  height: 13px;
+  width: 13px;
+  
+  margin: 12px;
+  border: 1px solid #efefef;
+  background:  #707070;
+  border-radius: 10px;
+
+}
+
+.dots .dot-item.active{
+
+  height: 15px;
+  width: 15px;
+  
+  margin: 10px;
+  
+  background-color: #efefef;
+  border: 2px solid #efefef;
+
+}
+
+/* Carousel Slides */
 .english-head .spanish-head{
   line-height: 150%;
 }
-
 
 .carousel-caption {
 	position: absolute;
@@ -63,6 +123,7 @@ h2 {
   line-height: 130%;
 
 }
+
 .carousel-caption-bottom {
 	position: absolute;
 	font-size: 47px;
@@ -111,110 +172,7 @@ h2 {
 	
 }
 
-.navbar-brand { 
-	position: absolute;
-	bottom: 10px;
-	left: 30px;
-	font-size: 32px;
-	text-align: left;
-	color:#adadad;
-	
-}
-
-.carousel-indicators {
-  position: absolute;
-  bottom: 5px;
-  left: 50%;
-  z-index: 15;
-  width: 60%;
-  padding-left: 0;
-  margin-left: -30%;
-  text-align: center;
-  list-style: none;
-}
-
-.carousel-indicators li {
-  display: inline-block;
-  width: 13px;
-  height: 13px;
-  margin: 1px;
-  text-indent: -999px;
-  cursor: pointer;
-  border: 1px solid #707070;
-  background:  #707070;
-  border-radius: 10px;
-}
-
-.carousel-indicators .active {
-  width: 15px;
-  height: 15px;
-  margin: 0;
-  background-color: #efefef
-  border: 2px solid #efefef;
-}
-
-.navbar {
-  min-height: 60px;
-}
-
-.navbar-inverse {
-  background-image: -webkit-gradient(linear, left 0%, left 100%, from(#000000), to(#000000));
-  background-image: -webkit-linear-gradient(top, #000000, 0%, #000000, 100%);
-  background-image: -moz-linear-gradient(top, #000000 0%, #000000 100%);
-  background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff000000', endColorstr='#ff000000', GradientType=0);
-
-}
-
-.navbar-inverse .navbar-nav > .active > a {
-  background-color: #000000;
-}
-
-#carousel-example-generic {
-  overflow: hidden;
-  width:100%;
-  -webkit-backface-visibility: hidden;
-  -webkit-transform: translate3d(0,0,0) scale3d(1,1,1);
-  -webkit-transform-style: preserve-3d;
-  z-index: 100;
-}
-
-.carousel-control {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 45%;
-  font-size: 20px;
-  color: #ffffff;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-  opacity: 0.5;
-  filter: alpha(opacity=50);
-}
-
-.carousel-control.left {
-  background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.0001)));
-  background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, 0.5) 0), color-stop(rgba(0, 0, 0, 0.0001) 100%));
-  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
-}
-
-.carousel-control.right {
-  right: 0;
-  left: auto;
-  background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.5)));
-  background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, 0.0001) 0), color-stop(rgba(0, 0, 0, 0.5) 100%));
-  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
-  background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
-}
-
-
+/* Screensaver */
 #screensaver-video {
   position: absolute;
   left: 0;
