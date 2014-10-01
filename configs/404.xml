@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<config>
+
+	<!-- ======== -->
+	<!-- SETTINGS -->
+	<!-- ======== -->
+	<settings>
+		<setting id="example_setting" value="example_value" />
+	</settings>
+
+	<!-- ======== -->
+	<!-- LANGUAGE -->
+	<!-- ======== -->
+	<component id="jts_digi_flipbook">
+
+		<!-- Slides -->
+		<slides>
+
+			<slide id="slide_0" class="title" img="img/404/00.jpg">
+
+				<text id="head">
+					<en>Toileting in space</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>Swipe to begin
+					</en>
+					<es>Lorem ipsum dolor sit amet.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_1" class="" img="img/404/01.jpg" >
+				
+				<text id="head">
+					<en>True pioneers</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>Early spacecraft didn’t have toilets. Instead, astronauts stuck “fecal containment bags” to their behinds and then stored the filled bags for the duration of the mission.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_2" class="" img="img/404/02.jpg" >
+				
+				<text id="head">
+					<en>Keeping it clean</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>Astronauts on Apollo flights would often strip naked before using fecal containment bags. The awkward process could take an hour to complete, but clean clothes and a tidy bag of poop were reward enough.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_3" class="" img="img/404/03.jpg" >
+				
+				<text id="head">
+					<en>Rich history</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>A transcript from Apollo 10 reveals some of the history of going to the bathroom in space. It’s never been easy, but it has apparently always been funny.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_4" class="" img="img/404/04.jpg" >
+				
+				<text id="head">
+					<en>Thank goodness for atmosphere</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>A canister beneath the toilet seat stores poop on the International Space Station. Astronauts jettison full canisters in used supply vehicles. The vehicles—and their contents—burn up in our atmosphere.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_5" class="" img="img/404/05.jpg">
+
+				<text id="head">
+					<en>A bathroom deadeye</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>Pooping into a space toilet requires careful aim. Astronauts use this training toilet on Earth to practice lining up their parts with its parts.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_6" class="bottom" img="img/404/06.jpg">
+
+				<text id="head">
+					<en>The circle of life</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>Equipment on the Space Station recycles astronauts’ urine, turning it back into astronauts’ drinking water.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_7" class="" img="img/404/07.jpg">
+
+				<text id="head">
+					<en>For bathroom emergencies</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>There are no bathroom breaks during spacewalks, so astronauts wear “Maximum Absorption Garments.” But how does the saying go? “A diaper by any other name . . .”
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_8" class="" img="img/404/08.jpg">
+
+				<text id="head">
+					<en>Cross your legs and float</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>In 2009, plumbing problems on the Space Station left a crew of 13 (the largest ever) with only two toilets—one on the Station and one on the visiting Shuttle.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+			<slide id="slide_9" class="bottom" img="img/404/09.jpg">
+
+				<text id="head">
+					<en>We’ll “go” everywhere</en>
+					<es>Lorem Ipsum</es>
+				</text>
+
+				<text id="description">
+					<en>Wherever our journey to space takes us—whether another moon, planet, or asteroid—we’ll have to figure out how to make our bathrooms work.
+					</en>
+					<es>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+					</es>
+				</text>
+
+			</slide>
+
+		</slides>
+
+	</component>
+
+</config>
