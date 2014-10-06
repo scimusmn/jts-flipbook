@@ -17,12 +17,13 @@
     <!-- Javascript --> 
     <script src = "js/jquery-2.1.1.min.js"></script>
     <script src=  "js/jquery.swipeshow.js"></script>
+    <script src=  "js/fastclick.js"></script>
     <script src=  "js/video-js/video.js"></script>
     <script src=  "js/main.js"></script>
 
   </head>
 
-  <!-- Set config path for this FlipBook! :) -->
+  <!-- IMPORTANT: Set config path for this FlipBook! :) -->
   <body data-config="configs/404.xml">
     
     <div class="my-gallery swipeshow" >
@@ -38,15 +39,19 @@
             <p id="description" class="description">Description text here.</p>
           </div>
         </li>
-        
+
       </ul>
+
+      <!-- optional controls: -->
+      <div class="next"></div>
+      <div class="previous"></div>
 
       <!-- Nav Dots -->
       <div class='dots'></div>
 
       <!-- Language Toggle -->
       <div class="language-toggle">
-        <h3>Espa&ntilde;ol</h3>
+        <h3 id="language-text">Español</h3>
       </div>
 
     </div>

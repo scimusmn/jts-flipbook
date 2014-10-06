@@ -1,0 +1,99 @@
+<!doctype html>
+<html> 
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Flipbook Config Tool</title>
+    
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  </head>
+
+  <body>
+    
+    <h1>Flipbook Config Tool</h1>
+    <textarea style='width:70%; height:500px'></textarea>
+    <br/><br/>
+    After: <a href="http://www.freeformatter.com/xml-formatter.html" target="_blank">XML Makeover</a>
+
+  </body>
+
+  <script type="text/javascript">
+
+  $(document).ready(function(){
+
+    /* This a tool that loads an English and Spanish html file and parses into a single configuration XML. */
+
+    // CONFIG TO PARSE +++++++++++++++++
+    //++++++++++++++++++++++++++++++++++
+    var configTarget = 'index404'; 
+    //+++++++++++++++++++++++++++++++++0
+    //++++++++++++++++++++++++++++++++++
+
+    var slides = '<xxx><config><!-- ======== --><!-- SETTINGS --><!-- ======== --><settings><setting id="example_setting" value="example_value" /></settings><!-- ======== --><!-- LANGUAGE --><!-- ======== --><component id="jts_digi_flipbook"><slides></slides></component></config></xxx>';
+
+    var config = $.parseHTML( slides );
+
+    //load html to parse
+    $.get('indices/'+configTarget+'.html').success( function(data) {
+      $.get('indices/'+configTarget+'Spanish.html').success( function(spanishData) {
+
+        $(data).find('.item').each(function(index) {
+
+          var s = $.parseHTML( '<!-- SLIDE '+index+' --><slide></slide>' );
+
+          var id = 'slide_'+index;
+          var cls = ""; //get exception classes
+          if ($(this).find('.carousel-caption-title').length > 0) cls = 'title';
+          if ($(this).find('.carousel-caption-bottom').length > 0) cls = 'bottom';
+          var isrc = $(this).find('img').first().attr('src');
+
+          //set slide attributes
+          $(s).attr('id', id);
+          $(s).attr('class', cls);
+          $(s).attr('imgSrc', isrc);
+
+          //Add head text
+          var head = $.parseHTML( '<text id="head"><en></en><es></es></text>' );
+
+          //English title
+          var getEng = $(this).find('h2').html();
+          if( getEng==''|| getEng==undefined ) getEng = $(this).find('h1').html();
+
+          //Spanish title
+          var getEsp = $(spanishData).find('.item').eq(index).find('h2').html();
+          if(getEsp==''||getEsp==undefined) getEsp = $(spanishData).find('.item').eq(index).find('h1').html();
+
+          //Set XML
+          $(head).find('en').html( getEng );
+          $(head).find('es').html( getEsp );
+
+          //Add description text
+          var descr = $.parseHTML( '<text id="description"><en></en><es></es></text>' );
+          var getEngd = $(this).find('p').html();
+          var getEspd = $(spanishData).find('.item').eq(index).find('p').html();
+          
+          $(descr).find('en').html( getEngd );
+          $(descr).find('es').html( getEspd );
+
+          $(s).append(head);
+          $(s).append(descr);
+
+          //add slide config
+          $(config).find('slides').append(s);
+
+        });
+
+        $('textarea').text( $(config).html() );
+
+      });
+
+    });
+
+  });
+
+  </script>
+
+</html>

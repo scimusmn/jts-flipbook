@@ -19,6 +19,7 @@ $(document).ready( function(){
 	//Init some vars
 	var configXML = {};
 	var language = '';
+	var translateElements = [];
 
 	function initialize(xml) {
 
@@ -30,7 +31,7 @@ $(document).ready( function(){
 			var newSlide = $( ".slides .slide" ).first().clone().appendTo( $( ".swipeshow .slides" ).first() );
 
 			$( newSlide ).attr( 'id', $(this).attr('id') );
-			$( newSlide ).find('img').first().attr('src', $(this).attr('img') );
+			$( newSlide ).find('img').first().attr('src', $(this).attr('imgsrc') );
 			$( newSlide ).addClass( $(this).attr('class') );
 
 		});
@@ -38,41 +39,67 @@ $(document).ready( function(){
 		//Remove initial template slide
 		$( ".slides .slide" ).first().remove();
 
+		//Set up tranlations
+		setupTranslations();
+
+    	//Default to English
+    	changeLanguage('en');
+
+		//Init Swipeshow
+		$(".my-gallery").swipeshow({
+
+			autostart: false,   /* Set to `false` to keep it steady */
+			interval: 3000,     /* Time between switching slides (ms) */
+			initial: 0,         /* First slide's index */
+			speed: 700,         /* Animation speed (ms) */
+			friction: 0.3,      /* Bounce-back behavior; use `0` to disable */
+			mouse: true,        /* enable mouse dragging controls */
+			keys: true,         /* enable left/right keyboard keys */
+
+			$next: $("div.next"), 			/* assign next button */
+			$previous: $("div.previous"),	/* assign prev button */
+
+			onactivate: function(){},
+			onpause: function(){},
+
+		});
+
+		//Disable 300ms iOS delay on clicks for more responsiveness
+		FastClick.attach(document.body);
+
+	}
+
+	function setupTranslations( ) {
+
+		//Cache all elements that have corresponding tranlations
+		$("body").find("p,h1,h2,h3,span").each( function() {
+
+			var englishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( 'en' ).first().text();
+			var spanishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( 'es' ).first().text();
+
+			if (englishTranslation == '' || spanishTranslation == '' ) return;
+
+			translateElements.push( this );
+
+		});
+
 		//Set up language toggle
     	$( ".language-toggle" ).on( "click", function(){
     		   
     		if ( language == 'en' ) {
 
-    			$("#language_toggle h3").html("English");
+    			$("#language-text").html("English");
     			changeLanguage('es');
 
     		} else if( language == 'es') {
 
-    			$("#language_toggle h3").html("Español");
+    			$("#language-text").html("Español");
+
     			changeLanguage('en');
 
     		}
     		
     	});
-
-    	//Default to English
-    	changeLanguage('en');
-
-    	//Init Swipeshow
-    	 $(".my-gallery").swipeshow({
-
-	        autostart: false,   /* Set to `false` to keep it steady */
-	        interval: 3000,     /* Time between switching slides (ms) */
-	        initial: 0,         /* First slide's index */
-	        speed: 700,         /* Animation speed (ms) */
-	        friction: 0.3,      /* Bounce-back behavior; use `0` to disable */
-	        mouse: true,        /* enable mouse dragging controls */
-	        keys: true,         /* enable left/right keyboard keys */
-
-	        onactivate: function(){},
-	        onpause: function(){},
-
-	      });
 
 	}
 
@@ -80,16 +107,10 @@ $(document).ready( function(){
 
 		language = languageKey;
 
-		console.log("changeLanguage: ",language);
+		$(translateElements).each( function() {
 
-		//Find all swappable language
-		$("body").find("p,h1,h2,h3,span").each( function(){
-			
-			//Get translation for slide
 			var translationText = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( language ).first().text();
-				
-			//Apply to html
-			if (translationText != '') $(this).html( translationText );
+			$(this).html( translationText );
 
 		});
 
