@@ -1,4 +1,4 @@
-/* this is a custom css style sheet */
+ /* this is a custom css style sheet */
 @font-face {
 	font-family: 'Aller_Rg';
 	src: url('../fonts/aller_rg-webfont.ttf');
@@ -18,6 +18,8 @@ body {
   padding: 0 0;
   font-family: "Aller_Lt";
   color: #333333;
+  background: #000;
+
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
@@ -53,7 +55,7 @@ h3 {
 
 /* Remove default Button styles */
 button{
-  border:0; 
+  border:0;
 }
 button:focus{
   outline:0;
@@ -80,7 +82,7 @@ button:focus{
   bottom: 0%;
   z-index: 2;
   width: 100%;
-  height: 38px;
+  height: 46px;
   text-align: center;
   background-color: #000;
 
@@ -88,29 +90,29 @@ button:focus{
 
 .dots .dot-item{
 
-  width: 8px;
-  height: 8px;
+  width: 14px;
+  height: 14px;
 
   background:  #707070;
   border: 1px solid #707070;
   border-radius: 10px;
 
   padding: 0px;
-  margin: 3px;
+  margin: 5px;
 
-  margin-top: 15px;
+  margin-top: 16px;
 
 }
 
 .dots .dot-item.active{
-  
-  width: 10px;
-  height: 10px;
+
+  width: 16px;
+  height: 16px;
 
   background-color: #efefef;
   border: 2px solid #efefef;
 
-  margin: 2px;
+  margin: 4px;
 
 }
 
@@ -184,26 +186,27 @@ div.previous {
 }
 
 /* Language Toggle */
-.language-toggle { 
+.language-toggle {
 
   position: absolute;
 
-  bottom: -10px;
+  bottom: -7px;
   left: 0px;
 
   text-align: left;
   cursor: pointer;
-  
+
   z-index: 3;
   padding: 15px 40px 10px 20px;
 
 }
 .language-toggle h3 {
-  font-size: 16px;
+
+  font-size: 18px;
   color:#adadad;
 
 }
-.language-toggle:hover h3 { 
+.language-toggle:hover h3 {
   color:#ccc;
 }
 
@@ -215,7 +218,7 @@ div.previous {
   top: 0;
   max-width: 100% !important;
   height: 100% !important;
-  z-index: 3;
+  z-index: 5;
 
 }
 

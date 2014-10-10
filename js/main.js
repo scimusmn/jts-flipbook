@@ -6,9 +6,9 @@ $(document).ready( function(){
 	    url: $('[data-config]').first().attr('data-config'), //Grab config path from index.html
 	    dataType: "xml",
 	    success: function (xml) {
-	    	
+
 	    	initialize( xml );
-			
+
 	    },
 	    error: function (jqXHR, textStatus, errorThrown) {
 	        // Show error message if desired
@@ -85,7 +85,7 @@ $(document).ready( function(){
 
 		//Set up language toggle
     	$( ".language-toggle" ).on( "click", function(){
-    		   
+
     		if ( language == 'en' ) {
 
     			$("#language-text").html("English");
@@ -98,7 +98,7 @@ $(document).ready( function(){
     			changeLanguage('en');
 
     		}
-    		
+
     	});
 
 	}
