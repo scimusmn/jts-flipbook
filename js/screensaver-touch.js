@@ -10,7 +10,7 @@ $(function () {
   idleTime = 0;
 
   // How long is timeout?
-  timeoutSeconds = 45;
+  timeoutSeconds = 60;
 
   // Increment the idle time counter every minute.
   idleInterval = setInterval('timerIncrement()', 1000);// 1 second
