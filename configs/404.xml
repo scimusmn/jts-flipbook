@@ -12,18 +12,17 @@
    <component id="jts_digi_flipbook">
       <slides>
          <!-- SLIDE 0 -->
-         <slide id="slide_0" class="title" imgsrc="img/404/00.jpg">
+         <slide id="slide_0" class="title" imgsrc="img/attract.gif">
             <text id="head">
-               <en>Toileting in space</en>
-               <es>Cómo ir al baño en el espacio</es>
+               <en> </en>
+               <es> </es>
             </text>
             <text id="description">
-               <en>Swipe to begin</en>
-               <es>Pase para comenzar-NEED TRANSLATION</es>
+               <en> </en>
+               <es> </es>
             </text>
          </slide>
          <!-- SLIDE 1 -->
-         <!--
          <slide id="slide_1" class="" imgsrc="img/404/01.jpg">
             <text id="head">
                <en>True pioneers</en>
@@ -34,7 +33,6 @@
                <es>Las primeras naves espaciales no tenían baños. En vez de usar baños, los astronautas se pegaban en sus traseros “bolsas para depositar las materias fecales”. Después de usarlas, las almacenaban por el período de tiempo que duraba la misión.</es>
             </text>
          </slide>
-      -->
          <!-- SLIDE 2 -->
          <slide id="slide_2" class="" imgsrc="img/404/02.jpg">
             <text id="head">

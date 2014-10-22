@@ -1,20 +1,22 @@
 <!doctype html>
-<html> 
+<html>
 
   <head>
     <meta charset="utf-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
     <title>Flipbook Config Tool</title>
-    
+
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
   </head>
 
   <body>
-    
+
     <h1>Flipbook Config Tool</h1>
-    <textarea style='width:70%; height:500px'></textarea>
+    English index path: <input id="pathTxt" type="text" name="pathTxt" value="indices/index404">(.html)<br/><br/>
+     <button type="button" onclick="makeXML()">Make XML</button><button type="button" onclick="clearXML()">Clear</button><br/><br/>
+    <textarea id="txtoutput" style='width:70%; height:500px'></textarea>
     <br/><br/>
     After: <a href="http://www.freeformatter.com/xml-formatter.html" target="_blank">XML Makeover</a>
 
@@ -22,23 +24,28 @@
 
   <script type="text/javascript">
 
-  $(document).ready(function(){
+    var clearXML = function(){
+      //Clear text area of anything previous
+      document.getElementById("txtoutput").value='';
+    }
+
+    var makeXML = function(){
 
     /* This a tool that loads an English and Spanish html file and parses into a single configuration XML. */
-
-    // CONFIG TO PARSE +++++++++++++++++
-    //++++++++++++++++++++++++++++++++++
-    var configTarget = 'index404'; 
-    //+++++++++++++++++++++++++++++++++0
-    //++++++++++++++++++++++++++++++++++
+    console.log("makeXML");
 
     var slides = '<xxx><config><!-- ======== --><!-- SETTINGS --><!-- ======== --><settings><setting id="example_setting" value="example_value" /></settings><!-- ======== --><!-- LANGUAGE --><!-- ======== --><component id="jts_digi_flipbook"><slides></slides></component></config></xxx>';
 
     var config = $.parseHTML( slides );
 
     //load html to parse
-    $.get('indices/'+configTarget+'.html').success( function(data) {
-      $.get('indices/'+configTarget+'Spanish.html').success( function(spanishData) {
+    var indexPath=document.getElementById("pathTxt").value;
+
+    console.log("indexPath",indexPath);
+
+    $.get(indexPath+'.html').success( function(data) {
+
+      $.get(indexPath+'Spanish.html').success( function(spanishData) {
 
         $(data).find('.item').each(function(index) {
 
@@ -74,7 +81,7 @@
           var descr = $.parseHTML( '<text id="description"><en></en><es></es></text>' );
           var getEngd = $(this).find('p').html();
           var getEspd = $(spanishData).find('.item').eq(index).find('p').html();
-          
+
           $(descr).find('en').html( getEngd );
           $(descr).find('es').html( getEspd );
 
@@ -86,13 +93,19 @@
 
         });
 
-        $('textarea').text( $(config).html() );
+        // $('textarea').text( $(config).html() );
+        document.getElementById("txtoutput").value=$(config).html();
+
+        //Find/replace pesky <br> tags that break xml formatter
+        var str=document.getElementById("txtoutput").value;
+        var n=str.replace(/<br>/g,"<br/>");
+        document.getElementById("txtoutput").value=n;
 
       });
 
     });
 
-  });
+  }
 
   </script>
 

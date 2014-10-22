@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- ======== -->
+    <!-- SETTINGS -->
+    <!-- ======== -->
+    <settings>
+        <setting id="example_setting" value="example_value" />
+    </settings>
+    <!-- ======== -->
+    <!-- LANGUAGE -->
+    <!-- ======== -->
+    <component id="jts_digi_flipbook">
+        <slides>
+            <!-- SLIDE 0 -->
+            <slide id="slide_0" class="title" imgsrc="img/00.jpg">
+                <text id="head">
+                    <en>Sleeping in space</en>
+                    <es>Dormir en el Espacio NEED TRANSLATION</es>
+                </text>
+                <text id="description">
+                    <en>Swipe to begin</en>
+                    <es>Pase para comenzar- NEED TRANSLATION</es>
+                </text>
+            </slide>
+            <!-- SLIDE 1 -->
+            <slide id="slide_1" class="bottom" imgsrc="img/413/01.jpg">
+                <text id="head">
+                    <en>Get rest, stay alert</en>
+                    <es>Descansa y mantente alerta</es>
+                </text>
+                <text id="description">
+                    <en>
+                        Sleep is important. You don’t want a drowsy, irritable astronaut at the controls
+                        <br />
+                        of a spacecraft.
+                    </en>
+                    <es>Dormir es importante. Uno no quiere que un astronauta somnoliento y malhumorado sea el encargado de los controles de la nave espacial.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 2 -->
+            <slide id="slide_2" class="" imgsrc="img/413/02.jpg">
+                <text id="head">
+                    <en>Burning both ends</en>
+                    <es>Uniendo el día con la noche</es>
+                </text>
+                <text id="description">
+                    <en>Like many of us, astronauts don’t get quite as much sleep as they should. Work, excitement, and motion sickness can cut hours from their scheduled eight hours of sleep.</en>
+                    <es>Como muchos de nosotros, los astronautas no duermen lo suficiente. El trabajo, las emociones y el mareo pueden reducir las ocho horas de sueño programadas.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 3 -->
+            <slide id="slide_3" class="" imgsrc="img/413/03.jpg">
+                <text id="head">
+                    <en>16 days a day</en>
+                    <es>16 días en un solo día</es>
+                </text>
+                <text id="description">
+                    <en>Even though astronauts on the International Space Station spend most of their time in artificial light, the 90-minute day/night cycle makes sleeping tough.</en>
+                    <es>Aun cuando los astronautas a bordo de la Estación Espacial Internacional pasan la mayor parte del tiempo bajo luz artificial, el ciclo día/noche de 90 minutos hace que les cueste trabajo dormir.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 4 -->
+            <slide id="slide_4" class="" imgsrc="img/413/04.jpg">
+                <text id="head">
+                    <en>Downtime</en>
+                    <es>Momento de descanso</es>
+                </text>
+                <text id="description">
+                    <en>While off-duty, your sleep station is a place where you can get some time alone. This astronaut is doing some sewing.</en>
+                    <es>Cuando los astronautas tienen tiempo libre, la cabina donde duermen es un lugar en el que pueden pasar tiempo a solas. Esta astronauta se dedica a coser.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 5 -->
+            <slide id="slide_5" class="" imgsrc="img/413/05.jpg">
+                <text id="head">
+                    <en>
+                        A
+                        <strong>little</strong>
+                        privacy
+                    </en>
+                    <es>
+                        Un
+                        <strong>poquito</strong>
+                        de privacidad
+                    </es>
+                </text>
+                <text id="description">
+                    <en>This cosmonaut is using his computer in his sleep station. Your station makes a cramped workspace, but at least no one can read over your shoulder.</en>
+                    <es>Este cosmonauta está utilizando su computador en la cabina donde duerme. Es un lugar estrecho para trabajar, pero al menos nadie puede leer por encima del hombro lo que uno escribe.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 6 -->
+            <slide id="slide_6" class="bottom" imgsrc="img/413/06.jpg">
+                <text id="head">
+                    <en>Curl up and fly</en>
+                    <es>Enroscarse y volar</es>
+                </text>
+                <text id="description">
+                    <en>In space, a sleeping body doesn’t lie flat. Astronauts strap themselves down before bed, and let their arms curl comfortably as they rest.</en>
+                    <es>En el espacio, una persona no se estira al dormir. Los astronautas se sujetan a sí mismos con una correa antes de acostarse, y dejan que sus brazos se enrosquen cómodamente mientras descansan.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 7 -->
+            <slide id="slide_7" class="" imgsrc="img/413/07.jpg">
+                <text id="head">
+                    <en>Artificial gravity?</en>
+                    <es>¿Gravedad artificial?</es>
+                </text>
+                <text id="description">
+                    <en>By spinning part of a spacecraft like a carnival ride, engineers could create an area of artificial gravity. Astronauts could sleep and exercise better on the spinning “walls.”</en>
+                    <es>Haciendo girar parte de la nave espacial como si fuera una de las atracciones mecánicas de un parque de diversiones, los ingenieros pudieron crear un área de gravedad artificial. Los astronautas duermen mejor y hacen ejercicio más fácilmente en las “paredes” giratorias.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 8 -->
+            <slide id="slide_8" class="" imgsrc="img/413/08.jpg">
+                <text id="head">
+                    <en>A spinning city</en>
+                    <es>Una ciudad giratoria</es>
+                </text>
+                <text id="description">
+                    <en>Artists imagine space colonies that constantly spin to create the effect of gravity. You wouldn’t float in this colony—working and sleeping would feel more normal.</en>
+                    <es>Algunos artistas imaginan colonias  en el espacio que giran constantemente para crear el efecto de la gravedad. En una colonia de ese estilo no se flotaría, y trabajar y dormir serían actividades más normales.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 9 -->
+            <slide id="slide_9" class="" imgsrc="img/413/09.jpg">
+                <text id="head">
+                    <en>Sleeping any which way</en>
+                    <es>Dormir como sea posible</es>
+                </text>
+                <text id="description">
+                    <en>Three astronauts tuck themselves into their sleep stations. With no real “up” or “down” in space, sleeping on the ceiling is just fine.</en>
+                    <es>Tres astronautas se acurrucan en las estaciones donde duermen. Sin existir un verdadero lado “arriba” o “hacia abajo” en el espacio, dormir en el techo no es algo fuera de lo común.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 10 -->
+            <slide id="slide_10" class="" imgsrc="img/413/10.jpg">
+                <text id="head">
+                    <en>The science of sleep</en>
+                    <es>La ciencia del sueño</es>
+                </text>
+                <text id="description">
+                    <en>Researchers study astronauts’ sleep patterns. Understanding the challenges of sleeping in space will help us stay healthy on long-duration missions.</en>
+                    <es>Los investigadores estudian los patrones de sueño de los astronautas. Comprender los retos de dormir en el espacio nos ayudará a mantenernos saludables durante las largas misiones.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 11 -->
+            <slide id="slide_11" class="bottom" imgsrc="img/413/11.jpg">
+                <text id="head">
+                    <en>Sleeping through stress</en>
+                    <es>Dormir a pesar del estrés</es>
+                </text>
+                <text id="description">
+                    <en>
+                        A long mission—like a multi-year trip to Mars—would be stressful. Hard work. Monotony. Danger. Tight quarters. How would
+                        <strong>you</strong>
+                        sleep?
+                    </en>
+                    <es>
+                        Una misión larga —como un viaje de muchos años a Marte— será estresante e implicará trabajo duro, monotonía, peligros y acomodaciones estrechas. ¿Cómo dormirías
+                        <strong>tú</strong>
+                        ?
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 12 -->
+            <slide id="slide_12" class="" imgsrc="img/413/12.jpg">
+                <text id="head">
+                    <en>Commander Van Winkle</en>
+                    <es>El Comandante Van Winkle</es>
+                </text>
+                <text id="description">
+                    <en>Scientists are studying whether astronauts could sleep through long voyages. Putting a crew into hibernation for months at a time would save energy, food, and water. And it sounds relaxing.</en>
+                    <es>Los científicos están investigando si los astronautas podrían dormir durante el tiempo que duran los viajes largos. Lograr que una tripulación hiberne durante meses seguidos ayudaría a ahorrar energía, alimentos y agua. Y además suena como algo relajante.</es>
+                </text>
+            </slide>
+        </slides>
+    </component>
+</config>

@@ -39,7 +39,12 @@ $(document).ready( function(){
 		//Remove initial template slide
 		$( ".slides .slide" ).first().remove();
 
-		//Set up tranlations
+		//Set up attract loop
+		var attractSrc = $(configXML).find('setting[id=attractSrc]').attr('value');
+		var srcDiv = '<source src="'+attractSrc+'" type="video/mp4" />';
+		$(srcDiv).appendTo('#screensaver-video');
+
+		//Set up translations
 		setupTranslations();
 
     	//Default to English
@@ -74,6 +79,7 @@ $(document).ready( function(){
 		//Cache all elements that have corresponding tranlations
 		$("body").find("p,h1,h2,h3,span").each( function() {
 
+			//Retrieve text from xml
 			var englishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( 'en' ).first().text();
 			var spanishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( 'es' ).first().text();
 

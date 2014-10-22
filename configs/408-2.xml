@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- ======== -->
+    <!-- SETTINGS -->
+    <!-- ======== -->
+    <settings>
+        <setting id="example_setting" value="example_value" />
+    </settings>
+    <!-- ======== -->
+    <!-- LANGUAGE -->
+    <!-- ======== -->
+    <component id="jts_digi_flipbook">
+        <slides>
+            <!-- SLIDE 0 -->
+            <slide id="slide_0" class="title" imgsrc="img/00.jpg">
+                <text id="head">
+                    <en>Eating in space</en>
+                    <es>Eating in space - NEED SPANISH TRANSLATION</es>
+                </text>
+                <text id="description">
+                    <en>Swipe to begin</en>
+                    <es>Pase para comenzar - NEED SPANISH TRANSLATION</es>
+                </text>
+            </slide>
+            <!-- SLIDE 1 -->
+            <slide id="slide_1" class="" imgsrc="img/408-2/01.jpg">
+                <text id="head">
+                    <en>A full table</en>
+                    <es>Mesa compartida</es>
+                </text>
+                <text id="description">
+                    <en>Eating is very different in space. But one thing is the same: people like to do it together.</en>
+                    <es>Comer es una experiencia muy diferente en el espacio. Sin embargo, algo continúa igual: a la gente le gusta participar de este momento.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 2 -->
+            <slide id="slide_2" class="" imgsrc="img/408-2/02.jpg">
+                <text id="head">
+                    <en>Space table manners</en>
+                    <es>Modales en la mesa espacial</es>
+                </text>
+                <text id="description">
+                    <en>The dining area is an important social space. But if there’s no room at your spacecraft’s table, it’s OK to eat on the ceiling.</en>
+                    <es>El comedor es un espacio social importante en la nave espacial. No obstante, si no hay espacio en la mesa de la nave, es razonable comer en el techo.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 3 -->
+            <slide id="slide_3" class="" imgsrc="img/408-2/03.jpg">
+                <text id="head">
+                    <en>Dinner adrift</en>
+                    <es>Cena a la deriva</es>
+                </text>
+                <text id="description">
+                    <en>Velcro keeps cans and pouches of food from floating off the table. Astronauts stay put using toeholds under the table.</en>
+                    <es>El Velcro ayuda a evitar que las latas y bolsas de comida salgan volando de la mesa. Los astronautas logran quedarse en su puesto utilizando los puntos de apoyo para los dedos de los pies que hay debajo de la mesa.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 4 -->
+            <slide id="slide_4" class="" imgsrc="img/408-2/04.jpg">
+                <text id="head">
+                    <en>The sauce secret</en>
+                    <es>El secreto de la salsa</es>
+                </text>
+                <text id="description">
+                    <en>Many space meals contain thick, sticky sauce. It keeps food from drifting apart. Plus, who doesn’t like sauce?</en>
+                    <es>Muchas de las comidas que se consumen en el espacio contienen salsas gruesas y pegajosas. Éstas sirven para evitar que la comida vuele y se desparrame. Y, ¿a quién no le gustan las salsas?</es>
+                </text>
+            </slide>
+            <!-- SLIDE 5 -->
+            <slide id="slide_5" class="bottom" imgsrc="img/408-2/05.jpg">
+                <text id="head">
+                    <en>Just like Mom’s</en>
+                    <es>Como la de mamá</es>
+                </text>
+                <text id="description">
+                    <en>In space, Thanksgiving dinner comes in pouches. There’s only one thing missing . . .</en>
+                    <es>En el espacio, la comida del Día de Acción de Gracias viene en bolsas. Lo único que hace falta es…</es>
+                </text>
+            </slide>
+            <!-- SLIDE 6 -->
+            <slide id="slide_6" class="" imgsrc="img/408-2/06.jpg">
+                <text id="head">
+                    <en>Potatoes without gravy?!</en>
+                    <es>¡¿Papas sin gravy?!</es>
+                </text>
+                <text id="description">
+                    <en>A space Thanksgiving has no gravy. Goopy gravy is hard to apply to food in space, and pre-mixing potatoes and gravy ruins their texture!</en>
+                    <es>La celebración del Día de Acción de Gracias en el espacio se hace sin gravy. La salsa gruesa y pegajosa de carne que conocemos como gravy es imposible de servir allí, y ¡mezclarla de antemano con las papas arruinaría por completo su consistencia!</es>
+                </text>
+            </slide>
+            <!-- SLIDE 7 -->
+            <slide id="slide_7" class="" imgsrc="img/408-2/07.jpg">
+                <text id="head">
+                    <en>More than nutritious</en>
+                    <es>Más que nutritiva</es>
+                </text>
+                <text id="description">
+                    <en>Even though it comes out of a pouch, space food has to look, feel, and taste good. This helps keep astronauts in high spirits.</en>
+                    <es>Aún cuando viene en bolsas, la comida que se consume en el espacio debe tener buen aspecto, ser agradable a los sentidos y tener buen sabor. Esto ayuda a mantener a los astronautas de buen ánimo.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 8 -->
+            <slide id="slide_8" class="bottom" imgsrc="img/408-2/08.jpg">
+                <text id="head">
+                    <en>Eating healthy</en>
+                    <es>Comer saludable</es>
+                </text>
+                <text id="description">
+                    <en>Astronauts need to eat a healthy, balanced diet. Weightlessness is hard on the body, and astronauts have a big workload.</en>
+                    <es>Los astronautas necesitan comer una dieta balanceada y sana. El no tener peso es algo difícil para el cuerpo y, además, los astronautas tienen una gran carga de trabajo.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 9 -->
+            <slide id="slide_9" class="bottom" imgsrc="img/408-2/09.jpg">
+                <text id="head">
+                    <en>Planning ahead</en>
+                    <es>Planear con anticipación</es>
+                </text>
+                <text id="description">
+                    <en>Imagine a mission to space lasting several years. You could pack a lot of food for the trip, but there may be other ways to keep yourself fed.</en>
+                    <es>Imagina una misión en el espacio que dure varios años. Uno podría empacar un montón de comida para el viaje, pero es posible que existan otras maneras de alimentarse.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 10 -->
+            <slide id="slide_10" class="" imgsrc="img/408-2/10.jpg">
+                <text id="head">
+                    <en>Growing dinner</en>
+                    <es>Cultivando la cena</es>
+                </text>
+                <text id="description">
+                    <en>Astronauts are experimenting with growing vegetables on the International Space Station. One day it might be possible to feed astronauts from a spacecraft garden.</en>
+                    <es>Los astronautas están haciendo experimentos para cultivar verduras en la Estación Espacial Internacional. Es posible que algún día se alimenten con los productos cultivados en la huerta de la nave espacial.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 11 -->
+            <slide id="slide_11" class="" imgsrc="img/408-2/11.jpg">
+                <text id="head">
+                    <en>Future food</en>
+                    <es>Comida del futuro</es>
+                </text>
+                <text id="description">
+                    <en>We’ll need food wherever the journey to space takes us. Each destination will present new challenges to food production. This artist imagines underground greenhouses on frigid Mars.</en>
+                    <es>Cualquiera que sea el destino adonde nos conduzcan los viajes al espacio, vamos a necesitar comida. Cada destino representará nuevos retos en la producción de alimentos. Este artista ha imaginado invernaderos bajo el frígido suelo de Marte.</es>
+                </text>
+            </slide>
+        </slides>
+    </component>
+</config>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- ======== -->
+    <!-- SETTINGS -->
+    <!-- ======== -->
+    <settings>
+        <setting id="example_setting" value="example_value" />
+    </settings>
+    <!-- ======== -->
+    <!-- LANGUAGE -->
+    <!-- ======== -->
+    <component id="jts_digi_flipbook">
+        <slides>
+            <!-- SLIDE 0 -->
+            <slide id="slide_0" class="title" imgsrc="img/00.jpg">
+                <text id="head">
+                    <en>Current and future robots</en>
+                    <es>Robots actuales y futuros</es>
+                </text>
+                <text id="description">
+                    <en>Swipe to begin</en>
+                    <es>Swipe to begin NEED TRANSLATION</es>
+                </text>
+            </slide>
+            <!-- SLIDE 1 -->
+            <slide id="slide_1" class="" imgsrc="img/509/01.jpg">
+                <text id="head">
+                    <en>Many arms</en>
+                    <es>Muchos brazos</es>
+                </text>
+                <text id="description">
+                    <en>The International Space Station has several robotic arms and two large cranes. The 58-foot-long Canadarm2 is the Station’s largest robotic arm.</en>
+                    <es>
+                        La Estación Espacial Internacional tiene varios brazos robóticos y dos grúas grandes. El
+                        <em>Canadarm2,</em>
+                        de 58 pies de largo, es el brazo robótico más grande de la Estación Espacial Internacional.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 2 -->
+            <slide id="slide_2" class="" imgsrc="img/509/02.jpg">
+                <text id="head">
+                    <en>Docked by ‘bots</en>
+                    <es>Acoplado por los robots</es>
+                </text>
+                <text id="description">
+                    <en>Astronauts on the Space Station use robotic arms to dock supply vehicles. Here, the Canadarm2 secures SpaceX’s Dragon capsule.</en>
+                    <es>
+                        Los astronautas en la Estación Espacial utilizan brazos robóticos para acoplar los vehículos de provisiones. Aquí, el
+                        <em>Canadarm2</em>
+                        asegura la cápsula
+                        <em>SpaceX Dragon</em>
+                        .
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 3 -->
+            <slide id="slide_3" class="bottom" imgsrc="img/509/03.jpg">
+                <text id="head">
+                    <en>Astronaut transportation</en>
+                    <es>Transporte para los astronautas</es>
+                </text>
+                <text id="description">
+                    <en>Moving around on a spacewalk isn’t easy. Astronauts sometimes hitch rides on the Station’s robotic arms to get from one place to another.</en>
+                    <es>Desplazarse durante una caminata espacial no es fácil. Los astronautas a veces se trasladan de un lugar a otro agarrados del brazo robótico de la Estación.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 4 -->
+            <slide id="slide_4" class="" imgsrc="img/509/04.jpg">
+                <text id="head">
+                    <en>A handy robot</en>
+                    <es>Un robot práctico</es>
+                </text>
+                <text id="description">
+                    <en>Dextre, the Space Station’s robotic “hand,” can perform detailed tasks like changing batteries or replacing cameras.</en>
+                    <es>
+                        <em>Dextre,</em>
+                        la “mano” robótica de la Estación Espacial, puede realizar tareas de precisión como cambiar baterías o reemplazar cámaras.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 5 -->
+            <slide id="slide_5" class="" imgsrc="img/509/05.jpg">
+                <text id="head">
+                    <en>Big in Canada</en>
+                    <es>Popular en Canadá</es>
+                </text>
+                <text id="description">
+                    <en>The Canadian five-dollar bill features the Canadarm2 and Dextre robots—both are products of the Canadian Space Agency.</en>
+                    <es>
+                        El billete canadiense de cinco dólares incluye el
+                        <em>Canadarm2</em>
+                        y los robots
+                        <em>Dextre</em>
+                        . Ambos son producidos por la Agencia Espacial Canadiense.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 6 -->
+            <slide id="slide_6" class="" imgsrc="img/509/06.jpg">
+                <text id="head">
+                    <en>Robonaut2</en>
+                    <es>Robonaut2</es>
+                </text>
+                <text id="description">
+                    <en>
+                        One way operators can control Robonaut2 is through
+                        <em>telerobotics</em>
+                        . A distant telerobotic operator wears a special visor, vest, and gloves to control Robonaut2 with body movements.
+                    </en>
+                    <es>
+                        Una de las maneras en que los operadores pueden controlar el
+                        <em>Robonaut2</em>
+                        es a través de la
+                        <em>telerobótica.</em>
+                        Un operador telerobótico a distancia usa un visor, un chaleco y guantes para controlar el
+                        <em>Robonaut2</em>
+                        con los movimientos de su cuerpo.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 7 -->
+            <slide id="slide_7" class="" imgsrc="img/509/07.jpg">
+                <text id="head">
+                    <en>SPHERES</en>
+                    <es>
+                        <em>SPHERES</em>
+                    </es>
+                </text>
+                <text id="description">
+                    <en>
+                        Call them “Synchronized Position Hold, Engage, Reorient Experimental Satellites” . . . or just
+                        <strong>“SPHERES.”</strong>
+                        These free-flying, bowling-ball-sized robots test autonomous spacecraft flight aboard the Space Station.
+                    </en>
+                    <es>
+                        Llámalas “Satélites Experimentales de Posición, Sostenimiento, Encuentro y Reorientación”… o simplemente “SPHERES”
+                        <em>(“Synchronized Position Hold, Engage, Reorient Experimental Satellites”).</em>
+                        Estos robots del tamaño de una bola de boliche que vuelan solos, ponen a prueba el vuelo autónomo de las naves espaciales a bordo de la Estación Espacial.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 8 -->
+            <slide id="slide_8" class="bottom" imgsrc="img/509/08.jpg">
+                <text id="head">
+                    <en>Curiosity Rover</en>
+                    <es>
+                        El
+                        <em>Rover Curiosity</em>
+                    </es>
+                </text>
+                <text id="description">
+                    <en>Curiosity began exploring the surface of Mars in 2012. Robotic pioneers are exploring the solar system in advance of the first human visitors.</en>
+                    <es>El vehículo Curiosity comenzó a explorar la superficie de Marte en el año 2012. Los pioneros robóticos están explorando el sistema solar antes de que lleguen los primeros visitantes humanos.</es>
+                </text>
+            </slide>
+            <!-- SLIDE 9 -->
+            <slide id="slide_9" class="" imgsrc="img/509/09.jpg">
+                <text id="head">
+                    <en>RATS and robots</en>
+                    <es>RATS y robots</es>
+                </text>
+                <text id="description">
+                    <en>Members of NASA’s Desert Research and Technology Studies, the Desert RATS, test new technologies in remote deserts. These vehicles could one day explore the Moon or Mars.</en>
+                    <es>
+                        Los miembros del grupo de estudios de la NASA conocido como
+                        <em>Desert Research and Technology Studies</em>
+                        (Estudios de Investigación y Tecnología del Desierto), o RATS del Desierto, ponen a prueba nuevas tecnologías en desiertos remotos. Estos vehículos podrán algún día explorar la Luna o Marte.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 10 -->
+            <slide id="slide_10" class="" imgsrc="img/509/10.jpg">
+                <text id="head">
+                    <en>A walking mobile home</en>
+                    <es>Una casa móvil que camina</es>
+                </text>
+                <text id="description">
+                    <en>This towering, 6-legged robotic rover, called ATHLETE, is only a half-scale prototype. Future models could carry habitation modules across the Moon or Mars.</en>
+                    <es>
+                        Este elevado vehículo robótico de 6 patas, llamado
+                        <em>ATHLETE</em>
+                        (ATLETA), es solo un prototipo a mediana escala. Los modelos futuros podrían transportar módulos habitacionales a través de la  Luna o de Marte.
+                    </es>
+                </text>
+            </slide>
+            <!-- SLIDE 11 -->
+            <slide id="slide_11" class="" imgsrc="img/509/11.jpg">
+                <text id="head">
+                    <en>Robotic companions?</en>
+                    <es>¿Compañeros robóticos?</es>
+                </text>
+                <text id="description">
+                    <en>
+                        Robots will accompany astronauts and explorers wherever they go. Unfortunately, true robotic companions like C-3PO and R2-D2 are still only a fantasy. Oh dear.
+                    </en>
+                    <es>
+                        Los robots acompañarán a los astronautas y a los exploradores adondequiera que vayan. Desafortunadamente, los verdaderos compañeros robóticos como el C-3PO y el R2-D2 son todavía sólo una fantasía.
+                        <em>Oh dear</em>.
+                    </es>
+                </text>
+            </slide>
+        </slides>
+    </component>
+</config>

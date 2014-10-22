@@ -1,7 +1,7 @@
 /**
  * screensaver-touch.js
  * Adapted from screensaver.js @ https://github.com/scimusmn/kiosk_video_player/blob/master/src/js/screensaver.js
- * After 3 minutes of inactivity, show a full-screen video as a screensaver.
+ * After X minutes of inactivity, snap back to slide one.
  */
 
 $(function () {
@@ -9,8 +9,8 @@ $(function () {
   // Start the clock
   idleTime = 0;
 
-  // How long is timeout?
-  timeoutSeconds = 60;
+  // How long is timeout
+  timeoutSeconds = 59;
 
   // Increment the idle time counter every minute.
   idleInterval = setInterval('timerIncrement()', 1000);// 1 second
@@ -23,7 +23,7 @@ $(function () {
 });
 
 /**
- * Start the screensaver after 3 minutes of inactivity.
+ * Start the screensaver after X seconds of inactivity.
  */
 function timerIncrement() {
 
@@ -32,29 +32,10 @@ function timerIncrement() {
   // If it's been X seconds of inactivity, save the screen
   if ( idleTime > timeoutSeconds ) {
 
-    var videoPlayer = document.getElementById('screensaver-video');
-
-    // Show the video
-    $(videoPlayer).fadeIn('slow');
-
-    // videoPlayer.play();
-
-    //Stop timer
-    clearInterval(idleInterval);
-
-    waitForWakeUp(videoPlayer); // Watch for mousemove, or an error, which will reload the page
+    // Reset to first slide.
+    $(".my-gallery").swipeshow().goTo(0);
+    idleTime = 0;
 
   }
-
-}
-
-/**
- * Clear screensaver
- */
-function waitForWakeUp() {
-  // Refresh on mousemove
-  $('body').bind('touchstart keypress mousemove', function(e) {
-    location.reload();
-  });
 
 }
