@@ -14,166 +14,166 @@
             <!-- SLIDE 0 -->
             <slide id="slide_0" class="title" imgsrc="img/00.jpg">
                 <text id="head">
-                    <en>Taking a space walk</en>
-                    <es>Taking a space walk NEED TRANSLATION</es>
+                    <en><![CDATA[Taking a space walk]]></en>
+                    <es><![CDATA[Taking a space walk NEED TRANSLATION]]></es>
                 </text>
                 <text id="description">
-                    <en>Swipe to begin</en>
-                    <es>Swipe to begin NEED TRANSLATION</es>
+                    <en><![CDATA[Swipe to begin]]></en>
+                    <es><![CDATA[Swipe to begin NEED TRANSLATION]]></es>
                 </text>
             </slide>
             <!-- SLIDE 1 -->
             <slide id="slide_1" class="" imgsrc="img/506/01.jpg">
                 <text id="head">
-                    <en>The right stuff (and training)</en>
-                    <es>“Lo que hay que tener”(y la capacitación)</es>
+                    <en><![CDATA[The right stuff (and training)]]></en>
+                    <es><![CDATA[“Lo que hay que tener”(y la capacitación)]]></es>
                 </text>
                 <text id="description">
-                    <en>Astronauts must train for hundreds of hours before they ever set foot (or float) outside their spacecraft.</en>
-                    <es>Los astronautas deben capacitarse durante cientos de horas antes de poner un pie (o flotar) por fuera de su nave espacial.</es>
+                    <en><![CDATA[Astronauts must train for hundreds of hours before they ever set foot (or float) outside their spacecraft.]]></en>
+                    <es><![CDATA[Los astronautas deben capacitarse durante cientos de horas antes de poner un pie (o flotar) por fuera de su nave espacial.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 2 -->
             <slide id="slide_2" class="" imgsrc="img/506/02.jpg">
                 <text id="head">
-                    <en>Going under</en>
-                    <es>Bajo el agua</es>
+                    <en><![CDATA[Going under]]></en>
+                    <es><![CDATA[Bajo el agua]]></es>
                 </text>
                 <text id="description">
-                    <en>Part of astronauts’ training takes place in a 6.2-million-gallon pool, where buoyancy simulates weightlessness. They practice moving in space suits, using tools, and dealing with emergency situations.</en>
-                    <es>Parte del entrenamiento de los astronautas se realiza en una piscina de 6.2 millones de galones, donde la capacidad de flotar simula la falta de peso. Ellos practican cómo moverse con los trajes espaciales, cómo usar las herramientas, y cómo enfrentar situaciones de emergencia.</es>
+                    <en><![CDATA[Part of astronauts’ training takes place in a 6.2-million-gallon pool, where buoyancy simulates weightlessness. They practice moving in space suits, using tools, and dealing with emergency situations.]]></en>
+                    <es><![CDATA[Parte del entrenamiento de los astronautas se realiza en una piscina de 6.2 millones de galones, donde la capacidad de flotar simula la falta de peso. Ellos practican cómo moverse con los trajes espaciales, cómo usar las herramientas, y cómo enfrentar situaciones de emergencia.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 3 -->
             <slide id="slide_3" class="bottom" imgsrc="img/506/03.jpg">
                 <text id="head">
-                    <en>Something’s missing . . .</en>
-                    <es>Algo hace falta…</es>
+                    <en><![CDATA[Something’s missing . . .]]></en>
+                    <es><![CDATA[Algo hace falta…]]></es>
                 </text>
                 <text id="description">
-                    <en>Why isn’t this astronaut floating? She’s training on Earth, wearing a practice space suit in a simulated airlock.</en>
-                    <es>¿Por qué esta astronauta no está flotando? Porque está entrenando en la Tierra, y lleva un traje espacial de práctica en un compartimento hermético simulado.</es>
+                    <en><![CDATA[Why isn’t this astronaut floating? She’s training on Earth, wearing a practice space suit in a simulated airlock.]]></en>
+                    <es><![CDATA[¿Por qué esta astronauta no está flotando? Porque está entrenando en la Tierra, y lleva un traje espacial de práctica en un compartimento hermético simulado.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 4 -->
             <slide id="slide_4" class="bottom" imgsrc="img/506/04.jpg">
                 <text id="head">
-                    <en>Ready for the real thing</en>
-                    <es>Alistándose para el momento de la verdad</es>
+                    <en><![CDATA[Ready for the real thing]]></en>
+                    <es><![CDATA[Alistándose para el momento de la verdad]]></es>
                 </text>
                 <text id="description">
-                    <en>In space, astronauts help each other into their suits. Getting dressed for a spacewalk takes about 45 minutes.</en>
-                    <es>En el espacio, los astronautas se ayudan unos a otros a ponerse los trajes espaciales. Vestirse para una caminata espacial toma aproximadamente 45 minutos.</es>
+                    <en><![CDATA[In space, astronauts help each other into their suits. Getting dressed for a spacewalk takes about 45 minutes.]]></en>
+                    <es><![CDATA[En el espacio, los astronautas se ayudan unos a otros a ponerse los trajes espaciales. Vestirse para una caminata espacial toma aproximadamente 45 minutos.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 5 -->
             <slide id="slide_5" class="bottom" imgsrc="img/506/05.jpg">
                 <text id="head">
-                    <en>Under pressure</en>
-                    <es>Bajo presión</es>
+                    <en><![CDATA[Under pressure]]></en>
+                    <es><![CDATA[Bajo presión]]></es>
                 </text>
                 <text id="description">
-                    <en>The air pressure inside space suits keeps astronauts alive in the vacuum of space. But to prevent the suits from becoming rigid, the pressure is kept low—much lower than inside spacecraft.</en>
-                    <es>La presión de aire por dentro de los trajes espaciales es lo que mantiene vivos a los astronautas en el vacío del espacio. Pero para evitar que los trajes se vuelvan rígidos, la presión se mantiene baja, mucho más baja que dentro de la nave espacial.</es>
+                    <en><![CDATA[The air pressure inside space suits keeps astronauts alive in the vacuum of space. But to prevent the suits from becoming rigid, the pressure is kept low—much lower than inside spacecraft.]]></en>
+                    <es><![CDATA[La presión de aire por dentro de los trajes espaciales es lo que mantiene vivos a los astronautas en el vacío del espacio. Pero para evitar que los trajes se vuelvan rígidos, la presión se mantiene baja, mucho más baja que dentro de la nave espacial.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
             <slide id="slide_6" class="" imgsrc="img/506/06.jpg">
                 <text id="head">
-                    <en>Beating the bends</en>
-                    <es>Venciendo las burbujas en la sangre</es>
+                    <en><![CDATA[Beating the bends]]></en>
+                    <es><![CDATA[Venciendo las burbujas en la sangre]]></es>
                 </text>
                 <text id="description">
-                    <en>Astronauts breathe pure oxygen while slowly adjusting to their space suits’ air pressure. This rids their bodies of nitrogen, which could form deadly bubbles in their blood (called “the bends”) in the suits’ lower pressure.</en>
-                    <es>Los astronautas respiran oxígeno puro mientras se van ajustando lentamente a la presión de aire de sus trajes espaciales. Esto elimina de sus cuerpos el nitrógeno, el cual puede formar burbujas letales en la sangre (conocidas en inglés como “bends”), debido a la presión reducida en sus trajes espaciales.</es>
+                    <en><![CDATA[Astronauts breathe pure oxygen while slowly adjusting to their space suits’ air pressure. This rids their bodies of nitrogen, which could form deadly bubbles in their blood (called “the bends”) in the suits’ lower pressure.]]></en>
+                    <es><![CDATA[Los astronautas respiran oxígeno puro mientras se van ajustando lentamente a la presión de aire de sus trajes espaciales. Esto elimina de sus cuerpos el nitrógeno, el cual puede formar burbujas letales en la sangre (conocidas en inglés como “bends”), debido a la presión reducida en sus trajes espaciales.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
             <slide id="slide_7" class="" imgsrc="img/506/07.jpg">
                 <text id="head">
-                    <en>Double doors</en>
-                    <es>Puertas dobles</es>
+                    <en><![CDATA[Double doors]]></en>
+                    <es><![CDATA[Puertas dobles]]></es>
                 </text>
                 <text id="description">
-                    <en>Before these spacewalkers can open the hatch to space, their crewmates must close the inner door behind them and activate pumps to remove all the air from the airlock.</en>
-                    <es>Antes que estos caminantes espaciales puedan abrir la escotilla hacia el espacio, los demás miembros de la tripulación deben cerrar la puerta interna detrás de ellos y encender las bombas para eliminar todo el aire del compartimiento hermético.</es>
+                    <en><![CDATA[Before these spacewalkers can open the hatch to space, their crewmates must close the inner door behind them and activate pumps to remove all the air from the airlock.]]></en>
+                    <es><![CDATA[Antes que estos caminantes espaciales puedan abrir la escotilla hacia el espacio, los demás miembros de la tripulación deben cerrar la puerta interna detrás de ellos y encender las bombas para eliminar todo el aire del compartimiento hermético.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
             <slide id="slide_8" class="" imgsrc="img/506/08.jpg">
                 <text id="head">
-                    <en>Hostile work environment</en>
-                    <es>Un medio hostil de trabajo</es>
+                    <en><![CDATA[Hostile work environment]]></en>
+                    <es><![CDATA[Un medio hostil de trabajo]]></es>
                 </text>
                 <text id="description">
-                    <en>The airlock’s outer hatch opens, and the astronauts are in space! They’ll work among micrometeoroids, extreme temperature shifts, and cosmic radiation . . . just another day at the office.</en>
-                    <es>Cuando la escotilla exterior del compartimento hermético se abre, ¡los astronautas están en el espacio! Ellos trabajarán en medio de micro meteoritos, cambios extremos de temperatura y radiación cósmica… es sólo otro día de trabajo.</es>
+                    <en><![CDATA[The airlock’s outer hatch opens, and the astronauts are in space! They’ll work among micrometeoroids, extreme temperature shifts, and cosmic radiation . . . just another day at the office.]]></en>
+                    <es><![CDATA[Cuando la escotilla exterior del compartimento hermético se abre, ¡los astronautas están en el espacio! Ellos trabajarán en medio de micro meteoritos, cambios extremos de temperatura y radiación cósmica… es sólo otro día de trabajo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
             <slide id="slide_9" class="" imgsrc="img/506/09.jpg">
                 <text id="head">
-                    <en>A personal atmosphere</en>
-                    <es>Atmósfera personal</es>
+                    <en><![CDATA[A personal atmosphere]]></en>
+                    <es><![CDATA[Atmósfera personal]]></es>
                 </text>
                 <text id="description">
-                    <en>Space suits contain oxygen and provide the air pressure our bodies need. But that air pressure also makes the suit stiff and challenging to move in.</en>
-                    <es>Los trajes espaciales contienen oxígeno y proporcionan la presión de aire que nuestros cuerpos requieren. Pero esa presión de aire también hace que el traje sea rígido y que moverse dentro de él sea un reto.</es>
+                    <en><![CDATA[Space suits contain oxygen and provide the air pressure our bodies need. But that air pressure also makes the suit stiff and challenging to move in.]]></en>
+                    <es><![CDATA[Los trajes espaciales contienen oxígeno y proporcionan la presión de aire que nuestros cuerpos requieren. Pero esa presión de aire también hace que el traje sea rígido y que moverse dentro de él sea un reto.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
             <slide id="slide_10" class="" imgsrc="img/506/10.jpg">
                 <text id="head">
-                    <en>Staying attached</en>
-                    <es>Agarrados</es>
+                    <en><![CDATA[Staying attached]]></en>
+                    <es><![CDATA[Agarrados]]></es>
                 </text>
                 <text id="description">
-                    <en>Drifting off into space would be very bad, so astronauts connect themselves to their spacecraft with tethers.</en>
-                    <es>Quedar flotando en el espacio sería algo completamente desastroso, por lo tanto los astronautas se aseguran a las naves espaciales con cables.</es>
+                    <en><![CDATA[Drifting off into space would be very bad, so astronauts connect themselves to their spacecraft with tethers.]]></en>
+                    <es><![CDATA[Quedar flotando en el espacio sería algo completamente desastroso, por lo tanto los astronautas se aseguran a las naves espaciales con cables.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 11 -->
             <slide id="slide_11" class="" imgsrc="img/506/11.jpg">
                 <text id="head">
-                    <en>Staying in touch</en>
-                    <es>Mantenerse en contacto</es>
+                    <en><![CDATA[Staying in touch]]></en>
+                    <es><![CDATA[Mantenerse en contacto]]></es>
                 </text>
                 <text id="description">
-                    <en>When astronauts are on spacewalks, they stay in constant communication with their colleagues on the Space Station and with Mission Control on Earth.</en>
-                    <es>Cuando los astronautas están realizando sus caminatas espaciales se comunican constantemente con sus colegas en la Estación Espacial y con el Centro de Control en la Tierra.</es>
+                    <en><![CDATA[When astronauts are on spacewalks, they stay in constant communication with their colleagues on the Space Station and with Mission Control on Earth.]]></en>
+                    <es><![CDATA[Cuando los astronautas están realizando sus caminatas espaciales se comunican constantemente con sus colegas en la Estación Espacial y con el Centro de Control en la Tierra.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 12 -->
             <slide id="slide_12" class="" imgsrc="img/506/12.jpg">
                 <text id="head">
-                    <en>Staying on task</en>
-                    <es>Concentrados en la tarea</es>
+                    <en><![CDATA[Staying on task]]></en>
+                    <es><![CDATA[Concentrados en la tarea]]></es>
                 </text>
                 <text id="description">
-                    <en>During a space walk, every astronaut has a specific “to-do” list.  They know exactly what needs to get done and how to do it.</en>
-                    <es>Durante una caminata espacial, cada astronauta tiene una lista específica de  “cosas por hacer”.  Ellos saben exactamente qué se debe hacer y cómo hacerlo.</es>
+                    <en><![CDATA[During a space walk, every astronaut has a specific “to-do” list.  They know exactly what needs to get done and how to do it.]]></en>
+                    <es><![CDATA[Durante una caminata espacial, cada astronauta tiene una lista específica de  “cosas por hacer”.  Ellos saben exactamente qué se debe hacer y cómo hacerlo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 13 -->
             <slide id="slide_13" class="" imgsrc="img/506/13.jpg">
                 <text id="head">
-                    <en>A hard day’s work</en>
-                    <es>Un duro día de trabajo</es>
+                    <en><![CDATA[A hard day’s work]]></en>
+                    <es><![CDATA[Un duro día de trabajo]]></es>
                 </text>
                 <text id="description">
-                    <en>There’s a lot of work to do on a spacewalk. Science experiments, repairs, and construction work keep spacewalking astronauts busy for up to eight hours.</en>
-                    <es>Hay mucho trabajo por hacer en una caminata espacial. Los experimentos científicos, las reparaciones, y el trabajo de construcción mantienen a los astronautas ocupados durante las caminatas espaciales hasta por períodos de ocho horas.</es>
+                    <en><![CDATA[There’s a lot of work to do on a spacewalk. Science experiments, repairs, and construction work keep spacewalking astronauts busy for up to eight hours.]]></en>
+                    <es><![CDATA[Hay mucho trabajo por hacer en una caminata espacial. Los experimentos científicos, las reparaciones, y el trabajo de construcción mantienen a los astronautas ocupados durante las caminatas espaciales hasta por períodos de ocho horas.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 14 -->
             <slide id="slide_14" class="" imgsrc="img/506/14.jpg">
                 <text id="head">
-                    <en>Worth the effort</en>
-                    <es>El esfuerzo vale la pena</es>
+                    <en><![CDATA[Worth the effort]]></en>
+                    <es><![CDATA[El esfuerzo vale la pena]]></es>
                 </text>
                 <text id="description">
-                    <en>Working in a pressurized space suit is difficult and tiring, but astronauts consider it a huge honor. It’s an experience unlike anything else on—or off—Earth.</en>
-                    <es>Hacer el trabajo vistiendo un traje espacial presurizado es algo difícil y fatigante, pero los astronautas lo consideran un gran honor. Es una experiencia como ninguna otra en —o fuera de — la Tierra.</es>
+                    <en><![CDATA[Working in a pressurized space suit is difficult and tiring, but astronauts consider it a huge honor. It’s an experience unlike anything else on—or off—Earth.]]></en>
+                    <es><![CDATA[Hacer el trabajo vistiendo un traje espacial presurizado es algo difícil y fatigante, pero los astronautas lo consideran un gran honor. Es una experiencia como ninguna otra en —o fuera de — la Tierra.]]></es>
                 </text>
             </slide>
         </slides>
