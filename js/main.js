@@ -130,12 +130,18 @@ function changeLanguage( languageKey ) {
 
 	}
 
-	$(translateElements).each( function() {
+	//Using small timeout so user sees button change as instant feedback
+	setTimeout(function(){
 
-		var translationText = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( language ).first().text();
-		$(this).html( translationText );
+		$(translateElements).each( function() {
 
-	});
+			var translationText = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( language ).first().text();
+			$(this).html( translationText );
+
+		});
+
+	}, 30);
+
 
 }
 
