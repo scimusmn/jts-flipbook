@@ -1,3 +1,8 @@
+//Init some vars
+var configXML = {};
+var language = '';
+var translateElements = [];
+
 $(document).ready( function(){
 
 	//Load XML
@@ -15,11 +20,6 @@ $(document).ready( function(){
 	        // alert(textStatus);
 	    }
 	});
-
-	//Init some vars
-	var configXML = {};
-	var language = '';
-	var translateElements = [];
 
 	function initialize(xml) {
 
@@ -64,7 +64,15 @@ $(document).ready( function(){
 			$next: $("div.next"), 			/* assign next button */
 			$previous: $("div.previous"),	/* assign prev button */
 
-			onactivate: function(){},
+			onactivate: function(current, index, prev, prevIndex){
+
+				//For performance, hide gifs on previous slide
+				$(prev).find('img[src$=".gif"]').hide();
+
+				//Show gifs on current slide
+				$(current).find('img[src$=".gif"]').show();
+
+			},
 			onpause: function(){},
 
 		});
@@ -94,12 +102,9 @@ $(document).ready( function(){
 
     		if ( language == 'en' ) {
 
-    			$("#language-text").html("English");
     			changeLanguage('es');
 
     		} else if( language == 'es') {
-
-    			$("#language-text").html("Español");
 
     			changeLanguage('en');
 
@@ -109,18 +114,28 @@ $(document).ready( function(){
 
 	}
 
-	function changeLanguage( languageKey ) {
+});
 
-		language = languageKey;
+function changeLanguage( languageKey ) {
 
-		$(translateElements).each( function() {
+	language = languageKey;
 
-			var translationText = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( language ).first().text();
-			$(this).html( translationText );
+	if ( language == 'es' ) {
 
-		});
+		$("#language-text").html("English").removeClass('highlight');
+
+	} else if( language == 'en') {
+
+		$("#language-text").html("Español").addClass('highlight');
 
 	}
 
-});
+	$(translateElements).each( function() {
+
+		var translationText = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( language ).first().text();
+		$(this).html( translationText );
+
+	});
+
+}
 

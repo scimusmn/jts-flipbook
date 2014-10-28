@@ -10,7 +10,7 @@ $(function () {
   idleTime = 0;
 
   // How long is timeout
-  timeoutSeconds = 59;
+  timeoutSeconds = 30;
 
   // Increment the idle time counter every minute.
   idleInterval = setInterval('timerIncrement()', 1000);// 1 second
@@ -32,7 +32,8 @@ function timerIncrement() {
   // If it's been X seconds of inactivity, save the screen
   if ( idleTime > timeoutSeconds ) {
 
-    // Reset to first slide.
+    // Reset to first slide w English
+    changeLanguage('en');
     $(".my-gallery").swipeshow().goTo(0);
     idleTime = 0;
 
