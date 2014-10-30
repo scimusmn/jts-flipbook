@@ -140,6 +140,16 @@ function changeLanguage( languageKey ) {
 
 		});
 
+		if ( language == 'es' ) {
+
+			$(".my-gallery").addClass('shrink-text');
+
+		} else if( language == 'en') {
+
+			$(".my-gallery").removeClass('shrink-text');
+
+		}
+
 	}, 30);
 
 

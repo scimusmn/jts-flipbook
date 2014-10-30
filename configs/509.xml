@@ -185,7 +185,7 @@
                 </text>
             </slide>
             <!-- SLIDE 11 -->
-            <slide id="slide_11" class="" imgsrc="img/509/11.jpg">
+            <slide id="slide_11" class="bottom" imgsrc="img/509/11.jpg">
                 <text id="head">
                     <en><![CDATA[Robotic companions?]]></en>
                     <es><![CDATA[¿Compañeros robóticos?]]></es>

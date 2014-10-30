@@ -171,6 +171,15 @@ div.previous {
 
 }
 
+.shrink-text h2 {
+  font-size: 34px;
+}
+.shrink-text .carousel-caption {
+
+  font-size: 26px;
+
+}
+
 .carousel-caption p {
   width: 38%;
 }
@@ -217,13 +226,13 @@ div.previous {
   cursor: pointer;
 
   z-index: 3;
-  padding: 35px 75px 8px 30px;
+  padding: 35px 75px 11px 30px;
 
 }
 .language-toggle h3 {
 
-  font-size: 26px;
-  font-weight: 900;
+  font-size: 19px;
+  font-family: "Aller_Bd";
   color:#adadad;
 
 }
@@ -231,7 +240,7 @@ div.previous {
   color:#ccc;
 }
 .language-toggle h3.highlight  {
-  color:#e5b52f;
+  color:#ffa210;
 }
 
 
