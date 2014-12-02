@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <!-- ======== -->
+   <!-- SETTINGS -->
+   <!-- ======== -->
+   <settings>
+      <setting id="example_setting" value="example_value" />
+   </settings>
+   <!-- ======== -->
+   <!-- LANGUAGE -->
+   <!-- ======== -->
+   <component id="jts_digi_flipbook">
+      <slides>
+         <!-- SLIDE 0 -->
+         <slide id="slide_0" class="title" imgsrc="img/attract.gif">
+            <text id="head">
+               <en><![CDATA[ ]]></en>
+               <es><![CDATA[ ]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[ ]]></en>
+               <es><![CDATA[ ]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 1 -->
+         <slide id="slide_1" class="" imgsrc="img/208/01.jpg">
+            <text id="head">
+               <en><![CDATA[Dressing for the occasion]]></en>
+               <es><![CDATA[Vestirse para la ocasión]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[What do you wear to a place with extreme temperatures, dangerous radiation, meteoroids, and no atmosphere? A human-sized and human-shaped spacecraft: the space suit.]]></en>
+               <es><![CDATA[¿Qué se pondría uno para ir a un lugar de temperaturas extremas, radiación peligrosa, donde pasan meteoroides y no hay atmósfera? Un traje espacial: una nave espacial de tamaño y forma humana.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 2 -->
+         <slide id="slide_2" class="" imgsrc="img/208/02.jpg">
+            <text id="head">
+               <en><![CDATA[Gold shades]]></en>
+               <es><![CDATA[Gafas de sol doradas]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[The sunlight in space is so intense that it can cause blindness. To protect astronauts’ eyes, space suit helmets have gold-covered visors—the gold reflects 98% of yellow, red, and infrared light.]]></en>
+               <es><![CDATA[La luz del sol es tan intensa en el espacio que puede dejarlo a uno ciego. Para proteger los ojos de los astronautas, los cascos espaciales tienen viseras recubiertas de oro. El oro refleja el 98% de la luz amarilla, roja e infrarroja.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 3 -->
+         <slide id="slide_3" class="bottom" imgsrc="img/208/03.jpg">
+            <text id="head">
+               <en><![CDATA[-250 in the shade]]></en>
+               <es><![CDATA[-250 a la sombra]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[Space suits need to be able to handle temperatures as low as -250º F. That’s how cold a suit’s surface can get in the shade.]]></en>
+               <es><![CDATA[Los trajes espaciales deben tener la capacidad de manejar temperaturas tan bajas como -250º F. Así de fría puede llegar a ponerse la superficie de un traje en la sombra.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 4 -->
+         <slide id="slide_4" class="" imgsrc="img/208/04.jpg">
+            <text id="head">
+               <en><![CDATA[Built for heat]]></en>
+               <es><![CDATA[Construido para el calor]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[A space suit’s white color reflects some heat, but when a spacewalking astronaut works in sunlight, the surface of her suit still rises to about 250º F.]]></en>
+               <es><![CDATA[El color blanco del traje espacial refleja un poco del calor, pero cuando un astronauta en una caminata espacial trabaja a la luz del sol, la superficie del traje sube hasta los 250º F.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 5 -->
+         <slide id="slide_5" class="" imgsrc="img/208/05.jpg">
+            <text id="head">
+               <en><![CDATA[Keep your cool]]></en>
+               <es><![CDATA[Mantente fresco]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[Astronauts can get very hot inside their sealed, insulated space suits. To keep them from overheating, cooled water flows through tubes woven into the innermost layer of the space suit.]]></en>
+               <es><![CDATA[Los astronautas pueden sentir mucho calor en los trajes sellados y aislados que usan en el espacio. Para evitar que ellos se recalienten, agua fría fluye por los tubos entretejidos en la capa más profunda del traje espacial.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 6 -->
+         <slide id="slide_6" class="bottom" imgsrc="img/208/06.jpg">
+            <text id="head">
+               <en><![CDATA[We need pressure]]></en>
+               <es><![CDATA[La presión es necesaria]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[On Earth, the air around us doesn’t just provide oxygen; it also provides air <strong>pressure</strong>. Without air pressure on our bodies, we’d die.]]></en>
+               <es><![CDATA[En la Tierra, el aire a nuestro alrededor no sólo nos proporciona oxígeno, sino también <strong>presión atmosférica</strong>. Sin presión atmosférica en nuestros cuerpos, moriríamos.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 7 -->
+         <slide id="slide_7" class="" imgsrc="img/208/07.jpg">
+            <text id="head">
+               <en><![CDATA[The atmosphere inside]]></en>
+               <es><![CDATA[La atmósfera interna]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[There’s no air in space, so there’s no air pressure. Space suits surround their wearers with oxygen, maintaining pressure at about 1/3<sup>rd</sup> of what we feel on Earth.]]></en>
+               <es><![CDATA[En el espacio no hay aire, por lo tanto tampoco hay presión atmosférica. Los trajes espaciales rodean de oxígeno a quienes los usan, y mantienen la presión aproximadamente a 1/3 de la que experimentamos en la Tierra.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 8 -->
+         <slide id="slide_8" class="" imgsrc="img/208/08.jpg">
+            <text id="head">
+               <en><![CDATA[Pure oxygen]]></en>
+               <es><![CDATA[Oxígeno puro]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[On Earth, air is about 21% oxygen. The air inside space suits is 100% oxygen, ensuring that astronauts have enough to breathe in the reduced pressure of the suit.]]></en>
+               <es><![CDATA[En la Tierra, el aire es aproximadamente 21% oxígeno. El aire dentro de los trajes espaciales es 100% oxígeno, para estar seguros que los astronautas tienen suficiente aire para respirar en la reducida presión atmosférica del traje.]]></es>
+            </text>
+         </slide>
+         <!-- SLIDE 9 -->
+         <slide id="slide_9" class="" imgsrc="img/208/09.jpg">
+            <text id="head">
+               <en><![CDATA[Deadly breath]]></en>
+               <es><![CDATA[Aire mortal]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[Carbon dioxide is toxic if you breathe too much of it. To keep astronauts from poisoning themselves with their own breath, space suits have special filters to remove CO<sub>2</sub>.]]></en>
+               <es><![CDATA[El dióxido de carbono es tóxico si uno lo respira en mucha cantidad. Para evitar que los astronautas se envenenen a sí mismos con su propio aire, los trajes espaciales tienen filtros especiales para remover el CO<sub>2</sub>.]]></es>
+            </text>
+         </slide>
+          <!-- SLIDE 10 -->
+         <slide id="slide_10" class="" imgsrc="img/208/10.jpg">
+            <text id="head">
+               <en><![CDATA[High-flying beagles]]></en>
+               <es><![CDATA[<em>Beagles</em> voladores]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[Wearable communication systems, affectionately known as “Snoopy caps,” keep spacewalkers in constant communication with fellow astronauts and Mission Control.]]></en>
+               <es><![CDATA[Los sistemas de comunicación portátiles, que se conocen con el afectuoso nombre de “gorros de Snoopy”,  mantienen a quienes caminan por el espacio en comunicación directa con sus colegas  astronautas y el Centro de Control.]]></es>
+            </text>
+         </slide>
+          <!-- SLIDE 11 -->
+         <slide id="slide_11" class="bottom" imgsrc="img/208/11.jpg">
+            <text id="head">
+               <en><![CDATA[Hold tight]]></en>
+               <es><![CDATA[Agárrense duro]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[You don’t want to drift off while orbiting at 17,100 miles per hour 260 miles above the surface of Earth. For safety, astronauts tether themselves to the spacecraft.]]></en>
+               <es><![CDATA[Uno no quiere salir volando mientras está orbitando a 17.100 millas por hora, y a 260 millas por encima de la superficie de la Tierra. Por seguridad, los astronautas se sujetan a la nave espacial con cables.]]></es>
+            </text>
+         </slide>
+          <!-- SLIDE 12 -->
+         <slide id="slide_12" class="" imgsrc="img/208/12.jpg">
+            <text id="head">
+               <en><![CDATA[A SAFER jetpack]]></en>
+               <es><![CDATA[<em>Jetpack</em> o mochila propulsora <em>SAFER</em>]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[In case astronauts <strong>do</strong> become separated from their spacecraft, they wear emergency jetpacks. The “Simplified Aid for EVA Rescue” (or SAFER) can jet them back to the spacecraft.]]></en>
+               <es><![CDATA[Los astronautas usan unas mochilas propulsoras de emergencia por si llegaran a separarse de su nave espacial.  El <em>“Simplified Aid for EVA Rescue”</em> (o SAFER) (Asistente Simplificado de Rescate para Actividades Extravehiculares) los puede propulsar de regreso a la nave espacial.]]></es>
+            </text>
+         </slide>
+          <!-- SLIDE 13 -->
+         <slide id="slide_13" class="" imgsrc="img/208/13.jpg">
+            <text id="head">
+               <en><![CDATA[Buzz Lightwho?]]></en>
+               <es><![CDATA[¿Buzz cuál?]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[Space suit designers are working to create a new space suit for our next destinations in space. Astronauts on Mars or the Moon might wear suits like this one.]]></en>
+               <es><![CDATA[Los diseñadores de trajes espaciales están trabajando en el diseño de un nuevo traje espacial para nuestros próximos destinos en el espacio. Es posible que los astronautas en Marte o en la Luna usen trajes como éste.]]></es>
+            </text>
+         </slide>
+          <!-- SLIDE 14 -->
+         <slide id="slide_14" class="" imgsrc="img/208/14.jpg">
+            <text id="head">
+               <en><![CDATA[Future missions, future suits]]></en>
+               <es><![CDATA[Misiones futuras, trajes futuros]]></es>
+            </text>
+            <text id="description">
+               <en><![CDATA[Travelers to Mars would need protection from extreme temperatures, thin atmospheres, and gritty, sandblasting dust.]]></en>
+               <es><![CDATA[Quienes viajen a Marte necesitarán protección contra temperaturas extremas, atmósferas delgadas, y la arenisca que golpea.]]></es>
+            </text>
+         </slide>
+
+      </slides>
+   </component>
+</config>
