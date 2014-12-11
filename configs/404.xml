@@ -51,7 +51,7 @@
                <es><![CDATA[Historias]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[A transcript from Apollo 10 reveals some of the history of going to the bathroom in space. It’s never been easy, but it has apparently always been funny.]]></en>
+               <en><![CDATA[A transcript from Apollo 10 reveals some of the history</br>of going to the bathroom in space. It’s never been easy, but it has apparently always been funny.]]></en>
                <es><![CDATA[La transcripción de una conversación en la nave Apolo 10 revela en parte la historia de cómo se va al baño en el espacio. Nunca ha sido una tarea fácil, pero aparentemente siempre ha tenido su lado gracioso.]]></es>
             </text>
          </slide>
@@ -73,19 +73,19 @@
                <es><![CDATA[Buena puntería]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[Pooping into a space toilet requires careful aim. Astronauts use this training toilet on Earth to practice lining up their parts with its parts.]]></en>
+               <en><![CDATA[Pooping into a space toilet requires careful aim. Astronauts use this training toilet on Earth to practice lining up their parts</br>with its parts.]]></en>
                <es><![CDATA[Hacer popó en un baño en el espacio requiere de buena puntería. Los astronautas utilizan este baño que vemos aquí para entrenarse en la Tierra. Practican cómo alinear su cuerpo con las partes de éste.]]></es>
             </text>
          </slide>
          <!-- SLIDE 6 -->
          <slide id="slide_6" class="bottom" imgsrc="img/404/06.jpg">
             <text id="head">
-               <en><![CDATA[The circle of life]]></en>
-               <es><![CDATA[El círculo de la vida]]></es>
+               <en><![CDATA[</br></br></br>The circle of life]]></en>
+               <es><![CDATA[</br></br></br>El círculo de la vida]]></es>
             </text>
             <text id="description">
                <en><![CDATA[Equipment on the Space Station recycles astronauts’ urine, turning it back into astronauts’ drinking water.]]></en>
-               <es><![CDATA[Un equipo especial de la Estación Espacial recicla la orina de los astronautas, convirtiéndola en agua potable.]]></es>
+               <es><![CDATA[Un equipo especial de la Estación Espacial recicla la orina de los astronautas, convirtiéndola</br>en agua potable.]]></es>
             </text>
          </slide>
          <!-- SLIDE 7 -->
