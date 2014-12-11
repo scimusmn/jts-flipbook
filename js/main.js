@@ -5,10 +5,14 @@ var translateElements = [];
 
 $(document).ready( function(){
 
+	//Check for 'dc' query string. If none, use 'data-config' attribute on body tag.
+	var configPath = getParameterByName('dc');
+	if(!configPath) configPath = $('[data-config]').first().attr('data-config');
+
 	//Load XML
 	$.ajax({
 	    type: "GET",
-	    url: $('[data-config]').first().attr('data-config'), //Grab config path from index.html
+	    url: configPath, //Grab config path from index.html
 	    dataType: "xml",
 	    success: function (xml) {
 
@@ -30,19 +34,29 @@ $(document).ready( function(){
 
 			var newSlide = $( ".slides .slide" ).first().clone().appendTo( $( ".swipeshow .slides" ).first() );
 
-			$( newSlide ).attr( 'id', $(this).attr('id') );
-			$( newSlide ).find('img').first().attr('src', $(this).attr('imgsrc') );
-			$( newSlide ).addClass( $(this).attr('class') );
+			var slideId = $(this).attr('id');
+			var slideClass = $(this).attr('class');
+			var slideBgSrc = $(this).attr('imgsrc');
+
+			$( newSlide ).attr( 'id', slideId );
+			$( newSlide ).addClass( slideClass );
+
+			if (slideClass != 'video') {
+
+				//Static background
+				$( newSlide ).find('img').first().attr('src', slideBgSrc );
+
+			} else {
+
+				//Video background
+				setupVideoSlide(newSlide, slideId, slideBgSrc);
+
+			}
 
 		});
 
 		//Remove initial template slide
 		$( ".slides .slide" ).first().remove();
-
-		//Set up attract loop
-		var attractSrc = $(configXML).find('setting[id=attractSrc]').attr('value');
-		var srcDiv = '<source src="'+attractSrc+'" type="video/mp4" />';
-		$(srcDiv).appendTo('#screensaver-video');
 
 		//Set up translations
 		setupTranslations();
@@ -72,13 +86,35 @@ $(document).ready( function(){
 				//Show gifs on current slide
 				$(current).find('img[src$=".gif"]').show();
 
+				//Pause any video on previous slide
+				$(prev).find('video').each(function(){$(this)[0].pause()});
+
+				//Play video on current slide
+				$(current).find('video').each(function(){$(this)[0].play()});
+
 			},
 			onpause: function(){},
 
 		});
 
-		//Disable 300ms iOS delay on clicks for more responsiveness
+		//Disable 300ms iOS delay
 		FastClick.attach(document.body);
+
+	}
+
+	function setupVideoSlide(slideDiv, slideId, videoSrc){
+
+		var videoId = 'video_bg_'+slideId;
+		var videoTag = '<video id="'+videoId+'" class="video-js vjs-default-skin vjs-big-play-centered"><source src="'+videoSrc+'" type="video/mp4" /></video>';
+		var videoOptions = { "controls": false, "children":{"loadingSpinner":false}, "width": "100%", "height":"100%", "autoplay": false, "loop": "true", "preload": "auto" };
+
+		//Append to html
+		$(slideDiv).prepend( videoTag );
+
+		//Initialize player
+		var videoPlayer = videojs(videoId, videoOptions, function() {
+			// Player (this) is initialized and ready.
+		});
 
 	}
 
@@ -153,5 +189,12 @@ function changeLanguage( languageKey ) {
 	}, 30);
 
 
+}
+
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 

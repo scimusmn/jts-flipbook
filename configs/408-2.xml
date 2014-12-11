@@ -12,14 +12,14 @@
     <component id="jts_digi_flipbook">
         <slides>
             <!-- SLIDE 0 -->
-            <slide id="slide_0" class="title" imgsrc="img/00.jpg">
+            <slide id="slide_0" class="video" imgsrc="img/408-2/00.mp4">
                 <text id="head">
-                    <en><![CDATA[Eating in space]]></en>
-                    <es><![CDATA[Eating in space - NEED SPANISH TRANSLATION]]></es>
+                    <en><![CDATA[ ]]></en>
+                    <es><![CDATA[ ]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Swipe to begin]]></en>
-                    <es><![CDATA[Pase para comenzar - NEED SPANISH TRANSLATION]]></es>
+                    <en><![CDATA[ ]]></en>
+                    <es><![CDATA[ ]]></es>
                 </text>
             </slide>
             <!-- SLIDE 1 -->
@@ -107,7 +107,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Astronauts need to eat a healthy, balanced diet. Weightlessness is hard on the body, and astronauts have a big workload.]]></en>
-                    <es><![CDATA[Los astronautas necesitan comer una dieta balanceada y sana. El no tener peso es algo difícil para el cuerpo y, además, los astronautas tienen una gran carga de trabajo.]]></es>
+                    <es><![CDATA[Los astronautas necesitan comer una dieta balanceada y sana. La ingravidez es algo difícil para el cuerpo y, además, los astronautas tienen una gran carga de trabajo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->

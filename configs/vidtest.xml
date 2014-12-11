@@ -12,7 +12,7 @@
     <component id="jts_digi_flipbook">
         <slides>
             <!-- SLIDE 0 -->
-            <slide id="slide_0" class="video" imgsrc="img/506/00.mp4">
+            <slide id="slide_0" class="video" imgsrc="img/506/000.mp4">
                 <text id="head">
                     <en><![CDATA[ ]]></en>
                     <es><![CDATA[ ]]></es>
@@ -41,11 +41,11 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Part of astronauts’ training takes place in a 6.2-million-gallon pool, where buoyancy simulates weightlessness. They practice moving in space suits, using tools, and dealing with emergency situations.]]></en>
-                    <es><![CDATA[Parte del entrenamiento de los astronautas se realiza en una piscina de 6.2 millones de galones, donde la capacidad de flotar simula la ingravidez. Ellos practican cómo moverse con los trajes espaciales, cómo usar las herramientas, y cómo enfrentar situaciones de emergencia.]]></es>
+                    <es><![CDATA[Parte del entrenamiento de los astronautas se realiza en una piscina de 6.2 millones de galones, donde la capacidad de flotar simula la falta de peso. Ellos practican cómo moverse con los trajes espaciales, cómo usar las herramientas, y cómo enfrentar situaciones de emergencia.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 3 -->
-            <slide id="slide_3" class="bottom" imgsrc="img/506/03.jpg">
+            <slide id="slide_3" class="video" imgsrc="img/vids/506-ME-01-Spacewalk-ss_1.mp4">
                 <text id="head">
                     <en><![CDATA[Something’s missing . . .]]></en>
                     <es><![CDATA[Algo hace falta…]]></es>
@@ -67,7 +67,7 @@
                 </text>
             </slide>
             <!-- SLIDE 5 -->
-            <slide id="slide_5" class="bottom" imgsrc="img/506/05.jpg">
+            <slide id="slide_5" class="video" imgsrc="img/vids/413-ME-01-Sleeping_1.mp4">
                 <text id="head">
                     <en><![CDATA[Under pressure]]></en>
                     <es><![CDATA[Bajo presión]]></es>
@@ -78,7 +78,7 @@
                 </text>
             </slide>
             <!-- SLIDE 6 -->
-            <slide id="slide_6" class="" imgsrc="img/506/06.jpg">
+            <slide id="slide_6" class="video" imgsrc="img/vids/509-ME-03-Robots-ss_1.mp4">
                 <text id="head">
                     <en><![CDATA[Beating the bends]]></en>
                     <es><![CDATA[Venciendo las burbujas en la sangre]]></es>
@@ -89,7 +89,7 @@
                 </text>
             </slide>
             <!-- SLIDE 7 -->
-            <slide id="slide_7" class="" imgsrc="img/506/07.jpg">
+            <slide id="slide_7" class="video" imgsrc="img/vids/404-ME-02-Toilet-ss_1.mp4">
                 <text id="head">
                     <en><![CDATA[Double doors]]></en>
                     <es><![CDATA[Puertas dobles]]></es>
@@ -100,7 +100,7 @@
                 </text>
             </slide>
             <!-- SLIDE 8 -->
-            <slide id="slide_8" class="" imgsrc="img/506/08.jpg">
+            <slide id="slide_8" class="video" imgsrc="img/vids/413-ME-01-Sleeping_1.mp4">
                 <text id="head">
                     <en><![CDATA[Hostile work environment]]></en>
                     <es><![CDATA[Un medio hostil de trabajo]]></es>
@@ -111,7 +111,7 @@
                 </text>
             </slide>
             <!-- SLIDE 9 -->
-            <slide id="slide_9" class="" imgsrc="img/506/09.jpg">
+            <slide id="slide_9" class="video" imgsrc="img/vids/208-ME-02-SpaceSuit-ss_1.mp4">
                 <text id="head">
                     <en><![CDATA[A personal atmosphere]]></en>
                     <es><![CDATA[Atmósfera personal]]></es>

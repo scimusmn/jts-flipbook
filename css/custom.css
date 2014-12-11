@@ -74,9 +74,11 @@ button:focus{
   background-color: #000;
 }
 
-.my-gallery.swipeshow .slide img {
+.my-gallery.swipeshow .slide img,
+.my-gallery.swipeshow .slide video {
   width: 100%;
   height: 100%;
+  position: absolute;
 }
 
 /* Nav Dots */

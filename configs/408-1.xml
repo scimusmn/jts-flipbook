@@ -12,14 +12,14 @@
     <component id="jts_digi_flipbook">
         <slides>
             <!-- SLIDE 0 -->
-            <slide id="slide_0" class="title" imgsrc="img/00.jpg">
+            <slide id="slide_0" class="video" imgsrc="img/408-1/00.mp4">
                 <text id="head">
-                    <en>Preparing food for space</en>
-                    <es>Preparing food for space - NEED SPANISH TRANSLATION</es>
+                    <en> </en>
+                    <es> </es>
                 </text>
                 <text id="description">
-                    <en>Swipe to begin</en>
-                    <es>Pase para comenzar - NEED SPANISH TRANSLATION</es>
+                    <en> </en>
+                    <es> </es>
                 </text>
             </slide>
             <!-- SLIDE 1 -->

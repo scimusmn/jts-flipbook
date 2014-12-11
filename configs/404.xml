@@ -12,7 +12,7 @@
    <component id="jts_digi_flipbook">
       <slides>
          <!-- SLIDE 0 -->
-         <slide id="slide_0" class="title" imgsrc="img/attract.gif">
+         <slide id="slide_0" class="video" imgsrc="img/404/00.mp4">
             <text id="head">
                <en><![CDATA[ ]]></en>
                <es><![CDATA[ ]]></es>
