@@ -29,7 +29,7 @@
                     <es><![CDATA[Mesa compartida]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Eating is very different in space. But one thing is the same: people like to do it together.]]></en>
+                    <en><![CDATA[Eating is very different<br />in space. But one thing<br />is the same : people like<br />to do it together.]]></en>
                     <es><![CDATA[Comer es una experiencia muy diferente en el espacio. Sin embargo, algo continúa igual: a la gente le gusta participar de este momento.]]></es>
                 </text>
             </slide>
@@ -40,7 +40,7 @@
                     <es><![CDATA[Modales en la mesa espacial]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[The dining area is an important social space. But if there’s no room at your spacecraft’s table, it’s OK to eat on the ceiling.]]></en>
+                    <en><![CDATA[The dining area is an important social space.<br />But if there’s no room<br />at your spacecraft’s table,<br />it’s OK to eat on the ceiling.]]></en>
                     <es><![CDATA[El comedor es un espacio social importante en la nave espacial. No obstante, si no hay espacio en la mesa de la nave, es razonable comer en el techo.]]></es>
                 </text>
             </slide>
@@ -51,7 +51,7 @@
                     <es><![CDATA[Cena a la deriva]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Velcro keeps cans and pouches of food from floating off the table. Astronauts stay put using toeholds under the table.]]></en>
+                    <en><![CDATA[Velcro keeps cans<br />and pouches of food<br />from floating off the table. Astronauts stay put using toeholds under the table.]]></en>
                     <es><![CDATA[El Velcro ayuda a evitar que las latas y bolsas de comida salgan volando de la mesa. Los astronautas logran quedarse en su puesto utilizando los puntos de apoyo para los dedos de los pies que hay debajo de la mesa.]]></es>
                 </text>
             </slide>
@@ -69,8 +69,8 @@
             <!-- SLIDE 5 -->
             <slide id="slide_5" class="bottom" imgsrc="img/408-2/05.jpg">
                 <text id="head">
-                    <en><![CDATA[Just like Mom’s]]></en>
-                    <es><![CDATA[Como la de mamá]]></es>
+                    <en><![CDATA[<br /><br /><br />Just like Mom’s]]></en>
+                    <es><![CDATA[<br /><br /><br />Como la de mamá]]></es>
                 </text>
                 <text id="description">
                     <en><![CDATA[In space, Thanksgiving dinner comes in pouches. There’s only one thing missing . . .]]></en>
@@ -95,18 +95,18 @@
                     <es><![CDATA[Más que nutritiva]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Even though it comes out of a pouch, space food has to look, feel, and taste good. This helps keep astronauts in high spirits.]]></en>
+                    <en><![CDATA[Even though it comes out<br />of a pouch, space food has<br />to look, feel, and taste good. This helps keep astronauts<br />in high spirits.]]></en>
                     <es><![CDATA[Aún cuando viene en bolsas, la comida que se consume en el espacio debe tener buen aspecto, ser agradable a los sentidos y tener buen sabor. Esto ayuda a mantener a los astronautas de buen ánimo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
-            <slide id="slide_8" class="bottom" imgsrc="img/408-2/08.jpg">
+            <slide id="slide_8" class="" imgsrc="img/408-2/08.jpg">
                 <text id="head">
                     <en><![CDATA[Eating healthy]]></en>
                     <es><![CDATA[Comer saludable]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Astronauts need to eat a healthy, balanced diet. Weightlessness is hard on the body, and astronauts have a big workload.]]></en>
+                    <en><![CDATA[Astronauts need to eat<br />a healthy, balanced diet. Weightlessness is hard<br />on the body, and<br />astronauts have<br />a big workload.]]></en>
                     <es><![CDATA[Los astronautas necesitan comer una dieta balanceada y sana. La ingravidez es algo difícil para el cuerpo y, además, los astronautas tienen una gran carga de trabajo.]]></es>
                 </text>
             </slide>
@@ -128,7 +128,7 @@
                     <es><![CDATA[Cultivando la cena]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Astronauts are experimenting with growing vegetables on the International Space Station. One day it might be possible to feed astronauts from a spacecraft garden.]]></en>
+                    <en><![CDATA[Astronauts are experimenting with growing vegetables<br />on the International Space Station. One day it might be possible to feed astronauts from a spacecraft garden.]]></en>
                     <es><![CDATA[Los astronautas están haciendo experimentos para cultivar verduras en la Estación Espacial Internacional. Es posible que algún día se alimenten con los productos cultivados en la huerta de la nave espacial.]]></es>
                 </text>
             </slide>
@@ -139,7 +139,7 @@
                     <es><![CDATA[Comida del futuro]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[We’ll need food wherever the journey to space takes us. Each destination will present new challenges to food production. This artist imagines underground greenhouses on frigid Mars.]]></en>
+                    <en><![CDATA[We’ll need food wherever<br />the journey to space takes us. Each destination will present new challenges to food production. This artist imagines underground greenhouses on frigid Mars.]]></en>
                     <es><![CDATA[Cualquiera que sea el destino adonde nos conduzcan los viajes al espacio, vamos a necesitar comida. Cada destino representará nuevos retos en la producción de alimentos. Este artista ha imaginado invernaderos bajo el frígido suelo de Marte.]]></es>
                 </text>
             </slide>
