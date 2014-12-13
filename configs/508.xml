@@ -26,13 +26,10 @@
             <slide id="slide_1" class="" imgsrc="img/508/01.jpg">
                 <text id="head">
                     <en><![CDATA[Progress: a cargo carrier]]></en>
-                    <es><![CDATA[
-                        <em>Progress:</em>
-                        un transportador de carga
-                    ]]></es>
+                    <es><![CDATA[<em>Progress:</em> un transportador de carga]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[This unpiloted Russian spacecraft, launched atop a Soyuz rocket, regularly carries food, equipment, and supplies—but not people—to the International Space Station.]]></en>
+                    <en><![CDATA[This unpiloted Russian spacecraft, launched atop<br />a Soyuz rocket, regularly carries food, equipment,<br />and supplies—but not<br />people—to the International Space Station.]]></en>
                     <es><![CDATA[Esta nave espacial rusa que viaja sin piloto, lanzada desde la parte alta de un cohete Soyuz, transporta regularmente alimentos, equipos y provisiones—pero no lleva personas—a la Estación Espacial Internacional.]]></es>
                 </text>
             </slide>
@@ -54,13 +51,9 @@
                     <es><![CDATA[ATV: El poderoso vehículo transportador de Europa]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Europe’s Automated Transfer Vehicle can carry more than 16,900 pounds of cargo into orbit—about three times Progress’s capacity. It launches on an Ariane 5 rocket.]]></en>
+                    <en><![CDATA[Europe’s Automated Transfer Vehicle can carry more<br />than 16,900 pounds of<br />cargo into orbit—about<br />three times Progress’s capacity. It launches<br />on an Ariane 5 rocket.]]></en>
                     <es><![CDATA[
-                        El Vehículo de Transferencia Automatizado europeo o ATV, puede transportar más de 16.900 libras de carga hasta la órbita terrestre, y tiene casi tres veces la capacidad del
-                        <em>Progress</em>
-                        . Se lanza desde el cohete
-                        <em>Ariane 5</em>
-                        .
+                        El Vehículo de Transferencia Automatizado europeo o ATV, puede transportar más de 16.900 libras de carga hasta la órbita terrestre, y tiene casi tres veces la capacidad del <em>Progress</em>. Se lanza desde el cohete <em>Ariane 5</em>.
                     ]]></es>
                 </text>
             </slide>
@@ -68,20 +61,12 @@
             <slide id="slide_4" class="" imgsrc="img/508/04.jpg">
                 <text id="head">
                     <en><![CDATA[Dragon: a private pioneer]]></en>
-                    <es><![CDATA[
-                        <em>Dragon:</em>
-                        un pionero privado
+                    <es><![CDATA[<em>Dragon:</em> un pionero privado
                     ]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[The SpaceX Dragon capsule, launched on a Falcon 9 rocket, was the first commercial spacecraft to deliver cargo to the Space Station.]]></en>
-                    <es><![CDATA[
-                        La cápsula
-                        <em>SpaceX Dragon,</em>
-                        lanzada en un cohete
-                        <em>Falcon 9,</em>
-                        fue la primera nave espacial en transportar carga hasta la Estación Espacial.
-                    ]]></es>
+                    <en><![CDATA[The SpaceX Dragon<br />capsule, launched<br />on a Falcon 9 rocket,<br />was the first commercial spacecraft to deliver cargo<br />to the Space Station.]]></en>
+                    <es><![CDATA[La cápsula <em>SpaceX Dragon,</em> lanzada en un cohete <em>Falcon 9,</em> fue la primera nave espacial en transportar carga hasta la Estación Espacial.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 5 -->
@@ -91,14 +76,10 @@
                     <es><![CDATA[Cygnus: Reabastecer la Estación Espacial Internacional]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Orbital Sciences’ cargo-carrying Cygnus spacecraft launches atop an Antares rocket. Under a NASA contract, orbital sciences will deliver at least 20 tons of cargo to the ISS.]]></en>
+                    <en><![CDATA[Orbital Sciences’ cargo-carrying Cygnus spacecraft launches atop an Antares rocket. Under a NASA contract, Orbital Sciences<br />will deliver at least 20 tons<br />of cargo to the ISS.]]></en>
                     <es><![CDATA[
                         La nave espacial Cygnus, transportadora de carga de la empresa
-                        <em>Orbital Sciences,</em>
-                        es lanzada desde la parte alta del cohete Antares. Bajo contrato con la NASA,
-                        <em>Orbital Sciences</em>
-                        transportará al menos 20 toneladas de carga a la Estación Espacial Internacional.
-                    ]]></es>
+                        <em>Orbital Sciences,</em> es lanzada desde la parte alta del cohete Antares. Bajo contrato con la NASA, <em>Orbital Sciences</em> transportará al menos 20 toneladas de carga a la Estación Espacial Internacional.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
@@ -109,14 +90,11 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[
-                        Designed, built, and launched in Japan, the HTV (also called
-                        <em>Kounotori,</em>
+                        Designed, built, and launched in Japan, the HTV (also called <em>Kounotori,</em>
                         or “white stork”) can deliver more than 12,000 pounds of cargo to the International Space Station.
                     ]]></en>
                     <es><![CDATA[
-                        Diseñado, construido y lanzado en el Japón, el HTV (también conocido como
-                        <em>Kounotori</em>
-                        o “cigüeña blanca”) puede transportar más de 12.000 libras de carga a la Estación Espacial Internacional.
+                        Diseñado, construido y lanzado en el Japón, el HTV (también conocido como <em>Kounotori</em> o “cigüeña blanca”) puede transportar más de 12.000 libras de carga a la Estación Espacial Internacional.
                     ]]></es>
                 </text>
             </slide>
@@ -134,37 +112,24 @@
             <!-- SLIDE 8 -->
             <slide id="slide_8" class="bottom" imgsrc="img/508/08.jpg">
                 <text id="head">
-                    <en><![CDATA[Teleportation: beam me up]]></en>
-                    <es><![CDATA[Teletransporte: teletranspórtame]]></es>
+                    <en><![CDATA[<br /><br /><br />Teleportation: beam me up]]></en>
+                    <es><![CDATA[<br /><br />Teletransporte: teletranspórtame]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[
-                        <em>Star Trek</em>
-                        -style teleportation may be possible theoretically, but the technology is still a long, long, long . . . long way in the future.
+                    <en><![CDATA[<em>Star Trek</em>-style teleportation may be possible theoretically, but the technology is still a long, long, long . . . long way in the future.
                     ]]></en>
-                    <es><![CDATA[
-                        El teletransporte al estilo de
-                        <em>Star Trek</em>
-                        puede ser teóricamente posible, pero la tecnología para realizarlo todavía está en un futuro muy, muy lejano.
-                    ]]></es>
+                    <es><![CDATA[El teletransporte al estilo de <em>Star Trek</em> puede ser teóricamente posible, pero la tecnología para realizarlo todavía está en un futuro muy, muy lejano.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
             <slide id="slide_9" class="" imgsrc="img/508/09.jpg">
                 <text id="head">
                     <en><![CDATA[Mass driver: super catapult]]></en>
-                    <es><![CDATA[
-                        <em>Mass driver:</em>
-                        la súper catapulta
-                    ]]></es>
+                    <es><![CDATA[<em>Mass driver:</em> la súper catapulta]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[A mass driver launcher would accelerate a magnetically levitated vehicle off the end of a ramp—sort of like a maglev train going off a jump into space. (Which would be awesome.)]]></en>
-                    <es><![CDATA[
-                        Un propulsor de masa, o
-                        <em>mass driver,</em>
-                        aceleraría un vehículo de levitación magnética desde el extremo de una rampa, como una especie de tren maglev dando un salto hacia el espacio. (Lo que sería extraordinario.)
-                    ]]></es>
+                    <en><![CDATA[A mass driver launcher would accelerate a magnetically levitated vehicle off the<br />end of a ramp—sort of<br />like a maglev train going<br />off a jump into space.<br />(Which would be awesome.)]]></en>
+                    <es><![CDATA[Un propulsor de masa, o <em>mass driver,</em> aceleraría un vehículo de levitación magnética desde el extremo de una rampa, como una especie de tren maglev dando un salto hacia el espacio. (Lo que sería extraordinario.)]]></es>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
@@ -174,8 +139,8 @@
                     <es><![CDATA[Provisiones provenientes del espacio]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Producing supplies in space could be cheaper than launching them from Earth. In the future, we may mine materials from the moon, asteroids, or other planets.]]></en>
-                    <es><![CDATA[Producir provisiones en el espacio podría ser más barato que lanzarlas desde la Tierra. En el futuro, es probable que se extraigan materiales de la luna, de los asteroides o de otros planetas.]]></es>
+                    <en><![CDATA[Producing supplies in space could be cheaper than launching them from Earth.<br />In the future, we may mine materials from the Moon, asteroids, or other planets.]]></en>
+                    <es><![CDATA[Producir provisiones en el espacio podría ser más barato que lanzarlas desde la Tierra. En el futuro, es probable que se extraigan materiales de la Luna, de los asteroides o de otros planetas.]]></es>
                 </text>
             </slide>
         </slides>
