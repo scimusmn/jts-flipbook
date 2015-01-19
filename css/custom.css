@@ -53,6 +53,10 @@ h3 {
   font-family: "Aller_Lt";
 }
 
+strong {
+  font-family: "Aller_Bd";
+}
+
 /* Remove default Button styles */
 button{
   border:0;

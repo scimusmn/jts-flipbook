@@ -29,8 +29,8 @@
                     <es><![CDATA[Mesa compartida]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Eating is very different<br />in space. But one thing<br />is the same : people like<br />to do it together.]]></en>
-                    <es><![CDATA[Comer es una experiencia muy diferente en el espacio. Sin embargo, algo continúa igual: a la gente le gusta participar de este momento.]]></es>
+                    <en><![CDATA[Eating is very different in space. But one thing is<br/>the same: people like to do&nbsp;it&nbsp;together.]]></en>
+                    <es><![CDATA[Comer es una experiencia muy diferente en el espacio. Sin embargo, una cosa se mantiene igual: a la gente le gusta compartir este momento.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 2 -->
@@ -41,7 +41,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[The dining area is an important social space.<br />But if there’s no room<br />at your spacecraft’s table,<br />it’s OK to eat on the ceiling.]]></en>
-                    <es><![CDATA[El comedor es un espacio social importante en la nave espacial. No obstante, si no hay espacio en la mesa de la nave, es razonable comer en el techo.]]></es>
+                    <es><![CDATA[El comedor es un espacio social importante, pero si en la mesa no hay espacio para todos, es razonable comer en el techo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 3 -->
@@ -52,7 +52,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Velcro keeps cans<br />and pouches of food<br />from floating off the table. Astronauts stay put using toeholds under the table.]]></en>
-                    <es><![CDATA[El Velcro ayuda a evitar que las latas y bolsas de comida salgan volando de la mesa. Los astronautas logran quedarse en su puesto utilizando los puntos de apoyo para los dedos de los pies que hay debajo de la mesa.]]></es>
+                    <es><![CDATA[El Velcro ayuda a evitar que las latas y bolsas de comida salgan volando de la mesa. Los astronautas se mantienen en<br/>sus puestos utilizando los<br/>puntos de apoyo que hay<br/>debajo de la&nbsp;mesa.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 4 -->
@@ -63,7 +63,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Many space meals contain thick, sticky sauce. It keeps food from drifting apart. Plus, who doesn’t like sauce?]]></en>
-                    <es><![CDATA[Muchas de las comidas que se consumen en el espacio contienen salsas gruesas y pegajosas. Éstas sirven para evitar que la comida vuele y se desparrame. Y, ¿a quién no le gustan las salsas?]]></es>
+                    <es><![CDATA[Muchas de las comidas que se consumen en el espacio contienen salsas gruesas y pegajosas. Éstas sirven para evitar que la comida vuele y se desparrame. Y además, ¿a quién no le gusta la salsa?]]></es>
                 </text>
             </slide>
             <!-- SLIDE 5 -->
@@ -85,7 +85,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[A space Thanksgiving has no gravy. Goopy gravy is hard to apply to food in space, and pre-mixing potatoes and gravy ruins their texture!]]></en>
-                    <es><![CDATA[La celebración del Día de Acción de Gracias en el espacio se hace sin gravy. La salsa gruesa y pegajosa de carne que conocemos como gravy es imposible de servir allí, y ¡mezclarla de antemano con las papas arruinaría por completo su consistencia!]]></es>
+                    <es><![CDATA[La celebración del Día de Acción de Gracias en el espacio se hace sin gravy. La salsa que conocemos como gravy es imposible de servir allí, y ¡mezclarla de antemano con las papas arruinaría por completo su&nbsp;consistencia!]]></es>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -96,7 +96,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Even though it comes out<br />of a pouch, space food has<br />to look, feel, and taste good. This helps keep astronauts<br />in high spirits.]]></en>
-                    <es><![CDATA[Aún cuando viene en bolsas, la comida que se consume en el espacio debe tener buen aspecto, ser agradable a los sentidos y tener buen sabor. Esto ayuda a mantener a los astronautas de buen ánimo.]]></es>
+                    <es><![CDATA[Aun cuando venga empacada en bolsas, la comida espacial debe tener buen aspecto, ser agradable a los sentidos y tener buen sabor. Esto ayuda a mantener a los astronautas de buen ánimo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
@@ -107,18 +107,18 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Astronauts need to eat<br />a healthy, balanced diet. Weightlessness is hard<br />on the body, and<br />astronauts have<br />a big workload.]]></en>
-                    <es><![CDATA[Los astronautas necesitan comer una dieta balanceada y sana. La ingravidez es algo difícil para el cuerpo y, además, los astronautas tienen una gran carga de trabajo.]]></es>
+                    <es><![CDATA[Los astronautas necesitan comer una dieta balanceada y sana. La ingravidez es algo difícil para el cuerpo; además, los astronautas tienen una gran carga de trabajo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
             <slide id="slide_9" class="bottom" imgsrc="img/408-2/09.jpg">
                 <text id="head">
-                    <en><![CDATA[Planning ahead]]></en>
-                    <es><![CDATA[Planear con anticipación]]></es>
+                    <en><![CDATA[<br/>Planning ahead]]></en>
+                    <es><![CDATA[<br/><br/>Planear con anticipación]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Imagine a mission to space lasting several years. You could pack a lot of food for the trip, but there may be other ways to keep yourself fed.]]></en>
-                    <es><![CDATA[Imagina una misión en el espacio que dure varios años. Uno podría empacar un montón de comida para el viaje, pero es posible que existan otras maneras de alimentarse.]]></es>
+                    <en><![CDATA[Imagine a mission to space lasting several years. You <strong>could</strong> pack a lot of food for the trip, but there may be other ways to keep yourself fed.]]></en>
+                    <es><![CDATA[Imagina una misión en el espacio que dure varios años. Uno <strong>podría</strong> empacar un montón de comida para el viaje, pero es posible que existan otras maneras de alimentarse.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
@@ -140,7 +140,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[We’ll need food wherever<br />the journey to space takes us. Each destination will present new challenges to food production. This artist imagines underground greenhouses on frigid Mars.]]></en>
-                    <es><![CDATA[Cualquiera que sea el destino adonde nos conduzcan los viajes al espacio, vamos a necesitar comida. Cada destino representará nuevos retos en la producción de alimentos. Este artista ha imaginado invernaderos bajo el frígido suelo de Marte.]]></es>
+                    <es><![CDATA[Cualquiera que sea el destino adonde nos conduzcan los viajes al espacio, vamos a necesitar comida. Cada destino representará nuevos retos relacionados con la producción de alimentos. Este artista ha imaginado invernaderos bajo el frígido suelo de Marte.]]></es>
                 </text>
             </slide>
         </slides>
