@@ -60,7 +60,7 @@
 
   $.swipeshow = {};
 
-  $.swipeshow.version = "0.10.8";
+  $.swipeshow.version = "0.10.9";
 
   // Detect transition support, jQuery 1.8+ style.
   var transitions = typeof $("<div>").css({transition: 'all'}).css('transition') == 'string';
@@ -503,8 +503,6 @@
 
         // Switch to that slide.
         c.goTo(index);
-
-        e.preventDefault();
 
         // Restart the slideshow if it was already started before.
         if (start.started) c.start();

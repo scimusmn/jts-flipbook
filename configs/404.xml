@@ -113,8 +113,8 @@
          <!-- SLIDE 9 -->
          <slide id="slide_9" class="bottom" imgsrc="img/404/09.jpg">
             <text id="head">
-               <en><![CDATA[We’ll “go” everywhere]]></en>
-               <es><![CDATA[“Iremos al baño” donde sea necesario]]></es>
+               <en><![CDATA[<br/>We’ll “go” everywhere]]></en>
+               <es><![CDATA[<br/>“Iremos al baño” donde sea necesario]]></es>
             </text>
             <text id="description">
                <en><![CDATA[Wherever our journey to space takes us—whether another moon, planet, or asteroid—we’ll have to figure out how to make our bathrooms work.]]></en>

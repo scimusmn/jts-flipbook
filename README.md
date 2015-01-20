@@ -25,9 +25,11 @@ This app generates a series of full-screen slides from a configuration file and 
 
 
 #### 4. Change iPad Settings.
-* General > Accessibility > Guided Access: **ON**
 * Wi-Fi: **OFF**
 * Bluetooth: **OFF**
+* General > Accessibility > Guided Access: **ON**
+* General > Use Side Switch To: **Mute**
+* Hold device in Landscape Orientation. Swipe up from bottom of screen to access Control Center. Tap "lock rotation" icon.
 
 
 #### 5. Change KioskPro Settings.

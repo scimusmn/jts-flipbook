@@ -47,8 +47,8 @@
          <!-- SLIDE 3 -->
          <slide id="slide_3" class="bottom" imgsrc="img/208/03.jpg">
             <text id="head">
-               <en><![CDATA[-250 in the shade]]></en>
-               <es><![CDATA[-250 a la sombra]]></es>
+               <en><![CDATA[<br/><br/>-250 in the shade]]></en>
+               <es><![CDATA[<br/><br/>-250 a la sombra]]></es>
             </text>
             <text id="description">
                <en><![CDATA[Space suits need to be able to handle temperatures as low as -250º F. That’s how cold a suit’s surface can get in the shade.]]></en>
@@ -80,8 +80,8 @@
          <!-- SLIDE 6 -->
          <slide id="slide_6" class="bottom" imgsrc="img/208/06.jpg">
             <text id="head">
-               <en><![CDATA[We need pressure]]></en>
-               <es><![CDATA[La presión es necesaria]]></es>
+               <en><![CDATA[<br/><br/>We need pressure]]></en>
+               <es><![CDATA[<br/><br/>La presión es necesaria]]></es>
             </text>
             <text id="description">
                <en><![CDATA[On Earth, the air around us doesn’t just provide oxygen; it also provides air pressure. Without air pressure on our bodies, we’d die.]]></en>
