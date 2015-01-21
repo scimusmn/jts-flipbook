@@ -150,7 +150,7 @@
                     <es><![CDATA[El Comandante Van Winkle]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Scientists are studying whether astronauts could sleep through long voyages. Putting a crew into hibernation for months<br />at a time would save energy, food, and water. And it sounds relaxing.]]></en>
+                    <en><![CDATA[Scientists are studying whether astronauts <br />could sleep through long voyages. Putting a crew into hibernation for months at a time would save energy, <br />food, and water. And it <br />sounds relaxing.]]></en>
                     <es><![CDATA[Los científicos están investigando si los astronautas podrían dormir durante el tiempo que duran los viajes largos. Lograr que una tripulación hiberne durante meses seguidos ayudaría a ahorrar energía, alimentos y agua. Y además parece algo relajante.]]></es>
                 </text>
             </slide>
