@@ -1,0 +1,31 @@
+{
+  "name": "swipeshow",
+  "version": "0.10.9",
+  "author": "Rico Sta. Cruz <hi@ricostacruz.com>",
+  "description": "The unassuming touch-enabled JavaScript slideshow.",
+  "license": "MIT",
+  "keywords": [
+    "slideshow",
+    "swipe",
+    "images",
+    "gallery"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "main": [
+    "jquery.swipeshow.js",
+    "jquery.swipeshow.css"
+  ],
+  "scripts": [
+    "jquery.swipeshow.js"
+  ],
+  "styles": [
+    "jquery.swipeshow.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

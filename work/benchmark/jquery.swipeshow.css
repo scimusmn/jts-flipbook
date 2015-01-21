@@ -38,10 +38,10 @@
 
 /* iOS: disable text select, disable callout, image save panel (popup) */
 .swipeshow img {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
+  -webkit-touch-callout: none; 
+  -webkit-user-select: none;   
+  -moz-user-select: none;   
+  user-select: none;   
 }
 
 .swipeshow {

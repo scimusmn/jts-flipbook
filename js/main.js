@@ -53,6 +53,8 @@ $(document).ready( function(){
 
 			}
 
+
+
 		});
 
 		//Remove initial template slide
@@ -91,6 +93,15 @@ $(document).ready( function(){
 
 				//Play video on current slide
 				$(current).find('video').each(function(){$(this)[0].play()});
+
+				//Hide all slides outside viewport (FIX for ios 8 lag)
+				$(current).parent().children('.slide').each(function(i){
+					if (i == index || i == (index-1) || i == (index+1)){
+						$(this).show();
+					} else {
+						$(this).hide();
+					}
+				});
 
 			},
 			onpause: function(){},

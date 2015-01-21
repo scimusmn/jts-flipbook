@@ -69,6 +69,7 @@ button:focus{
 .my-gallery.swipeshow {
   width: 100%;
   height: 100%;
+
   background: #000; /* Color that shows on edge swipe */
   background: url('../img/slideshow_bg.png');
   background-size: 100% 100%;

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Swipeshow: the unassuming touch-enabled slideshow JavaScript library</title>
+
+    <link href="../jquery.swipeshow.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+    <link href="slideshow-theme.css" rel="stylesheet" />
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="../jquery.swipeshow.min.js"></script>
+    <meta name="viewport" content="width=device-width">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    <script>if(location.hostname.match(/ricostacruz\.com$/)){var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-20473929-1"]),_gaq.push(["_trackPageview"]),function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}()}</script>
+</head>
+<body>
+<div class='all'>
+
+  <div class="slideshow swipeshow">
+    <ul class="slides">
+      <li class="slide">
+        <img src="01.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="02.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="03.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="04.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="05.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="06.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="07.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="08.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="09.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="10.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="11.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="12.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="13.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="01 2.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="02 2.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="03 2.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+ <!--      <li class="slide">
+        <img src="04 2.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="05 2.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="06 2.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="07 2.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="08 2.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="09 2.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="10 2.jpg" alt="" />
+      </li>
+      <li class="slide">
+        <img src="11 2.jpg" alt="" />
+      </li>
+      <li class="slide with-overlay link-to-github">
+        <img src="12 2.jpg" alt="" />
+        <div class="overlay">
+        </div>
+      </li>
+      <li class="slide">
+        <img src="13 2.jpg" alt="" />
+      </li> -->
+    </ul>
+    <!--<button class='previous'></button>
+    <button class='next'></button>-->
+    <div class='dots'></div>
+  </div>
+
+  <script>
+    (function($) {
+      $(".version").text($.swipeshow.version);
+      $(".slideshow").swipeshow({ mouse: true, interval: 6000 });
+    })(jQuery);
+  </script>
+</div>
+</body>
+</html>
