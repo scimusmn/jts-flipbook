@@ -97,6 +97,8 @@ button:focus{
   text-align: center;
   background-color: #000;
 
+  pointer-events:none;
+
 }
 
 .dots .dot-item{
