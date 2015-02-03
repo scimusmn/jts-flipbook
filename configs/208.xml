@@ -30,7 +30,7 @@
             </text>
             <text id="description">
                <en><![CDATA[What do you wear to a place with extreme temperatures, dangerous radiation, meteoroids, and no atmosphere? A human-sized and human-shaped spacecraft: the space suit.]]></en>
-               <es><![CDATA[¿Qué se pondría uno para ir a un lugar de temperaturas extremas, de radiación peligrosa, por donde pasan meteoroides y no hay atmósfera? Un traje espacial: una nave espacial de tamaño y forma&nbsp;humana.]]></es>
+               <es><![CDATA[¿Qué se pondría uno para ir a un lugar de temperaturas extremas, de radiación peligrosa, por donde pasan meteoroides y no hay atmósfera? Un traje espacial: <br/>una nave espacial de tamaño <br/>y forma&nbsp;humana.]]></es>
             </text>
          </slide>
          <!-- SLIDE 2 -->
@@ -41,7 +41,7 @@
             </text>
             <text id="description">
                <en><![CDATA[The sunlight in space is so intense that it can cause blindness. To protect astronauts’ eyes, space suit helmets have gold-covered visors—the gold reflects<br />98% of yellow, red, and infrared light.]]></en>
-               <es><![CDATA[La luz del sol es tan intensa en el espacio que puede dejarlo a uno ciego. Para proteger los ojos de los astronautas, los cascos espaciales tienen viseras recubiertas de oro. El oro refleja el 98% de la luz amarilla, roja&nbsp;e&nbsp;infrarroja.]]></es>
+               <es><![CDATA[La luz del sol es tan intensa en el espacio que puede dejarlo a uno ciego. Para proteger los ojos de los astronautas, los cascos espaciales tienen viseras recubiertas de oro. El oro <br/>refleja el 98% de la luz <br/>amarilla, roja&nbsp;e&nbsp;infrarroja.]]></es>
             </text>
          </slide>
          <!-- SLIDE 3 -->
@@ -62,8 +62,8 @@
                <es><![CDATA[Construido para el calor]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[A space suit’s white color reflects some heat, but when a spacewalking astronaut works in sunlight, the surface<br />of her suit still rises<br />to about 250º F.]]></en>
-               <es><![CDATA[El color blanco del traje espacial refleja un poco del calor, pero cuando un astronauta en una caminata espacial trabaja a la luz del sol, la superficie de su traje puede llegar a subir hasta los&nbsp;250º F.]]></es>
+               <en><![CDATA[A space suit’s white color reflects some heat, but when a spacewalking astronaut works in sunlight, the <br/>surface of her suit still <br/>rises to about 250º F.]]></en>
+               <es><![CDATA[El color blanco del traje <br/>espacial refleja un poco del calor, pero cuando un astronauta en una caminata espacial <br/>trabaja a la luz del sol, la <br/>superficie de su traje <br/>puede llegar a subir hasta <br/>los&nbsp;250º F.]]></es>
             </text>
          </slide>
          <!-- SLIDE 5 -->
@@ -84,8 +84,8 @@
                <es><![CDATA[<br/><br/>La presión es necesaria]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[On Earth, the air around us doesn’t just provide oxygen; it also provides air pressure. Without air pressure on our bodies, we’d die.]]></en>
-               <es><![CDATA[En la Tierra, el aire a nuestro alrededor no sólo nos proporciona oxígeno, sino también presión atmosférica. Nosotros moriríamos sin presión atmosférica en nuestros&nbsp;cuerpos.]]></es>
+               <en><![CDATA[On Earth, the air around us doesn’t just provide oxygen; <br/>it also provides air pressure. Without air pressure on our bodies, we’d die.]]></en>
+               <es><![CDATA[En la Tierra, el aire a nuestro alrededor no sólo nos proporciona oxígeno, sino también presión atmosférica. Nosotros moriríamos <br/>sin presión atmosférica en nuestros&nbsp;cuerpos.]]></es>
             </text>
          </slide>
          <!-- SLIDE 7 -->
@@ -95,8 +95,8 @@
                <es><![CDATA[La atmósfera interna]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[There’s no air in space, so there’s no air pressure. Space suits surround their wearers with oxygen, maintaining pressure at about 1/3<sup>rd</sup> of what we feel on Earth.]]></en>
-               <es><![CDATA[En el espacio no hay aire, por lo tanto tampoco hay presión atmosférica. Los trajes espaciales rodean de oxígeno a quienes los usan, y mantienen la presión aproximadamente a 1/3 de la que experimentamos en la Tierra.]]></es>
+               <en><![CDATA[There’s no air in space, so there’s no air pressure. <br/>Space suits surround their wearers with oxygen, maintaining pressure at <br/>about 1/3<sup>rd</sup> of what we <br/>feel on Earth.]]></en>
+               <es><![CDATA[En el espacio no hay aire, por lo tanto tampoco hay presión atmosférica. Los trajes espaciales rodean de oxígeno a quienes los usan, y mantienen la presión aproximadamente a 1/3 de la que experimentamos <br/>en la Tierra.]]></es>
             </text>
          </slide>
          <!-- SLIDE 8 -->
@@ -106,8 +106,8 @@
                <es><![CDATA[Oxígeno puro]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[On Earth, air is about<br />21% oxygen. The air inside space suits is 100% oxygen, ensuring that astronauts<br />have enough to breathe<br />in the reduced pressure<br />of the suit.]]></en>
-               <es><![CDATA[En la Tierra, el aire es aproximadamente 21% oxígeno. El aire dentro de los trajes espaciales es 100% oxígeno, para estar seguros que los astronautas tienen suficiente aire para respirar en la reducida presión atmosférica del traje.]]></es>
+               <en><![CDATA[On Earth, air is about<br />21% oxygen. The air <br/>inside space suits is <br/>100% oxygen, ensuring <br/>that astronauts have <br/>enough to breathe in <br />the reduced pressure <br/>of the suit.]]></en>
+               <es><![CDATA[En la Tierra, el aire es aproximadamente 21% <br/>oxígeno. El aire dentro <br/>de los trajes espaciales <br/>es 100% oxígeno, para <br/>estar seguros que los <br/>astronautas tienen <br/>suficiente aire para <br/>respirar en la reducida <br/>presión atmosférica <br/>del traje.]]></es>
             </text>
          </slide>
          <!-- SLIDE 9 -->
@@ -118,7 +118,7 @@
             </text>
             <text id="description">
                <en><![CDATA[Carbon dioxide is toxic<br />if you breathe too much<br />of it. To keep astronauts<br />from poisoning themselves with their own breath,<br />space suits have special filters to remove CO<sub>2</sub>.]]></en>
-               <es><![CDATA[El dióxido de carbono es tóxico si uno lo respira en mucha cantidad. Para evitar que los astronautas se envenenen a sí mismos con su propio aire, los trajes espaciales tienen filtros especiales para remover el CO<sub>2</sub>.]]></es>
+               <es><![CDATA[El dióxido de carbono es tóxico <br/>si uno lo respira en mucha cantidad. Para evitar que los astronautas se envenenen a sí mismos con su propio aire, los trajes espaciales tienen filtros especiales para remover el CO<sub>2</sub>.]]></es>
             </text>
          </slide>
           <!-- SLIDE 10 -->
@@ -129,7 +129,7 @@
             </text>
             <text id="description">
                <en><![CDATA[Wearable communication systems, affectionately known as “Snoopy caps,” keep spacewalkers in constant communication<br />with fellow astronauts<br />and Mission Control.]]></en>
-               <es><![CDATA[Los sistemas de comunicación portátiles, que se conocen con el afectuoso nombre de “gorros de Snoopy”,  mantienen a quienes caminan por el espacio en comunicación directa con sus colegas  astronautas y el Centro de Control.]]></es>
+               <es><![CDATA[Los sistemas de comunicación portátiles, que se conocen con el afectuoso nombre de “gorros de Snoopy”,  mantienen a quienes caminan por el espacio en comunicación directa con <br/>sus colegas astronautas y <br/>el Centro de Control.]]></es>
             </text>
          </slide>
           <!-- SLIDE 11 -->
@@ -151,7 +151,7 @@
             </text>
             <text id="description">
                <en><![CDATA[In case astronauts<br/><strong>do</strong> become separated<br />from their spacecraft, they wear emergency jetpacks.<br />The “Simplified Aid for EVA Rescue” (or SAFER) can jet them back to the spacecraft.]]></en>
-               <es><![CDATA[Los astronautas usan unas mochilas propulsoras de emergencia por si llegaran a separarse de su nave espacial.  El <em>“Simplified Aid for EVA Rescue”</em> (o SAFER) (Asistente Simplificado de Rescate para Actividades Extravehiculares) los puede propulsar de regreso a la nave&nbsp;espacial.]]></es>
+               <es><![CDATA[Los astronautas usan unas mochilas propulsoras de emergencia por si llegaran a separarse de su nave espacial.  <br/>El <em>“Simplified Aid for EVA Rescue”</em> (o SAFER) (Asistente Simplificado de Rescate para Actividades Extravehiculares) los puede propulsar de regreso a la nave&nbsp;espacial.]]></es>
             </text>
          </slide>
           <!-- SLIDE 13 -->
@@ -161,8 +161,8 @@
                <es><![CDATA[¿Buzz cuál?]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[Space suit designers are working to create a new space suit for our next destinations in space. Astronauts on Mars or the Moon might wear suits like this one.]]></en>
-               <es><![CDATA[Los diseñadores de trajes espaciales están trabajando en el diseño de un nuevo traje espacial para nuestros próximos destinos en el espacio. Es posible que los astronautas que vayan a Marte o a la Luna usen trajes como éste.]]></es>
+               <en><![CDATA[Space suit designers are working to create a new space suit for our next destinations in space. Astronauts on Mars or <br/>the Moon might wear <br/>suits like this one.]]></en>
+               <es><![CDATA[Los diseñadores de trajes espaciales están trabajando <br/>en el diseño de un nuevo traje espacial para nuestros próximos destinos en el espacio. Es posible que los astronautas que vayan a Marte o a la Luna usen trajes como éste.]]></es>
             </text>
          </slide>
           <!-- SLIDE 14 -->

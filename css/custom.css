@@ -101,7 +101,7 @@ button:focus{
   text-align: center;
   background-color: #000;
 
-  pointer-events:none;
+  /*pointer-events:none;*/
 
 }
 
@@ -209,6 +209,10 @@ div.previous {
 
 .bottom .carousel-caption p {
   width: 42%;
+}
+
+.shrink-text .bottom .carousel-caption p {
+  width: 38%;
 }
 
 .title .carousel-caption {
