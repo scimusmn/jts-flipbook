@@ -20,12 +20,16 @@ body {
   color: #333333;
   background: #000;
 
+  /* disable text highlighting */
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+
+  /* disable touch feedback flash */
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
 
   width: 1024px;
   height: 768px;
