@@ -30,7 +30,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[The International<br />Space Station has<br />several robotic arms<br />and two large cranes.<br />The 58-foot-long<br />Canadarm2 is the<br />Station’s largest<br />robotic arm.]]></en>
-                    <es><![CDATA[La Estación Espacial Internacional tiene varios brazos robóticos y dos grúas grandes. El <em>Canadarm2,</em> de 58 pies de largo, es el brazo robótico más grande de la Estación Espacial Internacional.]]></es>
+                    <es><![CDATA[La Estación Espacial Internacional tiene varios brazos robóticos y dos grúas grandes. <br/>El <em>Canadarm2,</em> de 58 pies de largo, es el brazo robótico más grande de la Estación Espacial Internacional.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 2 -->
@@ -41,7 +41,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Astronauts on the Space Station use robotic arms to dock supply vehicles. Here, the Canadarm2 secures SpaceX’s Dragon capsule.]]></en>
-                    <es><![CDATA[Los astronautas en la Estación Espacial utilizan brazos <br/>robóticos para acoplar los vehículos de provisiones. Aquí, el<br/><em>Canadarm2</em> asegura la cápsula <em>SpaceX Dragon</em>.]]></es>
+                    <es><![CDATA[Los astronautas en la Estación Espacial utilizan brazos <br/>robóticos para acoplar los vehículos de provisiones. <br/>Aquí, el <em>Canadarm2</em> asegura <br/>la cápsula <em>SpaceX Dragon</em>.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 3 -->
@@ -52,7 +52,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Moving around on a spacewalk isn’t easy. Astronauts sometimes hitch rides on the Station’s robotic arms to get from one place to another.]]></en>
-                    <es><![CDATA[Desplazarse durante una caminata espacial no es fácil. Los astronautas a veces se trasladan de un lugar a otro sujetos del brazo robótico<br/>de la Estación.]]></es>
+                    <es><![CDATA[Desplazarse durante una caminata espacial no es fácil. Los astronautas a veces se trasladan de un lugar a otro sujetos del brazo robótico de la Estación.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 4 -->
@@ -62,7 +62,7 @@
                     <es><![CDATA[Un robot práctico]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Dextre, the Space<br />Station’s robotic “hand,”<br />can perform detailed tasks like changing batteries or replacing cameras.]]></en>
+                    <en><![CDATA[Dextre, the Space Station’s robotic “hand,” can perform detailed tasks like <br />changing batteries or replacing cameras.]]></en>
                     <es><![CDATA[<em>Dextre,</em> la “mano” robótica de la Estación Espacial, puede realizar tareas de precisión como cambiar baterías o reemplazar cámaras.]]></es>
                 </text>
             </slide>
@@ -74,7 +74,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[The Canadian five-dollar<br />bill features the Canadarm2 and Dextre robots—both<br />are products of the<br />Canadian Space Agency.]]></en>
-                    <es><![CDATA[El billete canadiense de cinco dólares incluye el <em>Canadarm2</em> y los robots <em>Dextre</em>. Ambos son producidos por la Agencia Espacial Canadiense.]]></es>
+                    <es><![CDATA[El billete canadiense de cinco dólares incluye el <em>Canadarm2</em> <br />y los robots <em>Dextre</em>. Ambos son producidos por la Agencia Espacial Canadiense.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
@@ -85,7 +85,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[One way operators can control Robonaut2 is through <em>telerobotics</em>. A distant telerobotic operator wears a special visor, vest, and gloves to control Robonaut2 with body movements.]]></en>
-                    <es><![CDATA[Una de las maneras en que los operadores pueden controlar el <em>Robonauta2</em> es a través de la telerobótica. Un operador telerobótico a distancia usa un visor, un chaleco y guantes para controlar el <em>Robonauta2</em> con los movimientos de su cuerpo.]]></es>
+                    <es><![CDATA[Una de las maneras en que los operadores pueden controlar el <em>Robonauta2</em> es a través de la <em>telerobótica</em>. Un operador telerobótico a distancia usa un visor, un chaleco y guantes para controlar el <em>Robonauta2</em> con los movimientos de su cuerpo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -95,19 +95,19 @@
                     <es><![CDATA[<em>SPHERES</em>]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Call them “Synchronized Position Hold, Engage, Reorient Experimental Satellites” . . . or just <strong>“SPHERES.”</strong> These free-flying, bowling-ball-sized robots test autonomous spacecraft flight aboard the Space Station.]]></en>
-                    <es><![CDATA[Llámalas “Satélites Experimentales de Posición, Sostenimiento, Encuentro y Reorientación”… o simplemente “SPHERES” <em>(“Synchronized Position Hold, Engage, Reorient Experimental Satellites”).</em> Estos robots del tamaño de una bola de boliche que vuelan solos, ponen a prueba el vuelo autónomo de las naves espaciales a bordo de la Estación&nbsp;Espacial.]]></es>
+                    <en><![CDATA[Call them “Synchronized Position Hold, Engage, Reorient Experimental Satellites” . . . or just <strong>SPHERES.</strong> These free-flying, bowling-ball-sized robots test autonomous spacecraft flight aboard the Space Station.]]></en>
+                    <es><![CDATA[Llámalas “Satélites Experimentales de Posición, Sostenimiento, Encuentro y Reorientación”… o simplemente SPHERES <em>(Synchronized Position Hold, Engage, Reorient Experimental Satellites).</em> Estos robots del tamaño de una bola de boliche que vuelan solos, ponen a prueba el vuelo autónomo de las naves espaciales a bordo de la Estación&nbsp;Espacial.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
             <slide id="slide_8" class="bottom" imgsrc="img/509/08.jpg">
                 <text id="head">
                     <en><![CDATA[<br /><br />Curiosity Rover]]></en>
-                    <es><![CDATA[<br /><br />El <em>Rover Curiosity</em>]]></es>
+                    <es><![CDATA[<br />El <em>Rover Curiosity</em>]]></es>
                 </text>
                 <text id="description">
                     <en><![CDATA[Curiosity began exploring<br />the surface of Mars in 2012.<br />Robotic pioneers are exploring<br />the solar system in advance of<br />the first human visitors.]]></en>
-                    <es><![CDATA[El vehículo Curiosity comenzó a explorar la superficie de Marte en el año 2012. Los pioneros robóticos están explorando el sistema solar antes de que lleguen los primeros visitantes humanos.]]></es>
+                    <es><![CDATA[El vehículo <em>Curiosity</em> comenzó a explorar la superficie de Marte en el año 2012. Los pioneros robóticos están explorando el sistema solar antes de que lleguen los primeros <br/>visitantes humanos.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
@@ -118,7 +118,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Members of NASA’s Desert Research and Technology Studies, the Desert RATS,<br />test new technologies in remote deserts. These vehicles could one day explore the Moon or Mars.]]></en>
-                    <es><![CDATA[Los miembros del grupo de estudios de la NASA conocido como <em>Desert Research and Technology Studies</em> (Estudios de Investigación y Tecnología del Desierto), o RATS del Desierto, ponen a prueba nuevas tecnologías en desiertos remotos. Estos vehículos<br/>podrían algún día explorar la Luna o Marte.]]></es>
+                    <es><![CDATA[Los miembros del grupo de estudios de la NASA conocido como <em>Desert Research and Technology Studies</em> (Estudios <br/>de Investigación y Tecnología <br/>del Desierto), o RATS del Desierto, ponen a prueba <br/>nuevas tecnologías en <br/>desiertos remotos.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 10 -->

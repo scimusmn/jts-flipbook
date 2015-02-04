@@ -95,8 +95,8 @@
                     <es><![CDATA[Trabajo en equipo]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Food scientists develop space foods, nutritional biochemists determine nutritional requirements,<br />and dieticians handle mission menu planning. Astronauts only have to eat it.]]></en>
-                    <es><![CDATA[Los científicos de alimentos desarrollan los alimentos espaciales, los bioquímicos especializados en nutrición establecen los requisitos nutricionales, y los nutricionistas se encargan de planear los menús para las misiones. Los astronautas sólo tienen que&nbsp;comérselos.]]></es>
+                    <en><![CDATA[Food scientists develop <br/>space foods, nutritional biochemists determine nutritional requirements, and dieticians handle mission menu planning. Astronauts only have to eat it.]]></en>
+                    <es><![CDATA[Los científicos de alimentos desarrollan los alimentos espaciales, los bioquímicos especializados en nutrición establecen los requisitos nutricionales, y los nutricionistas se encargan de planear los menús para las misiones. <br/>Los astronautas sólo tienen que&nbsp;comérselos.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->

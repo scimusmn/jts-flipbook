@@ -62,8 +62,8 @@
                     <es><![CDATA[El secreto de la salsa]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Many space meals contain thick, sticky sauce. It keeps food from drifting apart. Plus, who doesn’t like sauce?]]></en>
-                    <es><![CDATA[Muchas de las comidas que se consumen en el espacio contienen salsas gruesas y pegajosas. Éstas sirven para evitar que la comida vuele y se desparrame. Y además, ¿a quién no le gusta la salsa?]]></es>
+                    <en><![CDATA[Many space meals contain thick, sticky sauce. It keeps food from drifting apart. <br />Plus, who doesn’t like sauce?]]></en>
+                    <es><![CDATA[Muchas de las comidas que <br />se consumen en el espacio contienen salsas gruesas y pegajosas. Éstas sirven para evitar que la comida vuele y se desparrame. Y además, ¿a quién no le gusta la salsa?]]></es>
                 </text>
             </slide>
             <!-- SLIDE 5 -->
@@ -74,7 +74,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[In space, Thanksgiving dinner comes in pouches. There’s only one thing missing . . .]]></en>
-                    <es><![CDATA[En el espacio, la comida del Día de Acción de Gracias viene en bolsas. Lo único que hace falta es…]]></es>
+                    <es><![CDATA[En el espacio, la comida del Día de Acción de Gracias viene <br />en bolsas. Lo único que hace falta es…]]></es>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
@@ -85,7 +85,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[A space Thanksgiving has no gravy. Goopy gravy is hard to apply to food in space, and pre-mixing potatoes and gravy ruins their texture!]]></en>
-                    <es><![CDATA[La celebración del Día de Acción de Gracias en el espacio se hace sin gravy. La salsa que conocemos como gravy es imposible de servir allí, y ¡mezclarla de antemano con las papas arruinaría por completo su&nbsp;consistencia!]]></es>
+                    <es><![CDATA[La celebración del Día de Acción de Gracias en el espacio se hace sin <em>gravy</em>. La salsa que conocemos como <em>gravy</em> es imposible de servir allí, y ¡mezclarla de antemano con las papas arruinaría por completo su&nbsp;consistencia!]]></es>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -96,7 +96,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Even though it comes out<br />of a pouch, space food has<br />to look, feel, and taste good. This helps keep astronauts<br />in high spirits.]]></en>
-                    <es><![CDATA[Aun cuando venga empacada en bolsas, la comida espacial debe tener buen aspecto, ser agradable a los sentidos y tener buen sabor. Esto ayuda a mantener a los astronautas de buen ánimo.]]></es>
+                    <es><![CDATA[Aun cuando venga empacada <br/>en bolsas, la comida espacial debe tener buen aspecto, ser agradable a los sentidos y tener buen sabor. Esto ayuda a mantener a los astronautas de buen ánimo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
@@ -107,7 +107,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Astronauts need to eat<br />a healthy, balanced diet. Weightlessness is hard<br />on the body, and<br />astronauts have<br />a big workload.]]></en>
-                    <es><![CDATA[Los astronautas necesitan comer una dieta balanceada y sana. La ingravidez es algo difícil para el cuerpo; además, los astronautas tienen una gran carga de trabajo.]]></es>
+                    <es><![CDATA[Los astronautas necesitan <br />comer una dieta balanceada <br />y sana. La ingravidez es <br />algo difícil para el cuerpo; además, los astronautas <br />tienen una gran carga <br />de trabajo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
@@ -117,8 +117,8 @@
                     <es><![CDATA[<br/><br/>Planear con anticipación]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Imagine a mission to space lasting several years. You <strong>could</strong> pack a lot of food for the trip, but there may be other ways to keep yourself fed.]]></en>
-                    <es><![CDATA[Imagina una misión en el espacio que dure varios años. Uno <strong>podría</strong> empacar un montón de comida para el viaje, pero es posible que existan otras maneras de alimentarse.]]></es>
+                    <en><![CDATA[Imagine a mission to space lasting several years. You could pack a lot of food for the trip, but there may be other ways to keep yourself fed.]]></en>
+                    <es><![CDATA[Imagina una misión en el espacio que dure varios años. Uno podría empacar un montón de comida para el viaje, pero es posible que existan otras maneras de alimentarse.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 10 -->

@@ -40,7 +40,7 @@
                     <es><![CDATA[Bajo el agua]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Part of astronauts’ training takes place in a 6.2-million-gallon pool, where buoyancy simulates weightlessness. They practice moving in space suits, using tools,<br />and dealing with<br />emergency situations.]]></en>
+                    <en><![CDATA[Part of astronauts’ training takes place in a 6.2-million-gallon pool, where buoyancy simulates weightlessness. They practice moving in <br/>space suits, using tools,<br />and dealing with<br />emergency situations.]]></en>
                     <es><![CDATA[Parte del entrenamiento de los astronautas se realiza en  un tanque de 6.2 millones de galones, en donde la flotabilidad simula la ingravidez. Ellos practican cómo moverse con los trajes espaciales, cómo usar las herramientas, y cómo enfrentar situaciones de emergencia.]]></es>
                 </text>
             </slide>
@@ -51,7 +51,7 @@
                     <es><![CDATA[<br /><br /><br/>Algo hace falta…]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Why isn’t this astronaut floating? She’s training on Earth, wearing a practice space suit in a simulated airlock.]]></en>
+                    <en><![CDATA[Why isn’t this astronaut floating? She’s training on Earth, wearing <br/>a practice space suit in a <br/>simulated airlock.]]></en>
                     <es><![CDATA[¿Por qué esta astronauta no está flotando? Porque está entrenando en la Tierra en un compartimento hermético simulado, y tiene puesto un traje espacial de práctica.]]></es>
                 </text>
             </slide>
@@ -84,8 +84,8 @@
                     <es><![CDATA[Venciendo las burbujas en la sangre]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Astronauts breathe pure oxygen while slowly adjusting to their space<br />suits’ air pressure. This rids their bodies of nitrogen, which could form deadly bubbles in their blood<br />(called “the bends”) in the suits’ lower pressure.]]></en>
-                    <es><![CDATA[Los astronautas respiran oxígeno puro mientras se van ajustando lentamente a la presión de aire de sus trajes espaciales. Esto elimina  el nitrógeno de sus cuerpos que puede formar burbujas letales en la sangre (conocidas en inglés como “bends”), debido a la presión reducida en sus trajes espaciales.]]></es>
+                    <en><![CDATA[Astronauts breathe pure oxygen while slowly <br/>adjusting to their space suits’ air pressure. This rids their bodies of nitrogen, which could form deadly <br/>bubbles in their blood <br/>(called “the bends”) in the suits’ lower pressure.]]></en>
+                    <es><![CDATA[Los astronautas respiran oxígeno puro mientras se van ajustando lentamente a la presión de aire de sus trajes espaciales. Esto elimina  el nitrógeno de sus cuerpos que puede formar burbujas letales en la sangre (conocidas en inglés como “<em>bends</em>”), debido a la presión reducida en sus <br/>trajes espaciales.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -96,7 +96,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Before these spacewalkers can open the hatch to space, their crewmates must close the inner door behind them and activate pumps to remove all the air from<br />the airlock.]]></en>
-                    <es><![CDATA[Antes que estos caminantes espaciales puedan abrir la escotilla hacia el espacio, los otros miembros de la tripulación deben cerrar la puerta interna detrás de ellos y encender las bombas para eliminar todo el aire del compartimiento hermético.]]></es>
+                    <es><![CDATA[Antes que estos caminantes espaciales puedan abrir la escotilla hacia el espacio, <br/>los otros miembros de la tripulación deben cerrar la <br/>puerta interna detrás de ellos <br/>y encender las bombas para eliminar todo el aire del <br/>compartimiento hermético.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
@@ -117,8 +117,8 @@
                     <es><![CDATA[Atmósfera personal]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Space suits contain oxygen and provide the air pressure our bodies need. But that<br />air pressure also makes the suit stiff and challenging to move in.]]></en>
-                    <es><![CDATA[Los trajes espaciales contienen oxígeno y proporcionan la presión de aire que nuestros cuerpos requieren, pero esa presión de aire también hace que el traje sea rígido y que moverse dentro de él sea un reto.]]></es>
+                    <en><![CDATA[Space suits contain oxygen and provide the air pressure our bodies need. But that<br />air pressure also makes the suit stiff and challenging <br/>to move in.]]></en>
+                    <es><![CDATA[Los trajes espaciales contienen oxígeno y proporcionan la presión de aire que nuestros cuerpos requieren, pero esa presión de aire también hace <br/>que el traje sea rígido y que moverse dentro de él <br/>sea un reto.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
@@ -150,7 +150,7 @@
                     <es><![CDATA[Concentrados en la tarea]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[During a space walk, every astronaut has a specific “to-do” list.  They know exactly what needs to get done and how to do it.]]></en>
+                    <en><![CDATA[During a space walk, every astronaut has a specific <br/>“to-do” list.  They know exactly what needs to get done and how to do it.]]></en>
                     <es><![CDATA[Durante una caminata espacial, cada astronauta tiene una lista específica de  “cosas por hacer”.  Ellos saben exactamente qué se debe hacer y cómo hacerlo.]]></es>
                 </text>
             </slide>
@@ -161,7 +161,7 @@
                     <es><![CDATA[Un duro día de trabajo]]></es>
                 </text>
                 <text id="description">
-                    <en><![CDATA[There’s a lot of work<br />to do on a spacewalk.<br />Science experiments,<br />repairs, and construction work keep spacewalking astronauts busy for up to eight hours.]]></en>
+                    <en><![CDATA[There’s a lot of work<br />to do on a spacewalk.<br />Science experiments,<br />repairs, and construction <br/>work keep spacewalking astronauts busy for up <br/>to eight hours.]]></en>
                     <es><![CDATA[Hay mucho trabajo por hacer en una caminata espacial. Los experimentos científicos, las reparaciones, y el trabajo de construcción mantienen a los astronautas ocupados durante las caminatas espaciales hasta por períodos de ocho horas.]]></es>
                 </text>
             </slide>
@@ -173,7 +173,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Working in a pressurized space suit is difficult and tiring, but astronauts consider it a huge honor. It’s an experience unlike anything else on—or off—Earth.]]></en>
-                    <es><![CDATA[Hacer el trabajo vistiendo un traje espacial presurizado es algo difícil y fatigante, pero los astronautas lo consideran un gran honor. Es una experiencia como ninguna otra en —o por fuera de — la Tierra.]]></es>
+                    <es><![CDATA[Hacer el trabajo vistiendo un traje espacial presurizado es algo difícil y fatigante, pero los astronautas lo consideran un gran honor. Es una experiencia como ninguna otra en —o por fuera de—la Tierra.]]></es>
                 </text>
             </slide>
         </slides>

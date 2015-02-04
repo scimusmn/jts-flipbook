@@ -52,7 +52,7 @@
             </text>
             <text id="description">
                <en><![CDATA[A transcript from Apollo 10 reveals some of the history<br />of going to the bathroom in space. It’s never been easy, but it has apparently always been funny.]]></en>
-               <es><![CDATA[La transcripción de una conversación en la nave Apolo 10 revela en parte la historia de cómo se va al baño en el espacio. Nunca ha sido una tarea fácil y aparentemente siempre ha tenido su lado gracioso.]]></es>
+               <es><![CDATA[La transcripción de una conversación en la nave <br/>Apolo 10 revela en parte la historia de cómo se va al <br/>baño en el espacio. Nunca ha sido una tarea fácil y aparentemente siempre ha tenido su lado gracioso.]]></es>
             </text>
          </slide>
          <!-- SLIDE 4 -->
@@ -63,7 +63,7 @@
             </text>
             <text id="description">
                <en><![CDATA[A canister beneath the toilet seat stores poop on the International Space Station. Astronauts jettison full canisters in used supply vehicles. The vehicles—and their contents—burn up in our atmosphere.]]></en>
-               <es><![CDATA[En la Estación Espacial Internacional, el popó se almacena en un recipiente debajo de la silla del baño. Los astronautas se deshacen de los botes llenos en vehículos de provisiones ya usados. Los vehículos —y su contenido— se queman en la atmósfera.]]></es>
+               <es><![CDATA[En la Estación Espacial Internacional, el popó se almacena en un recipiente debajo de la silla del baño. <br/>Los astronautas se deshacen de los botes llenos en vehículos de provisiones ya usados. Los vehículos —y su contenido— se queman en la atmósfera.]]></es>
             </text>
          </slide>
          <!-- SLIDE 5 -->
@@ -73,15 +73,15 @@
                <es><![CDATA[Buena puntería]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[Pooping into a space toilet requires careful aim. Astronauts use this training toilet on Earth to practice lining up their parts<br />with its parts.]]></en>
-               <es><![CDATA[Ir al baño en el espacio requiere de buena puntería. Los astronautas utilizan este inodoro aquí en la Tierra, para practicar cómo alinear su cuerpo con las partes de éste.]]></es>
+               <en><![CDATA[Pooping into a space toilet requires careful aim. Astronauts use this training toilet on Earth to practice lining up their parts with its&nbsp;parts.]]></en>
+               <es><![CDATA[Ir al baño en el espacio requiere de buena puntería. <br/>Los astronautas utilizan este inodoro aquí en la Tierra, para practicar cómo alinear su cuerpo con las partes de éste.]]></es>
             </text>
          </slide>
          <!-- SLIDE 6 -->
          <slide id="slide_6" class="bottom" imgsrc="img/404/06.jpg">
             <text id="head">
-               <en><![CDATA[<br /><br /><br />The circle of life]]></en>
-               <es><![CDATA[<br /><br /><br />El círculo de la vida]]></es>
+               <en><![CDATA[<br /><br />The circle of life]]></en>
+               <es><![CDATA[<br /><br />El círculo de la vida]]></es>
             </text>
             <text id="description">
                <en><![CDATA[Equipment on the Space Station recycles astronauts’ urine, turning it back into astronauts’ drinking water.]]></en>
@@ -95,7 +95,7 @@
                <es><![CDATA[Emergencias relacionadas con ir al baño]]></es>
             </text>
             <text id="description">
-               <en><![CDATA[There are no bathroom breaks during spacewalks, so astronauts wear “Maximum Absorption Garments.” But how does the saying go? “A diaper by any other name . . .”]]></en>
+               <en><![CDATA[There are no bathroom breaks during spacewalks, so astronauts wear “Maximum Absorption Garments.” <br/>But how does the saying go? <br/>“A diaper by any <br/>other name…”]]></en>
                <es><![CDATA[Durante las caminatas espaciales no se hacen pausas para ir al baño, por lo tanto los<br/>astronautas usan “Prendas de Alta Absorción”, o, en otras palabras, pañales…]]></es>
             </text>
          </slide>
