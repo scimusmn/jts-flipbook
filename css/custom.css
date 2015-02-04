@@ -12,6 +12,21 @@
   src: url('../fonts/aller_lt-webfont.ttf');
 }
 
+html {
+
+  /* disable text highlighting */
+  -webkit-touch-callout: none !important;
+  -webkit-user-select: none !important;
+  -khtml-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+
+  /* disable touch feedback flash */
+  -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
+
+}
+
 body {
 
   margin: 0;
@@ -19,17 +34,6 @@ body {
   font-family: "Aller_Lt";
   color: #333333;
   background: #000;
-
-  /* disable text highlighting */
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-
-  /* disable touch feedback flash */
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
 
   width: 1024px;
   height: 768px;
