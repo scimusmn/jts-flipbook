@@ -100,8 +100,7 @@ button:focus{
   height: 42px;
   text-align: center;
   background-color: #000;
-
-  /*pointer-events:none;*/
+  pointer-events:none;
 
 }
 
