@@ -81,11 +81,11 @@
             <slide id="slide_6" class="" imgsrc="img/408-2/06.jpg">
                 <text id="head">
                     <en><![CDATA[Potatoes without gravy?!]]></en>
-                    <es><![CDATA[¡¿Papas sin gravy?!]]></es>
+                    <es><![CDATA[¡¿Papas sin <em>gravy</em>?!]]></es>
                 </text>
                 <text id="description">
                     <en><![CDATA[A space Thanksgiving has no gravy. Goopy gravy is hard to apply to food in space, and pre-mixing potatoes and gravy ruins their texture!]]></en>
-                    <es><![CDATA[La celebración del Día de Acción de Gracias en el espacio se hace sin <em>gravy</em>. La salsa que conocemos como <em>gravy</em> es imposible de servir allí, y ¡mezclarla de antemano con las papas arruinaría por completo su&nbsp;consistencia!]]></es>
+                    <es><![CDATA[La celebración del Día de Acción de Gracias en el espacio se hace sin <em>gravy</em>. Esta salsa pegajosa <br/>es imposible de servir allí,<br/>y ¡mezclarla de antemano <br/>con las papas arruinaría por completo su&nbsp;consistencia!]]></es>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -107,7 +107,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Astronauts need to eat<br />a healthy, balanced diet. Weightlessness is hard<br />on the body, and<br />astronauts have<br />a big workload.]]></en>
-                    <es><![CDATA[Los astronautas necesitan <br />comer una dieta balanceada <br />y sana. La ingravidez es <br />algo difícil para el cuerpo; además, los astronautas <br />tienen una gran carga <br />de trabajo.]]></es>
+                    <es><![CDATA[Los astronautas necesitan <br />comer una dieta <br />balanceada y sana. La <br />ingravidez es algo difícil <br />para el cuerpo; además, <br />los astronautas tienen <br />una gran carga <br />de trabajo.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
