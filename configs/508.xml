@@ -41,7 +41,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[The Russian Soyuz space capsule can carry three crewmembers to and from the Space Station.]]></en>
-                    <es><![CDATA[La cápsula espacial rusa Soyuz puede transportar a tres miembros de la tripulación hacia y desde la Estación Espacial.]]></es>
+                    <es><![CDATA[La cápsula espacial rusa <em>Soyuz</em> puede transportar a tres miembros de la tripulación hacia y desde la Estación Espacial.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 3 -->
@@ -52,7 +52,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Europe’s Automated Transfer Vehicle can carry more<br />than 16,900 pounds of<br />cargo into orbit—about<br />three times Progress’s capacity. It launches<br />on an Ariane 5 rocket.]]></en>
-                    <es><![CDATA[El Vehículo de Transferencia Automatizado europeo o ATV, puede transportar más de 16.900 libras de carga hasta la órbita terrestre, y tiene casi tres veces la capacidad del <em>Progress</em>. Se lanza desde el cohete <em>Ariane&nbsp; &nbsp;5</em>.]]></es>
+                    <es><![CDATA[El Vehículo de Transferencia Automatizado europeo o ATV, puede transportar más de 16.900 libras de carga hasta la órbita terrestre, y tiene casi tres veces la capacidad del <em>Progress</em>. Se lanza desde el cohete <em>Ariane &nbsp;5</em>.]]></es>
                 </text>
             </slide>
             <!-- SLIDE 4 -->
@@ -132,7 +132,7 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[Producing supplies in space could be cheaper than launching them from Earth.<br />In the future, we may mine materials from the Moon, asteroids, or other planets.]]></en>
-                    <es><![CDATA[Producir provisiones en el espacio podría ser menos costoso que lanzarlas desde la Tierra. En el futuro, es probable que se extraigan materiales<br/>de la luna, de los asteroides,<br/>o de otros &nbsp; planetas.]]></es>
+                    <es><![CDATA[Producir provisiones en el espacio podría ser menos costoso que lanzarlas desde la Tierra. En el futuro, es probable que se extraigan materiales<br/>de la luna, de los asteroides,<br/>o de otros &nbsp;planetas.]]></es>
                 </text>
             </slide>
         </slides>
