@@ -7,24 +7,14 @@ This app generates a series of full-screen slides from a configuration file and 
 
 ### iPad Setup
 #### 1. Initial configuration
-* If iPad is fresh out of the box, start with [iPad Configuration Instructions](http://projects.smm.org/atrium/media/node/291625).
+* If iPad is fresh out of the box, start with [Fresh Out of Box Configuration](http://projects.smm.org/atrium/media/node/291625).
 
-#### 2. Install [Kiosk Pro Plus](http://www.kioskproapp.com/)
-* From the App Store on the iPad, search for "Kiosk Pro Plus"
-* If asked to login, use credentials found under "Apple ID - sld.tech" in LastPass
-* You should not have to purchase, simply download from cloud.
+#### 2. Install Kiosk Pro Plus
+* Launch the App Store on the iPad, search for "Kiosk Pro Plus".
+* If asked to login, use LastPass credentials found under "Apple ID - sld.tech".
 
-#### 3. Change iPad Settings.
-* Wi-Fi: **OFF**
-* Bluetooth: **OFF**
-* General > Accessibility > Guided Access: **ON**
-* General > Use Side Switch To: **Mute**
-
-#### 4. Change KioskPro Settings.
-* Homepage: **index.html**
-* Show Bottom Navigation Bar With: **ALL OFF**
-* Idle Time Limit: **0**
-
+#### 3. Change iPad Settings and Kiosk Pro Settings.
+To prepare iPad for kiosk use, use the settings found here: [Best Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
 
 ### Install Flipbook on Ipad
 #### 1. Set configuration path.
