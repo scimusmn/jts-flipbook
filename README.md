@@ -6,19 +6,20 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 ### Hardware Setup
 * If iPad is new, start with [Fresh Out of Box Configuration](http://projects.smm.org/atrium/media/node/291625).
 * Install "Kiosk Pro Plus" from the App Store on the iPad.
-* Use LastPass credentials found under "Apple ID - sld.tech" if prompted by App Store.
-* Ensure iPad and Kiosk Pro settings match these: [Best Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
+* If asked, use LastPass credentials found under "Apple ID - sld.tech".
+* Ensure iPad and Kiosk Pro settings match the [Best Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
 
 ### Install Flipbook Content
-* In the ```index.html``` file, change ```data-config``` to the path of your flipbook xml.
+* Clone this repository into a folder on your computer.
+* Copy the 'img' folder from Shared/Projects/Journey to Space (SPACE)/Multimedia/DigitalFlipbooks/jts-flipbook/img/ into the root folder of the project. 
+* In the ```index.html``` file, change ```data-config``` to the path of the flipbook xml that represents whichever flipbook you want to use.
 
 ```html
 <body data-config="configs/404.xml">
 ```
-* Transfer files to iPad.
-  1. Get [iMazing](http://imazing.com/) software.
-  2. Connect via USB. Select iPad from sidebar. Select Apps > KioskPro.
-  3. Drag files into root KioskPro folder. (index MUST be in root)
+* Transfer files to iPad using [iMazing](http://imazing.com/) software.
+  1. Connect via USB. Select iPad from sidebar. Select Apps > KioskPro.
+  2. Drag files into root KioskPro folder. (index MUST be in root)
 
 * Launch the Flipbook with Guided Access
   1. Launch the Kiosk Pro Plus app.
