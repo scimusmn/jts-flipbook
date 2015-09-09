@@ -11,7 +11,7 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 
 ### Install Flipbook Content
 * Clone this repository into a folder on your computer.
-* Copy the 'img' folder from Shared/Projects/Journey to Space (SPACE)/Multimedia/DigitalFlipbooks/jts-flipbook/img/ into the root folder of the project. 
+* Copy the *img* folder from ```Shared/Projects/Journey to Space (SPACE)/Multimedia/DigitalFlipbooks/jts-flipbook/img/``` into the root folder of the project. 
 * Inside ```index.html```, change ```data-config``` to the path of the flipbook xml that represents whichever flipbook you want to use.
 
 ```html
