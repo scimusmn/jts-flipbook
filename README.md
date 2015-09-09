@@ -23,6 +23,6 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
   2. Drag files into root KioskPro folder. (index.html MUST be in root)
 
 ### Launching Flipbook
-1. Launch the Kiosk Pro Plus app.
-2. Enable Guided Access by Triple-clicking the Home button.
+1. Tap the Kiosk Pro Plus app, which should be configured to show your flipbook.
+2. Enable Guided Access by Triple-pressing the Home button.
 
