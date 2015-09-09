@@ -6,8 +6,8 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 ### Hardware Setup
 * If iPad is new, start with [Fresh Out of Box Configuration](http://projects.smm.org/atrium/media/node/291625).
 * Install "Kiosk Pro Plus" from the App Store on the iPad.
-* If asked to login, use LastPass credentials found under "Apple ID - sld.tech".
-* To prepare for kiosk use, use the settings found here: [Best Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
+* Use LastPass credentials found under "Apple ID - sld.tech" if prompted by App Store.
+* Ensure iPad and Kiosk Pro settings match these: [Best Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
 
 ### Install Flipbook Content
 * In the ```index.html``` file, change ```data-config``` to the path of your flipbook xml.
