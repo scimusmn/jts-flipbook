@@ -10,7 +10,7 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 * Ensure iPad and Kiosk Pro settings match the [Best Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
 
 ### Install Flipbook Content
-* Clone this repository into a folder on your computer.
+* Clone this repository into an empty folder on your computer.
 * Copy the *img* folder from ```Shared/Projects/Journey to Space (SPACE)/Multimedia/DigitalFlipbooks/jts-flipbook/img/``` into the root folder of the project. 
 * Inside ```index.html```, change the ```data-config``` inside the body tag to the path of the flipbook xml that represents whichever flipbook you want to use.
 
