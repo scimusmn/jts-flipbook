@@ -5,6 +5,9 @@ Swipeable slideshow for iPad tablets.
 ### About
 This app generates a series of full-screen slides from a configuration file and linked images. It can be used to make multiple iPad slideshows, each with unique content. See example of the flipbook xml structure in configs directory.
 
+### iPad Configuration
+* If setting up iPad from scratch first complete [iPad Configuration Instructions](http://projects.smm.org/atrium/media/node/291625) on Atrium.
+
 ### Installation
 #### 1. Set configuration path.
 * Edit data-config attribute in index.html.
@@ -13,7 +16,7 @@ This app generates a series of full-screen slides from a configuration file and 
 <body data-config="configs/404.xml">
 ```
 
-#### 2. Install KioskPro on iPad.
+#### 2. Install KioskPro.
 
 * [KioskPro](http://www.kioskproapp.com/)
 
