@@ -1,16 +1,14 @@
 ##Journey to Space - Digital Flip Book
-Swipeable slideshow for iPad tablets.
-
 
 ### About
-This app generates a series of full-screen slides from a configuration file and linked images. It can be used to make multiple iPad slideshows, each with unique content. See example of the flipbook xml structure in configs directory.
+Swipeable slideshow for iPad tablets. This app generates a series of full-screen slides from a configuration file and linked images. It can be used to make multiple iPad slideshows, each with unique content. See examples of the flipbook xml structure in configs directory.
 
 ### iPad Setup
 #### 1. Initial configuration
 * If iPad is fresh out of the box, start with [Fresh Out of Box Configuration](http://projects.smm.org/atrium/media/node/291625).
 
 #### 2. Install Kiosk Pro Plus
-* Launch the App Store on the iPad, search for "Kiosk Pro Plus".
+* Install "Kiosk Pro Plus" from the App Store on the iPad.
 * If asked to login, use LastPass credentials found under "Apple ID - sld.tech".
 
 #### 3. Change iPad Settings and Kiosk Pro Settings.
