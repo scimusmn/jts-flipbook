@@ -18,9 +18,10 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 <body data-config="configs/404.xml">
 ```
 * Transfer files to iPad using [iMazing](http://imazing.com/) software.
-  1. Connect via USB. Select iPad from sidebar. 
-  2. Navigate to Apps > KioskPro.
-  3. Drag all files & folders from your 'jts-flipbook' folder into the KioskPro root folder within iMazing. (index.html MUST be in root)
+  1. Connect iPad to computer via USB. 
+  2. Open iMazing application. Select iPad from sidebar. 
+  3. Navigate to Apps > KioskPro.
+  4. Drag all files & folders from your 'jts-flipbook' folder into the KioskPro root folder within iMazing. (index.html MUST be in root)
   
   ![drag to iMazing gif](docs/drag-to-imazing.gif)
 
