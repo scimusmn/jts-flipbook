@@ -21,6 +21,7 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
   1. Connect via USB. Select iPad from sidebar. 
   2. Navigate to Apps > KioskPro.
   3. Drag all files & folders from your 'jts-flipbook' folder into the KioskPro root folder within iMazing. (index.html MUST be in root)
+  
   ![drag to iMazing gif](docs/drag-to-imazing.gif)
 
 ### Launching Flipbook
