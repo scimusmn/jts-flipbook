@@ -7,7 +7,7 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 * If iPad is new, start with [Fresh Out of Box Configuration](http://projects.smm.org/atrium/media/node/291625).
 * Launch the App Store, search for "Kiosk Pro Plus" and install.
 * If asked, use LastPass credentials found under "Apple ID - sld.tech".
-* Change the iPad and Kiosk Pro settings to match the [Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
+* Update settings to match the [Settings for use with Kiosk Pro Plus](http://projects.smm.org/atrium/media/node/291625). 
 
 ### Install Flipbook Content
 * Clone this repository into a new folder on your Desktop.
