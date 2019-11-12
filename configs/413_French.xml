@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- ======== -->
+    <!-- SETTINGS -->
+    <!-- ======== -->
+    <settings>
+        <setting id="example_setting" value="example_value" />
+    </settings>
+    <!-- ======== -->
+    <!-- LANGUAGE -->
+    <!-- ======== -->
+    <component id="jts_digi_flipbook">
+        <slides>
+            <!-- SLIDE 0 -->
+            <slide id="slide_0" class="video" imgsrc="img/413/00.mp4">
+                <text id="head">
+                    <en> </en>
+                    <es> </es>
+                </text>
+                <text id="description">
+                    <en> </en>
+                    <es> </es>
+                </text>
+            </slide>
+            <!-- SLIDE 1 -->
+            <slide id="slide_1" class="bottom" imgsrc="img/413/01.jpg">
+                <text id="head">
+                    <en><![CDATA[<br /><br /><br />Get rest, stay alert]]></en>
+                    <es><![CDATA[<br /><br /><br />SPANISH WORDS FLAN]]></es>
+                    <fr><![CDATA[<br /><br /><br />FRENCH WORDS BAGUETTE]]></fr>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Sleep is important. You don’t want a drowsy, irritable <br />astronaut at the controls <br />of a spacecraft.]]></en>
+                    <es><![CDATA[Dormir es importante. Lo que menos quiere uno es un astronauta somnoliento y malhumorado encargado de los controles de la&nbsp;nave&nbsp;espacial.]]></es>
+                    <fr><![CDATA[France is the best]]></fr>
+                </text>
+            </slide>
+            <!-- SLIDE 2 -->
+            <slide id="slide_2" class="" imgsrc="img/413/02.jpg">
+                <text id="head">
+                    <en><![CDATA[Burning both ends]]></en>
+                    <es><![CDATA[De sol a sol]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Like many of us, astronauts don’t get quite as much<br />sleep as they should. <br/>Work, excitement, and <br/>motion sickness can cut <br/>hours from their scheduled eight hours of sleep.]]></en>
+                    <es><![CDATA[Como muchos de nosotros, <br/>los astronautas no duermen lo suficiente. El trabajo, las emociones y el mareo pueden reducir las ocho horas de sueño&nbsp;programadas.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 3 -->
+            <slide id="slide_3" class="" imgsrc="img/413/03.jpg">
+                <text id="head">
+                    <en><![CDATA[16 days a day]]></en>
+                    <es><![CDATA[16 días en un solo día]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Even though astronauts<br />on the International Space Station spend most of their time in artificial light,<br />the 90-minute day/night cycle makes sleeping tough.]]></en>
+                    <es><![CDATA[Aun cuando los astronautas a bordo de la Estación Espacial Internacional pasan la mayor parte del tiempo bajo luz artificial, el ciclo día/noche de <br/>90 minutos hace que les cueste trabajo dormir.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 4 -->
+            <slide id="slide_4" class="" imgsrc="img/413/04.jpg">
+                <text id="head">
+                    <en><![CDATA[Downtime]]></en>
+                    <es><![CDATA[Momento de <br/>descanso]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[While off-duty, your sleep station is a place where you can get some time alone.<br />This astronaut is doing<br />some sewing.]]></en>
+                    <es><![CDATA[Cuando los astronautas tienen tiempo libre, la cabina donde duermen es un lugar en el que pueden pasar tiempo a solas. Esta astronauta se dedica a coser.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 5 -->
+            <slide id="slide_5" class="" imgsrc="img/413/05.jpg">
+                <text id="head">
+                    <en><![CDATA[A <strong>little</strong> privacy]]></en>
+                    <es><![CDATA[Un <strong>poquito</strong> de privacidad]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[This cosmonaut is using<br />his computer in his sleep station. Your station makes<br />a cramped workspace, <br/>but at least no one can <br/>read over your shoulder.]]></en>
+                    <es><![CDATA[Este cosmonauta está utilizando su computador en la cabina donde duerme. Es un lugar estrecho para trabajar, pero <br/>al menos nadie puede leer <br/>por encima del hombro lo <br/>que uno&nbsp;escribe.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 6 -->
+            <slide id="slide_6" class="bottom" imgsrc="img/413/06.jpg">
+                <text id="head">
+                    <en><![CDATA[<br /><br />Curl up and fly]]></en>
+                    <es><![CDATA[<br /><br />Enroscarse y volar]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[In space, a sleeping body<br />doesn’t lie flat. Astronauts strap themselves down before bed, and let their arms curl comfortably as they rest.]]></en>
+                    <es><![CDATA[En el espacio, uno no se estira para dormir. Los astronautas se sujetan a sí mismos con una correa antes de acostarse, y dejan que sus brazos<br/>se enrosquen cómodamente mientras descansan.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 7 -->
+            <slide id="slide_7" class="" imgsrc="img/413/07.jpg">
+                <text id="head">
+                    <en><![CDATA[Artificial gravity?]]></en>
+                    <es><![CDATA[¿Gravedad artificial?]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[By spinning part of a spacecraft like a carnival ride, engineers could create an area of artificial gravity. Astronauts could sleep and exercise better on the spinning “walls.”]]></en>
+                    <es><![CDATA[Al hacer girar parte de la nave espacial como una atracción mecánica, los ingenieros pudieron crear un área de gravedad artificial. Los astronautas duermen mejor <br/>y hacen ejercicio más <br/>fácilmente dentro de las “paredes” giratorias.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 8 -->
+            <slide id="slide_8" class="" imgsrc="img/413/08.jpg">
+                <text id="head">
+                    <en><![CDATA[A spinning city]]></en>
+                    <es><![CDATA[Una ciudad giratoria]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Artists imagine space colonies that constantly spin to create the effect of gravity. You wouldn’t float in this colony—working and sleeping would feel<br />more normal.]]></en>
+                    <es><![CDATA[Algunos artistas imaginan colonias  en el espacio que giran constantemente para crear el efecto de la gravedad. Uno no flotaría en esta colonia. <br/>Trabajar y dormir serían actividades más normales.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 9 -->
+            <slide id="slide_9" class="" imgsrc="img/413/09.jpg">
+                <text id="head">
+                    <en><![CDATA[Sleeping any which way]]></en>
+                    <es><![CDATA[Dormir como sea posible]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Three astronauts tuck themselves into their sleep stations. With no real “up” or “down” in space, sleeping on the ceiling is just fine.]]></en>
+                    <es><![CDATA[Tres astronautas se acurrucan en las estaciones donde duermen. Sin existir un verdadero lado de “arriba” o  de “abajo” en el espacio, dormir en el techo no <br/>es algo fuera de lo común.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 10 -->
+            <slide id="slide_10" class="" imgsrc="img/413/10.jpg">
+                <text id="head">
+                    <en><![CDATA[The science of sleep]]></en>
+                    <es><![CDATA[La ciencia del sueño]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Researchers study<br />astronauts’ sleep<br />patterns. Understanding<br />the challenges of sleeping<br />in space will help us stay healthy on long-<br />duration missions.]]></en>
+                    <es><![CDATA[Los investigadores estudian los patrones de sueño de los astronautas. Comprender los retos de dormir en el espacio <br/>nos ayudará a mantenernos saludables durante las misiones&nbsp;largas.]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 11 -->
+            <slide id="slide_11" class="bottom" imgsrc="img/413/11.jpg">
+                <text id="head">
+                    <en><![CDATA[<br /><br />Sleeping through stress]]></en>
+                    <es><![CDATA[<br /><br />Dormir a pesar del estrés]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[A long mission—like a multi-year trip to Mars—would be stressful. Hard work. Monotony. Danger. Tight quarters. How would<br />you sleep?]]></en>
+                    <es><![CDATA[Una misión larga —como un viaje de muchos años a Marte— sería estresante. Implica trabajo duro, monotonía, peligros y acomodaciones estrechas.<br/>¿Cómo dormirías tú?]]></es>
+                </text>
+            </slide>
+            <!-- SLIDE 12 -->
+            <slide id="slide_12" class="" imgsrc="img/413/12.jpg">
+                <text id="head">
+                    <en><![CDATA[Commander Van Winkle]]></en>
+                    <es><![CDATA[El Comandante Van Winkle]]></es>
+                </text>
+                <text id="description">
+                    <en><![CDATA[Scientists are studying whether astronauts <br />could sleep through long voyages. Putting a crew into hibernation for months at a time would save energy, <br />food, and water. And it <br />sounds relaxing.]]></en>
+                    <es><![CDATA[Los científicos están investigando si los astronautas podrían dormir durante el tiempo que duran los viajes largos. Lograr que una tripulación hiberne durante meses seguidos ayudaría a ahorrar energía, alimentos y agua. Y además parece algo relajante.]]></es>
+                </text>
+            </slide>
+        </slides>
+    </component>
+</config>

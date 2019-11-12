@@ -2,12 +2,26 @@
 var configXML = {};
 var language = '';
 var translateElements = [];
+var secondaryLanguage;
+var secondaryLanguageLabel;
 
 $(document).ready( function(){
 
 	//Check for 'dc' query string. If none, use 'data-config' attribute on body tag.
 	var configPath = getParameterByName('dc');
 	if(!configPath) configPath = $('[data-config]').first().attr('data-config');
+
+	//Check for 'sl' query string. If none, use 'second-language' attribute on body tag.
+	secondaryLanguage = getParameterByName('sl');
+	if(!secondaryLanguage) secondaryLanguage = $('[secondary-language]').first().attr('secondary-language');
+	if(!secondaryLanguage) secondaryLanguage = 'es'; // Default to espanol
+	console.log('secondaryLanguage set:', secondaryLanguage);
+
+	//Check for 'sll' query string. If none, use 'second-language-label' attribute on body tag.
+	secondaryLanguageLabel = getParameterByName('sll');
+	if(!secondaryLanguageLabel) secondaryLanguageLabel = $('[secondary-language-label]').first().attr('secondary-language-label');
+	if(!secondaryLanguageLabel) secondaryLanguageLabel = 'Español'; // Default to espanol
+	console.log('secondaryLanguageLabel set:', secondaryLanguageLabel);
 
 	//Load XML
 	$.ajax({
@@ -136,7 +150,7 @@ $(document).ready( function(){
 
 			//Retrieve text from xml
 			var englishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( 'en' ).first().text();
-			var spanishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( 'es' ).first().text();
+			var spanishTranslation = $( configXML ).find('slide[id="'+ $(this).parents(".slide").first().attr('id') +'"] text[id="'+ $(this).attr('id') +'"]').children( secondaryLanguage ).first().text();
 
 			if (englishTranslation == '' || spanishTranslation == '' ) return;
 
@@ -149,9 +163,9 @@ $(document).ready( function(){
 
     		if ( language == 'en' ) {
 
-    			changeLanguage('es');
+    			changeLanguage(secondaryLanguage);
 
-    		} else if( language == 'es') {
+    		} else if( language == secondaryLanguage) {
 
     			changeLanguage('en');
 
@@ -167,13 +181,14 @@ function changeLanguage( languageKey ) {
 
 	language = languageKey;
 
-	if ( language == 'es' ) {
+	if ( language == secondaryLanguage ) {
 
 		$("#language-text").html("English").removeClass('highlight');
 
 	} else if( language == 'en') {
 
-		$("#language-text").html("Español").addClass('highlight');
+		console.log('secondaryLanguageLabel', secondaryLanguageLabel);
+		$("#language-text").html(secondaryLanguageLabel).addClass('highlight');
 
 	}
 
@@ -187,7 +202,7 @@ function changeLanguage( languageKey ) {
 
 		});
 
-		if ( language == 'es' ) {
+		if ( language == secondaryLanguage ) {
 
 			$(".my-gallery").addClass('shrink-text');
 
