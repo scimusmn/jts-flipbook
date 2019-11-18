@@ -1,4 +1,4 @@
-##Journey to Space - Digital Flip Book
+## Journey to Space - Digital Flip Book
 
 ### About
 Swipeable slideshow for iPad tablets. This app generates a series of full-screen slides from a configuration file and linked images. It can be used to make multiple iPad slideshows, each with unique content. See examples of the flipbook xml structure in configs directory.
@@ -17,6 +17,14 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 ```html
 <body data-config="configs/404.xml">
 ```
+
+#### Set secondary language to French (Optional)
+* Inside ```index.html```, add (or edit) a ```secondary-language``` and ```secondary-language-label``` property in the body tag. These default to Español (es) when omitted. The first controls which key is targeted in the config files, and the second sets the button label.
+
+```html
+<body data-config="configs/404.xml" secondary-language="fr" secondary-language-label="Français">
+```
+
 * Transfer files to iPad using [iMazing](http://imazing.com/) software.
   1. Connect iPad to computer via USB. 
   2. Open iMazing application. Select iPad from sidebar. 
