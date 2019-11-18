@@ -18,8 +18,8 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 <body data-config="configs/404.xml">
 ```
 
-#### Set secondary language to French (Optional)
-* Inside ```index.html```, add (or edit) a ```secondary-language``` and ```secondary-language-label``` property in the body tag. These default to Español (es) when omitted. The first controls which key is targeted in the config files, and the second sets the button label.
+#### French Mode (Optional)
+* In the same ```index.html``` body tag, add (or edit) a ```secondary-language``` and ```secondary-language-label``` property. These default to Español (es) when omitted. These control which key is targeted in the config files, and the label of the language toggle button.
 
 ```html
 <body data-config="configs/404.xml" secondary-language="fr" secondary-language-label="Français">
