@@ -25,7 +25,7 @@ Swipeable slideshow for iPad tablets. This app generates a series of full-screen
 <body data-config="configs/404.xml" secondary-language="fr" secondary-language-label="Français">
 ```
 
-The equivalent can be achieved using URL query params, which will override html properties:
+The equivalent can be achieved using URL query params:
 ```
 index.html?dc=configs/404.xml&sl=fr&sll=Français
 ```
