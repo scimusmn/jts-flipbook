@@ -15,13 +15,11 @@ $(document).ready( function(){
 	secondaryLanguage = getParameterByName('sl');
 	if(!secondaryLanguage) secondaryLanguage = $('[secondary-language]').first().attr('secondary-language');
 	if(!secondaryLanguage) secondaryLanguage = 'es'; // Default to espanol
-	console.log('secondaryLanguage set:', secondaryLanguage);
 
 	//Check for 'sll' query string. If none, use 'second-language-label' attribute on body tag.
 	secondaryLanguageLabel = getParameterByName('sll');
 	if(!secondaryLanguageLabel) secondaryLanguageLabel = $('[secondary-language-label]').first().attr('secondary-language-label');
 	if(!secondaryLanguageLabel) secondaryLanguageLabel = 'Español'; // Default to espanol
-	console.log('secondaryLanguageLabel set:', secondaryLanguageLabel);
 
 	//Load XML
 	$.ajax({
