@@ -34,7 +34,7 @@
                 <text id="description">
                     <en><![CDATA[This unpiloted Russian spacecraft, launched atop<br />a Soyuz rocket, regularly carries food, equipment,<br />and supplies—but not<br />people—to the International Space Station.]]></en>
                     <es><![CDATA[Esta nave espacial rusa sin piloto, lanzada desde la parte alta de un cohete <em>Soyuz<em/>, regularmente transporta alimentos, equipos y provisiones—pero no lleva personas—a la Estación<br/>Espacial Internacional.]]></es>
-                    <fr><![CDATA[Ce vaisseau spatial russe sans pilote, lancé sur une fusée Soyouz, apporte régulièrement de la nourriture, de l’équipement et des fournitures à la Station spatiale internationale. Mais il n’est jamais habité.]]></fr>
+                    <fr><![CDATA[Cet engin spatial russe sans pilote, lancé sur une fusée Soyouz, apporte régulièrement de la nourriture, de l’équipement et des fournitures à la Station spatiale internationale. Mais il n’est jamais habité.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 2 -->
@@ -47,7 +47,7 @@
                 <text id="description">
                     <en><![CDATA[The Russian Soyuz space capsule can carry three crewmembers to and from the Space Station.]]></en>
                     <es><![CDATA[La cápsula espacial rusa <em>Soyuz</em> puede transportar a tres miembros de la tripulación hacia y desde la Estación Espacial.]]></es>
-                    <fr><![CDATA[La capsule russe Soyouz peut transporter trois membres d’équipage vers la Station spatiale… puis les ramener sur Terre.]]></fr>
+                    <fr><![CDATA[La capsule russe Soyouz peut transporter trois membres d’équipage vers la Station spatiale… puis les ramener<br/>sur Terre.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 3 -->
@@ -60,7 +60,7 @@
                 <text id="description">
                     <en><![CDATA[Europe’s Automated Transfer Vehicle can carry more<br />than 16,900 pounds of<br />cargo into orbit—about<br />three times Progress’s capacity. It launches<br />on an Ariane 5 rocket.]]></en>
                     <es><![CDATA[El Vehículo de Transferencia Automatizado europeo o ATV, puede transportar más de 16.900 libras de carga hasta la órbita terrestre, y tiene casi tres veces la capacidad del <em>Progress</em>. Se lanza desde el cohete <em>Ariane &nbsp;5</em>.]]></es>
-                    <fr><![CDATA[Le Véhicule automatique de transfert européen peut transporter plus de 7600 kg de matériel en orbite, soit environ trois fois la capacité de Progress. Il est lancé sur une fusée Ariane 5.]]></fr>
+                    <fr><![CDATA[Le Véhicule automatique de transfert européen peut transporter plus de 7600 kg de matériel en orbite, soit environ trois fois la capacité de Progress. Il est lancé sur une<br/>fusée Ariane 5.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 4 -->
@@ -86,7 +86,7 @@
                 <text id="description">
                     <en><![CDATA[Orbital Sciences’ cargo-carrying Cygnus spacecraft launches atop an Antares rocket. Under a NASA contract, Orbital Sciences<br />will deliver at least 20 tons<br />of cargo to the ISS.]]></en>
                     <es><![CDATA[La nave espacial <em>Cygnus</em> de la empresa <em>Orbital Sciences</em> transporta carga y se lanza desde la parte alta del cohete <em>Antares</em>. Bajo contrato con la NASA, <em>Orbital Sciences</em> transportará al menos 20 toneladas de carga a la Estación Espacial Internacional.]]></es>
-                    <fr><![CDATA[Le vaisseau spatial de charge Cygnus d’Orbital Sciences est lancé par une fusée Antares. Sous contrat avec la NASA, Orbital Sciences livrera au moins 20 tonnes de marchandises à la SSI.]]></fr>
+                    <fr><![CDATA[Le vaisseau-cargo Cygnus d’Orbital Sciences est lancé par une fusée Antares. Sous contrat avec la NASA, Orbital Sciences livrera au moins 20 tonnes de marchandisesà la SSI.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
@@ -98,11 +98,11 @@
                 </text>
                 <text id="description">
                     <en><![CDATA[
-                        Designed, built, and launched in Japan, the HTV (also called <em>Kounotori,</em>
+                        Designed, built, and launched in Japan, the HTV (also called <em>Kounotori</em>,
                         or “white stork”) can deliver more than 12,000 pounds of cargo to the International Space Station.
                     ]]></en>
                     <es><![CDATA[Diseñado, construido y lanzado en el Japón, el HTV (conocido también como <em>Kounotori</em> o “cigüeña blanca”) puede transportar más de 12.000<br/>libras de carga a la Estación Espacial Internacional.]]></es>
-                    <fr><![CDATA[Conçu, construit et lancé au Japon, le HTV (aussi appelé  Kounotori, ou « grue blanche ») peut livrer plus de 5000 kg de marchandises à la Station spatiale internationale.]]></fr>
+                    <fr><![CDATA[Conçu, construit et lancé au Japon, le HTV (aussi appelé  <em>Kounotori</em>, ou « grue blanche ») peut livrer plus de 5000 kg de marchandises à la Station spatiale internationale.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -123,12 +123,12 @@
                 <text id="head">
                     <en><![CDATA[<br /><br /><br />Teleportation: beam me up]]></en>
                     <es><![CDATA[<br /><br />Teletransporte: teletranspórtame]]></es>
-                    <fr><![CDATA[<br /><br />Téléportation : patience !]]></fr>
+                    <fr><![CDATA[<br /><br />Téléportation : patience&#8202;!]]></fr>
                 </text>
                 <text id="description">
                     <en><![CDATA[<em>Star Trek</em>-style teleportation may be possible theoretically, but the technology is still a long, long, long . . . long way in the future.]]></en>
                     <es><![CDATA[El teletransporte al estilo de <br/><em>Star Trek</em> puede ser teóricamente<br/>posible, pero la tecnología para realizarlo todavía está en un<br/>futuro muy, muy&nbsp; lejano.]]></es>
-                    <fr><![CDATA[Bien qu’elle soit possible en théorie, la téléportation comme on la voit dans Star Trek dépendrait d’une technologie encore très, très loin dans l’avenir.]]></fr>
+                    <fr><![CDATA[Bien qu’elle soit possible en théorie, la téléportation comme on la voit dans <em>Star Trek</em> dépendrait d’une technologie encore très, très loin<br/>dans l’avenir.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
@@ -141,7 +141,7 @@
                 <text id="description">
                     <en><![CDATA[A mass driver launcher would accelerate a magnetically levitated vehicle off the<br />end of a ramp—sort of<br />like a maglev train going<br />off a jump into space.<br />(Which would be awesome.)]]></en>
                     <es><![CDATA[Un propulsor de masa, o <em>mass driver,</em> aceleraría un vehículo de levitación magnética desde el extremo de una rampa, como una especie de tren <em>maglev<em/> dando un salto hacia el espacio. (Lo cual sería extraordinario.)]]></es>
-                    <fr><![CDATA[Un lanceur par catapulte électromagnétique utiliserait une rampe pour propulser dans l’espace un véhicule en lévitation magnétique. Ce serait un peu comme lancer un train à lévitation magnétique en orbite. (Ce qui serait plutôt génial !))]]></fr>
+                    <fr><![CDATA[Un lanceur par catapulte électromagnétique utiliserait une rampe pour propulser dans l’espace un véhicule en lévitation magnétique. Ce serait un peu comme lancer un train à lévitation magnétique en orbite. (Ce qui serait plutôt génial&#8202;!)]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
@@ -154,7 +154,7 @@
                 <text id="description">
                     <en><![CDATA[Producing supplies in space could be cheaper than launching them from Earth.<br />In the future, we may mine materials from the Moon, asteroids, or other planets.]]></en>
                     <es><![CDATA[Producir provisiones en el espacio podría ser menos costoso que lanzarlas desde la Tierra. En el futuro, es probable que se extraigan materiales<br/>de la luna, de los asteroides,<br/>o de otros &nbsp;planetas.]]></es>
-                    <fr><![CDATA[Produire des fournitures dans l’espace pourrait s’avérer moins cher que de les faire parvenir depuis la Terre. Dans l’avenir, nous pourrions extraire des minéraux de la Lune, des astéroïdes ou d’autres planètes.]]></fr>
+                    <fr><![CDATA[Produire des fournitures dans l’espace pourrait s’avérer moins cher que de les faire parvenir depuis la Terre. Dans l’avenir, nous pourrions extraire des minerais de la Lune,<br/>des astéroïdes ou<br/>d’autres planètes.]]></fr>
                 </text>
             </slide>
         </slides>

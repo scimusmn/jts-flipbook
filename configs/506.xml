@@ -29,12 +29,12 @@
                 <text id="head">
                     <en><![CDATA[The right stuff (and training)]]></en>
                     <es><![CDATA[“Las cualidades necesarias”(y la capacitación)]]></es>
-                    <fr><![CDATA[L’étoffe (et l’entraînement) des héros)]]></fr>
+                    <fr><![CDATA[L’étoffe (et l’entraînement) des héros]]></fr>
                 </text>
                 <text id="description">
                     <en><![CDATA[Astronauts must train for hundreds of hours before they ever set foot (or float) outside their spacecraft.]]></en>
                     <es><![CDATA[Los astronautas deben capacitarse durante cientos<br/>de horas antes de poner un<br/>pie (o de flotar) por fuera de su&nbsp;nave&nbsp;espacial.]]></es>
-                    <fr><![CDATA[Les astronautes doivent s’entraîner durant des centaines d’heures avant de pouvoir mettre le pied (ou flotter) hors de leur vaisseau.]]></fr>
+                    <fr><![CDATA[Les astronautes doivent s’entraîner durant des centaines d’heures avant de pouvoir mettre le pied (ou flotter) hors de<br/>leur vaisseau.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 2 -->
@@ -60,7 +60,7 @@
                 <text id="description">
                     <en><![CDATA[Why isn’t this astronaut floating? She’s training on Earth, wearing <br/>a practice space suit in a <br/>simulated airlock.]]></en>
                     <es><![CDATA[¿Por qué esta astronauta no está flotando? Porque está entrenando en la Tierra en un compartimento hermético simulado, y tiene puesto un traje espacial de práctica.]]></es>
-                    <fr><![CDATA[Pourquoi cette astronaute ne flotte-t-elle pas ? Elle s’exerce sur Terre, vêtue d’une combinaison spatiale d’entraînement, dans un sas simulé.]]></fr>
+                    <fr><![CDATA[Pourquoi cette astronaute ne flotte-t-elle pas&#8202;? Elle s’exerce sur Terre, vêtue d’une combinaison spatiale d’entraînement, dans un sas simulé.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 4 -->
@@ -73,7 +73,7 @@
                 <text id="description">
                     <en><![CDATA[In space, astronauts help each other into their suits. Getting dressed for a spacewalk takes about 45 minutes.]]></en>
                     <es><![CDATA[En el espacio, los astronautas se ayudan los unos a los otros a ponerse los trajes espaciales. Vestirse para una caminata espacial toma aproximadamente 45 minutos.]]></es>
-                    <fr><![CDATA[Dans l’espace, les astronautes s’aident les uns les autres à mettre leur combinaison. Il faut environ 45 minutes pour s’habiller en vue d’une sortie spatiale.]]></fr>
+                    <fr><![CDATA[Dans l’espace, les astronautes s’aident les uns les autres à mettre leur combinaison. Il faut environ 45 minutes pour s’habiller en vue d’une<br/>sortie spatiale.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 5 -->
@@ -86,7 +86,7 @@
                 <text id="description">
                     <en><![CDATA[The air pressure inside space suits keeps astronauts alive<br />in the vacuum of space.<br />But to prevent the suits from becoming rigid, the pressure is kept low—much lower than inside spacecraft.]]></en>
                     <es><![CDATA[La presión de aire por dentro de los trajes espaciales es lo que mantiene vivos a los astronautas en el vacío del espacio. Para evitar que los trajes se vuelvan rígidos, la presión se mantiene baja, mucho más baja que dentro de la nave espacial.]]></es>
-                    <fr><![CDATA[C’est la pression d’air à l’intérieur des combinaisons qui garde les astronautes en vie dans le vide de l’espace. Mais pour empêcher que les combinaisons deviennent rigides, la pression y est basse — bien plus basse qu’à l’intérieur du vaisseau spatial.]]></fr>
+                    <fr><![CDATA[C’est la pression d’air à l’intérieur des combinaisons qui garde les astronautes en vie dans le vide de l’espace. Mais pour empêcher que les combinaisons deviennent rigides, la pression y est basse - bien plus basse qu’à l’intérieur du vaisseau spatial.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
@@ -99,7 +99,7 @@
                 <text id="description">
                     <en><![CDATA[Astronauts breathe pure oxygen while slowly <br/>adjusting to their space suits’ air pressure. This rids their bodies of nitrogen, which could form deadly <br/>bubbles in their blood <br/>(called “the bends”) in the suits’ lower pressure.]]></en>
                     <es><![CDATA[Los astronautas respiran oxígeno puro mientras se van ajustando lentamente a la presión de aire de sus trajes espaciales. Esto elimina  el nitrógeno de sus cuerpos que puede formar burbujas letales en la sangre (conocidas en inglés como “<em>bends</em>”), debido a la presión reducida en sus <br/>trajes espaciales.]]></es>
-                    <fr><![CDATA[Pendant qu’ils s’ajustent lentement à la pression d’air de leur combinaison spatiale, les astronautes respirent de l’oxygène pur. Cela leur permet d’évacuer l’azote, qui pourrait former des bulles mortelles dans leur sang (ce qu’on appelle la « maladie des caissons ») à cause de la basse pression de leur combinaison.]]></fr>
+                    <fr><![CDATA[Pendant qu’ils s’ajustent lentement à la pression d’air de leur combinaison spatiale, les astronautes respirent de l’oxygène pur. Cela leur permet d’évacuer l’azote, qui pourrait former des bulles mortelles dans leur sang (ce qu’on appelle la<br/>« maladie des caissons ») à cause de la basse pression<br/>de leur combinaison.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -125,7 +125,7 @@
                 <text id="description">
                     <en><![CDATA[The airlock’s outer hatch opens, and the astronauts are in space! They’ll work among micrometeoroids, extreme temperature shifts, and cosmic radiation . . . just another day at the office.]]></en>
                     <es><![CDATA[La escotilla exterior del compartimento hermético se abre, ¡los astronautas están en el espacio! Ellos trabajarán en medio de micro meteoritos, cambios extremos de temperatura y radiación cósmica… es sólo otro día de&nbsptrabajo.]]></es>
-                    <fr><![CDATA[L’écoutille extérieure du sas s’ouvre, et les astronautes sont dans l’espace ! Ils auront à travailler au milieu des micrométéoroïdes, des changements extrêmes de température et des rayonnements cosmiques… Juste une autre journée au boulot !]]></fr>
+                    <fr><![CDATA[L’écoutille extérieure du sas s’ouvre, et les astronautes sont dans l’espace&#8202;! Ils auront à travailler au milieu des micrométéoroïdes, des changements extrêmes de température et des rayonnements cosmiques… Juste une autre journée au boulot&#8202;!]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 9 -->
@@ -138,7 +138,7 @@
                 <text id="description">
                     <en><![CDATA[Space suits contain oxygen and provide the air pressure our bodies need. But that<br />air pressure also makes the suit stiff and challenging <br/>to move in.]]></en>
                     <es><![CDATA[Los trajes espaciales contienen oxígeno y proporcionan la presión de aire que nuestros cuerpos requieren, pero esa presión de aire también hace <br/>que el traje sea rígido y que moverse dentro de él <br/>sea un reto.]]></es>
-                    <fr><![CDATA[La combinaison spatiale contient de l’oxygène et fournit la pression d’air dont le corps a besoin. Mais cette pression d’air rend également la combinaison rigide et les mouvements plus ardus.]]></fr>
+                    <fr><![CDATA[La combinaison spatiale contient de l’oxygène et fournit la pression d’air dont le corps a besoin. Mais cette pression d’air rend également la combinaison rigide et les mouvements<br/>plus ardus.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
@@ -203,7 +203,7 @@
                 <text id="description">
                     <en><![CDATA[Working in a pressurized space suit is difficult and tiring, but astronauts consider it a huge honor. It’s an experience unlike anything else on—or off—Earth.]]></en>
                     <es><![CDATA[Hacer el trabajo vistiendo un traje espacial presurizado es algo difícil y fatigante, pero los astronautas lo consideran un gran honor. Es una experiencia como ninguna otra en —o por fuera de— la Tierra.]]></es>
-                    <fr><![CDATA[Le fait de travailler dans une combinaison spatiale pressurisée est difficile et fatigant, mais les astronautes le voient comme un grand honneur. C’est une expérience pareille à nulle autre sur Terre — ou au-delà.]]></fr>
+                    <fr><![CDATA[Le fait de travailler dans une combinaison spatiale pressurisée est difficile et fatigant, mais les astronautes le voient comme un grand honneur. C’est une expérience pareille à nulle autre sur Terre - ou au-delà.]]></fr>
                 </text>
             </slide>
         </slides>

@@ -34,7 +34,7 @@
                 <text id="description">
                     <en><![CDATA[The International<br />Space Station has<br />several robotic arms<br />and two large cranes.<br />The 58-foot-long<br />Canadarm2 is the<br />Station’s largest<br />robotic arm.]]></en>
                     <es><![CDATA[La Estación Espacial Internacional tiene varios brazos robóticos y dos grúas grandes. <br/>El <em>Canadarm2,</em> de 58 pies de largo, es el brazo robótico más grande de la Estación Espacial Internacional.]]></es>
-                    <fr><![CDATA[La Station spatiale internationale possède plusieurs bras robotisés ainsi que deux grandes grues. À 17 m de long, le Canadarm2 est le plus long bras robotisé de la Station.]]></fr>
+                    <fr><![CDATA[La Station spatiale internationale possède plusieurs bras robotisés ainsi que deux grandes grues. À 17 m de long, le Canadarm2 est le plus long bras robotisé<br/>de la Station.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 2 -->
@@ -55,7 +55,7 @@
                 <text id="head">
                     <en><![CDATA[<br /><br />Astronaut transportation]]></en>
                     <es><![CDATA[<br /><br /><br />Transporte para los astronautas]]></es>
-                    <fr><![CDATA[<br /><br /><br />Le transport des astronautes]]></fr>
+                    <fr><![CDATA[<br /><br />Le transport des astronautes]]></fr>
                 </text>
                 <text id="description">
                     <en><![CDATA[Moving around on a spacewalk isn’t easy. Astronauts sometimes hitch rides on the Station’s robotic arms to get from one place to another.]]></en>
@@ -86,7 +86,7 @@
                 <text id="description">
                     <en><![CDATA[The Canadian five-dollar<br />bill features the Canadarm2 and Dextre robots—both<br />are products of the<br />Canadian Space Agency.]]></en>
                     <es><![CDATA[El billete canadiense de cinco dólares incluye el <em>Canadarm2</em> <br />y los robots <em>Dextre</em>. Ambos son producidos por la Agencia Espacial Canadiense.]]></es>
-                    <fr><![CDATA[Le billet de cinq dollars canadiens est décoré d’illustrations des robots Canadarm2 et Dextre, tous deux réalisés par l’Agence spatiale canadienne.]]></fr>
+                    <fr><![CDATA[Le billet de cinq dollars canadiens est décoré d’illustrations des robots Canadarm2 et Dextre, tous deux réalisés par l’Agence<br/>spatiale canadienne.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 6 -->
@@ -99,7 +99,7 @@
                 <text id="description">
                     <en><![CDATA[One way operators can control Robonaut2 is through <em>telerobotics</em>. A distant telerobotic operator wears a special visor, vest, and gloves to control Robonaut2 with body movements.]]></en>
                     <es><![CDATA[Una de las maneras en que los operadores pueden controlar el <em>Robonauta2</em> es a través de la <em>telerobótica</em>. Un operador telerobótico a distancia usa un visor, un chaleco y guantes para controlar el <em>Robonauta2</em> con los movimientos de su cuerpo.]]></es>
-                    <fr><![CDATA[L’une des façons dont les opérateurs peuvent contrôler Robonaut2, c’est grâce à la télérobotique. Équipé d’une visière, d’une veste et de gants spéciaux, un opérateur télérobotique utilise les mouvements de son corps pour contrôler Robonaut2 à distance.]]></fr>
+                    <fr><![CDATA[L’une des façons dont les opérateurs peuvent contrôler Robonaut2, c’est grâce à la <em>télérobotique</em>. Équipé d’une visière, d’une veste et de gants spéciaux, un opérateur télérobotique utilise les mouvements de son corps pour contrôler Robonaut2<br/>à distance.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 7 -->
@@ -112,7 +112,7 @@
                 <text id="description">
                     <en><![CDATA[Call them “Synchronized Position Hold, Engage, Reorient Experimental Satellites” . . . or just <strong>SPHERES.</strong> These free-flying, bowling-ball-sized robots test autonomous spacecraft flight aboard the Space Station.]]></en>
                     <es><![CDATA[Llámalas “Satélites Experimentales de Posición, Sostenimiento, Encuentro y Reorientación”… o simplemente SPHERES <em>(Synchronized Position Hold, Engage, Reorient Experimental Satellites).</em> Estos robots del tamaño de una bola de boliche que vuelan solos, ponen a prueba el vuelo autónomo de las naves espaciales a bordo de la Estación&nbsp;Espacial.]]></es>
-                    <fr><![CDATA[On les appelle « Synchronized Position Hold, Engage, Reorient Experimental Satellites », ou plus simplement SPHERES. Ces robots volants de la taille d’une boule de quilles testent le vol de vaisseaux spatiaux autonomes à bord de la Station spatiale.]]></fr>
+                    <fr><![CDATA[On les appelle « Synchronized Position Hold, Engage, Reorient Experimental Satellites », ou plus simplement SPHERES. Ces robots volants de la taille d’une boule de quilles testent le vol le vol d’engins spatiaux spatiaux autonomes à bord de la<br/>Station spatiale.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 8 -->
@@ -138,7 +138,7 @@
                 <text id="description">
                     <en><![CDATA[Members of NASA’s Desert Research and Technology Studies, the Desert RATS,<br />test new technologies in remote deserts. These vehicles could one day explore the Moon or Mars.]]></en>
                     <es><![CDATA[Los miembros del grupo de estudios de la NASA conocido como <em>Desert Research and Technology Studies</em>, o RATS del Desierto, ponen a prueba <br/>nuevas tecnologías en <br/>desiertos remotos.]]></es>
-                    <fr><![CDATA[Les membres de la Desert Research and Technology Studies de la NASA, les « RATS du désert », testent les nouvelles technologies dans les déserts lointains. Ces véhicules pourraient un jour explorer la Lune ou Mars.]]></fr>
+                    <fr><![CDATA[Les membres de la <em>Desert Research and Technology Studies</em> de la NASA, les « RATS du<br/>désert », testent les nouvelles technologies dans les déserts lointains. Ces véhicules pourraient un jour explorer la Lune ou Mars.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 10 -->
@@ -151,7 +151,7 @@
                 <text id="description">
                     <en><![CDATA[This towering, 6-legged robotic rover, called ATHLETE, is only a half-scale prototype. Future models could carry habitation modules across the Moon or Mars.]]></en>
                     <es><![CDATA[Este elevado vehículo robótico de 6 patas, llamado <em>ATHLETE</em> (ATLETA), es solo un prototipo a mediana escala. Los modelos futuros podrían transportar módulos habitacionales a través de la Luna o de Marte.]]></es>
-                    <fr><![CDATA[Ce grand rover robotisé à six jambes, nommé ATHLETE, n’est qu’un prototype à demi-échelle. Les modèles à venir pourraient transporter des modules d’habitation sur la Lune ou sur Mars.]]></fr>
+                    <fr><![CDATA[Ce grand rover robotisé à six jambes, nommé ATHLETE, n’est qu’un prototype à demi-échelle. Les modèles à venir pourraient transporter des modules d’habitation sur la Lune<br/>ou sur Mars.]]></fr>
                 </text>
             </slide>
             <!-- SLIDE 11 -->
@@ -159,13 +159,12 @@
                 <text id="head">
                     <en><![CDATA[Robotic companions?]]></en>
                     <es><![CDATA[¿Compañeros robóticos?]]></es>
-                    <fr><![CDATA[Des compagnons robotisés?]]></fr>
+                    <fr><![CDATA[Des compagnons robotisés&#8202;?]]></fr>
                 </text>
                 <text id="description">
-                    <en><![CDATA[Robots will accompany astronauts and explorers wherever they go.<br />Unfortunately, true robotic companions like C-3PO and<br />R2-D2 are still only a fantasy.<br />Oh, dear.
-                    ]]></en>
-                    <es><![CDATA[Los robots acompañarán a los astronautas y a los exploradores adondequiera que vayan. Desafortunadamente, los<br/>verdaderos compañeros<br/>robóticos como el C-3PO<br/>y el R2-D2 son todavía sólo<br/>una fantasía. <em>Oh, dear</em>.]]></es>
-                    <fr><![CDATA[Les robots accompagneront les astronautes et les explorateurs où qu’ils aillent. Malheureusement, les vrais compagnons robotisés comme C-3PO et R2-D2 ne sont encore qu’imaginaires.]]></fr>
+                    <en><![CDATA[Robots will accompany astronauts and explorers wherever they go.<br />Unfortunately, true robotic companions like C-3PO and<br />R2-D2 are still only a fantasy.<br />Oh, dear.]]></en>
+                    <es><![CDATA[Los robots acompañarán a los astronautas y a los exploradores adondequiera que vayan. Desafortunadamente, los verdaderos compañeros<br/>robóticos como el<br/>C-3PO y el R2-D2 son todavía sólo<br/>una fantasía. <em>Oh, dear</em>.]]></es>
+                    <fr><![CDATA[Les robots accompagneront les astronautes et les explorateurs où qu’ils aillent. Malheureusement, les vrais compagnons robotisés comme <br/>C-3PO et R2-D2 ne sont<br/>encore qu’imaginaires.]]></fr>
                 </text>
             </slide>
         </slides>

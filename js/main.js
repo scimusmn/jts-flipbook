@@ -60,6 +60,11 @@ $(document).ready( function(){
 
 			} else {
 
+				// Special language exception
+				if(secondaryLanguage !== 'es') {
+					slideBgSrc = slideBgSrc.replace('.mp4','_fr.mp4');
+				}
+
 				//Video background
 				setupVideoSlide(newSlide, slideId, slideBgSrc);
 
